@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="77ca2d19-d17b-4dfb-9e3e-e7729e59fe4d"/>
+        <meta name="dtb:depth" content="2"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>The Positioning Manual for Technical Firms</text>
+    </docTitle>
+    <navMap>
+      <navPoint id="frontmatter" playOrder="1">
+    <navLabel><text>Frontmatter</text></navLabel>
+    <content src="frontmatter_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Why-Position-Your-Company" playOrder="2">
+    <navLabel><text>Chapter 1: Why Position Your Company?
+</text></navLabel>
+    <content src="Why-Position-Your-Company_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Who-This-Manual-is-For" playOrder="3">
+    <navLabel><text>Chapter 2: Who This Manual is For
+</text></navLabel>
+    <content src="Who-This-Manual-is-For_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Its-Gonna-Hurt" playOrder="4">
+    <navLabel><text>Chapter 3: It’s Gonna Hurt
+</text></navLabel>
+    <content src="Its-Gonna-Hurt_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Positioning-vs-Specialization" playOrder="5">
+    <navLabel><text>Chapter 4: Positioning vs. Specialization
+</text></navLabel>
+    <content src="Positioning-vs-Specialization_fragment.xhtml"/>
+</navPoint>
+<navPoint id="How-Specialization-Creates-Value" playOrder="6">
+    <navLabel><text>Chapter 5: How Specialization Creates Value
+</text></navLabel>
+    <content src="How-Specialization-Creates-Value_fragment.xhtml"/>
+</navPoint>
+<navPoint id="About-the-Business-Value-of-Expertise" playOrder="7">
+    <navLabel><text>Chapter 6: About the Business Value of Expertise
+</text></navLabel>
+    <content src="About-the-Business-Value-of-Expertise_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Superficial-vs-Deep-Specialization" playOrder="8">
+    <navLabel><text>Chapter 7: Superficial vs. Deep Specialization
+</text></navLabel>
+    <content src="Superficial-vs-Deep-Specialization_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Specialization-can-lead-you-to-one-of-5-market-positions" playOrder="9">
+    <navLabel><text>Chapter 8: Specialization Can Lead You to One of 5 Market Positions
+</text></navLabel>
+    <content src="Specialization-can-lead-you-to-one-of-5-market-positions_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Managing-the-Fear" playOrder="10">
+    <navLabel><text>Chapter 9: Managing the Fear
+</text></navLabel>
+    <content src="Managing-the-Fear_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Understanding-the-Timeline" playOrder="11">
+    <navLabel><text>Chapter 10: Understanding the Timeline
+</text></navLabel>
+    <content src="Understanding-the-Timeline_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Risk" playOrder="12">
+    <navLabel><text>Chapter 11: Risk
+</text></navLabel>
+    <content src="Risk_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Making-the-specialization-decision" playOrder="13">
+    <navLabel><text>Chapter 12: Making the Specialization Decision
+</text></navLabel>
+    <content src="Making-the-specialization-decision_fragment.xhtml"/>
+</navPoint>
+<navPoint id="What-you-will-need-to-turn-your-specialization-decision-into-a-strong-market-position" playOrder="14">
+    <navLabel><text>Chapter 13: What You Will Need to Turn Your Specialization Decision Into a Strong Market Position
+</text></navLabel>
+    <content src="What-you-will-need-to-turn-your-specialization-decision-into-a-strong-market-position_fragment.xhtml"/>
+</navPoint>
+<navPoint id="What-you-will-need-to-turn-your-specialization-decision-into-valuable-expertise" playOrder="15">
+    <navLabel><text>Chapter 14: What You Will Need to Turn Your Specialization Decision Into a Valuable Expertise
+</text></navLabel>
+    <content src="What-you-will-need-to-turn-your-specialization-decision-into-valuable-expertise_fragment.xhtml"/>
+</navPoint>
+<navPoint id="Go-Forth-and-Specialize-and-then-grow-that-specialization-seed-into-a-great-market" playOrder="16">
+    <navLabel><text>Chapter 15: Go Forth and Specialize! (And then grow that specialization seed into a great market position!)
+</text></navLabel>
+    <content src="Go-Forth-and-Specialize-and-then-grow-that-specialization-seed-into-a-great-market_fragment.xhtml"/>
+</navPoint>
+    </navMap>
+</ncx>

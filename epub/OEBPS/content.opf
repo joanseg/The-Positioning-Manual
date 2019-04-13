@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package unique-identifier="BookID" version="3.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+      xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title>The Positioning Manual for Technical Firms</dc:title>
+      <dc:language>en</dc:language>
+      <dc:rights>Copyright (c) 2019 Philip Morgan</dc:rights>
+      <dc:creator>Philip Morgan</dc:creator>
+      <dc:publisher>Softcover</dc:publisher>
+      <dc:identifier id="BookID">urn:uuid:77ca2d19-d17b-4dfb-9e3e-e7729e59fe4d</dc:identifier>
+      <meta property="dcterms:modified">2019-02-05T15:02:01Z</meta>
+      <meta name="cover" content="img-cover-jpg"/>
+  </metadata>
+  <manifest>
+      <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="page-template.xpgt" href="styles/page-template.xpgt" media-type="application/vnd.adobe-page-template+xml"/>
+      <item id="pygments.css" href="styles/pygments.css" media-type="text/css"/>
+      <item id="softcover.css" href="styles/softcover.css" media-type="text/css"/>
+      <item id="epub.css" href="styles/epub.css" media-type="text/css"/>
+      <item id="custom.css" href="styles/custom.css" media-type="text/css"/>
+      <item id="custom_epub.css" href="styles/custom_epub.css" media-type="text/css"/>
+      <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+      <item id="frontmatter" href="frontmatter_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Why-Position-Your-Company" href="Why-Position-Your-Company_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Who-This-Manual-is-For" href="Who-This-Manual-is-For_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Its-Gonna-Hurt" href="Its-Gonna-Hurt_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Positioning-vs-Specialization" href="Positioning-vs-Specialization_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="How-Specialization-Creates-Value" href="How-Specialization-Creates-Value_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="About-the-Business-Value-of-Expertise" href="About-the-Business-Value-of-Expertise_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Superficial-vs-Deep-Specialization" href="Superficial-vs-Deep-Specialization_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Specialization-can-lead-you-to-one-of-5-market-positions" href="Specialization-can-lead-you-to-one-of-5-market-positions_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Managing-the-Fear" href="Managing-the-Fear_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Understanding-the-Timeline" href="Understanding-the-Timeline_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Risk" href="Risk_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Making-the-specialization-decision" href="Making-the-specialization-decision_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="What-you-will-need-to-turn-your-specialization-decision-into-a-strong-market-position" href="What-you-will-need-to-turn-your-specialization-decision-into-a-strong-market-position_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="What-you-will-need-to-turn-your-specialization-decision-into-valuable-expertise" href="What-you-will-need-to-turn-your-specialization-decision-into-valuable-expertise_fragment.xhtml" media-type="application/xhtml+xml"/>
+<item id="Go-Forth-and-Specialize-and-then-grow-that-specialization-seed-into-a-great-market" href="Go-Forth-and-Specialize-and-then-grow-that-specialization-seed-into-a-great-market_fragment.xhtml" media-type="application/xhtml+xml"/>
+      <item id="img-79be3a87933d6c926d9c9ebf65b49c69d2244a3a-png" href="images/texmath/79be3a87933d6c926d9c9ebf65b49c69d2244a3a.png" media-type="image/png"/>
+<item id="img-cover-jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no" />
+    <itemref idref="frontmatter"/>
+<itemref idref="Why-Position-Your-Company"/>
+<itemref idref="Who-This-Manual-is-For"/>
+<itemref idref="Its-Gonna-Hurt"/>
+<itemref idref="Positioning-vs-Specialization"/>
+<itemref idref="How-Specialization-Creates-Value"/>
+<itemref idref="About-the-Business-Value-of-Expertise"/>
+<itemref idref="Superficial-vs-Deep-Specialization"/>
+<itemref idref="Specialization-can-lead-you-to-one-of-5-market-positions"/>
+<itemref idref="Managing-the-Fear"/>
+<itemref idref="Understanding-the-Timeline"/>
+<itemref idref="Risk"/>
+<itemref idref="Making-the-specialization-decision"/>
+<itemref idref="What-you-will-need-to-turn-your-specialization-decision-into-a-strong-market-position"/>
+<itemref idref="What-you-will-need-to-turn-your-specialization-decision-into-valuable-expertise"/>
+<itemref idref="Go-Forth-and-Specialize-and-then-grow-that-specialization-seed-into-a-great-market"/>
+  </spine>
+</package>

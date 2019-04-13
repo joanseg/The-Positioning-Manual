@@ -1,0 +1,22 @@
+/* Place custom styles here, scoped by the CSS id '#book' */
+/* To sync up PDF styles, edit custom.sty */
+/* Google for "LaTeX style files" to learn how to use custom.sty */
+
+
+body #book {
+  font-size: 3.5em;
+  margin: 0px auto;
+  max-width: 34em;
+  padding: 1em;
+  color: #333333;
+  background-color: #fefefe;
+  word-wrap: break-word;
+}
+
+@media screen and (min-width: 600px) {
+  body #book {
+	  font-size: 1.3em;
+	  max-width: 40em;
+	  margin:0 auto;
+  }
+}
