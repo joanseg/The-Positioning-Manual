@@ -2,17 +2,17 @@
 
 When I ask you to think of the *best* cloud platform as a service, what company or platform do you think of?
 
-No matter whether you thought of AWS, GCP, Digital Ocean, or one of dozens of other cloud providers, you are responding to that product or company's _reputation_. That reputation may be private to you, or it may be shared among a group of people. Here's what I mean.
+No matter whether you thought of AWS, GCP, Digital Ocean, Rackspace, or one of dozens of other cloud providers, you are responding to that product or company's _reputation_. That reputation may be private to you, or it may be shared among a group of people. This is important, so allow me to elaborate.
 
-There's a product called Zencastr that records podcasts interviews using a browser-based, double-ended approach. Zencastr has a generally positive reputation among the group of podcasters that I am friends with, but I have a very negative view of Zencastr. The product's "private" reputation with me as an individual is in tatters because the product failed me the two times I tried it. That's a 100% failure rate! Others have had different experiences with a more favorable success rate. 
+There's a product called Zencastr that records podcasts interviews using a browser-based, double-ended approach. Zencastr has a generally positive reputation among the group of podcasters that I am friends with, but I have a negative view of Zencastr. The product's "private" reputation with me as an individual is in tatters because the product failed me the two times I tried it. That's a 100% failure rate! Others have had different experiences with a more favorable success rate. 
 
-It's no surprise that I personally dislike Zencastr and avoid using it while others who are demographically similar to me like it and prefer to use it. The product's reputation as it exists inside my mind is not good, while its reputation as it exists inside the mind of my peer group is very different, and much more positive. Same product, multiple reputations. Private vs. shared reputation.
+It's no surprise that I personally dislike Zencastr and avoid using it while others--who are demographically similar to me--like it and prefer to use it. The product's reputation as it exists inside my mind is not good, while its reputation as it exists inside the minds of my peer group is very different, and much more positive. Same product, multiple reputations; private vs. shared reputation.
 
 **A reputation that is similar across a group of people is also known as a *market position*.**
 
-Shall we play a game?
+Let's play a game.
 
-Either physically or mentally, make a dot on the diagram below. Where you place the dot should accurately describe your perception of two product lines. One dot for Apple's products, and another dot for Facebook's products.
+Either physically or mentally, make a dot on the diagram below. Where you place the dot should describe your perception of two company's product lines. One dot for Apple's products, and another dot for Facebook's products.
 
 {TODO:Blank 2x2 matrix with cost on one axis and security on the other}
 
@@ -20,57 +20,65 @@ Show and tell time. How much does your diagram look like mine?
 
 {TODO:My filled-in 2x2}
 
-Just notice how similar or different your placement of Apple and Facebook's dots are to mine. It's not that mine are "right" and yours are or aren't "right". That's not the point here at all, because there is no right or wrong placement of dots. Instead, the dots tell us something about Apple and Facebook's reputations _as they exist inside my mind compared to your mind_.
+Just notice how similar or different your placement of Apple and Facebook's dots are compared to mine. It's not that mine are "right" and yours are or aren't "right". That's not the point here at all, because there is no right or wrong placement of dots. Instead, the dots tell us something about Apple and Facebook's reputations _as they exist inside my mind compared to your mind_.
 
 Let's revisit the Zencaster example. Here's a similar 2x2 matrix showing Zencastr's reputation as it exists in my mind compares to how it exists in the minds of my podcaster friends:
 
 {TODO: 2x2 with value of features on one axis and reliability on the other, with a cluster of dots from my peers in the high value, reasonably reliable quadrant and my lone dot on the high value, low reliability quadrant}
 
-**Generally, the more consistency there is in the placement--or _positioning_--of Apple, Facebook, Zencastr, or any business on a diagram like this, the more widely shared and homogenous that companies reputation--or market position--is.**
+**Generally, the more consistency there is in the placement--or _positioning_--of Apple, Facebook, Zencastr, or any business on a diagram like this, the more homogenous that companies reputation--or market position--is.**
 
-There's a seeming contradiction in this idea of a market position. If we could survey every living human, we would probably find very few businesses with a highly homogenous market position. If we could ask every living human to place Apple and Facebook on our 2x2 matrix, we'd find lots of variances because people have a wide range of preferences and worldview filters. If different people place--or *position*--the same product or company in different positions on this matrix, how can any company have a clearly defined market position? Said differently, how can any company know how its products or services are perceived by the market?
+There's a seeming contradiction at play in this idea of a market position. 
 
-In practice, this is not actually a problem, and it's especially un-problematic for _you_ because most companies--and definitely yours --will _never_ need to be perceived in precisely the same way by every human on the planet. Most small services businesses can get away with the right group of 1,000 to 10,000 people perceiving them the "right" way. Helping that many people perceive you the way you want to be perceived is still no small feat, but it's infinitely more achievable than trying to help every human on the planet perceive you the way you want to be perceived.
+If we could survey every living human, we would probably find very few businesses with a completely homogenous market position. If we could ask every living human to place Apple and Facebook on our 2x2 matrix, we'd find lots of variances because people have a wide range of preferences and worldview filters. 
+
+{illustration showing a 2x2 matrix but with dots scattered all over it with no real clusters anywhere.}
+
+If different people place--or *position*--the same product or company in different positions on this matrix, how can any company have a clearly defined market position? Said differently, how can any company know how its products or services are perceived by the market?
+
+In practice, this is not actually a problem, and it's especially un-problematic for _you_ because most companies--and definitely yours --will _never_ need to be perceived in precisely the same way by every human on the planet. In fact, most small services businesses can get away with the right group of 1,000 to 10,000 people perceiving them the "right" way. Helping that many people perceive you the way you want to be perceived is still no small feat, but it's infinitely more achievable than trying to help every human on the planet perceive you the way you want to be perceived.
 
 **A market position--again, your *reputation*--is how you are perceived by the group of people who need to know about you for your business to thrive.**
 
 This "group of people who need to know about you for your business to thrive" thing is important. We marketers have a shorthand for this: your *target market*.
 
-Lots of us who start out as freelancers and then graduate to consultants or entrepreneurs or agency owners start out with an accidental target market. We don't choose it; we inherit it, and usually we take whatever we can get. Additionally, these initial target markets are a haphazard and heterogenous mixture of our personal network, past clients, friends, and random business associates. They look like a Jackson Pollock painting.
+Lots of us who start out as freelancers and then graduate to consultants or entrepreneurs or agency owners start out with an accidental target market. We don't choose it; we inherit it, and usually we take whatever inherited target market we can get. Additionally, these initial target markets are a haphazard and heterogenous mixture of our personal network, past clients, friends, and random business associates. They look like a Jackson Pollock painting.
 
-Then, we become more intentional and willing to be more disciplined, and that means either sticking with a subset of our initial target market because we have a head start there, or intentionally choosing a different target market because our interest doesn't align with a head start or because we have no head start at all.
+Then our career progresses and we become more intentional and willing to be more disciplined, and that means either sticking with a subset of our initial target market because we have a head start there, or intentionally choosing a different target market either because our interest doesn't align with a head start or because we have no head start at all.
 
-Target market selection is at first very much about finding the right "home" for your skills then later committing to a place where you can cultivate valuable expertise. A supply of water has relatively high value in the desert and relatively lower value in a rain forest. In other words, value is contextual. If you find yourself in a rain forest with a supply of water you want to sell, you can either move to a desert (new target market) or find something else to sell (change your skills, expertise, or packaging of those things). Creating exceptional value is very much about identifying the right *context* within which to create that value.
+A supply of water has relatively high value in the desert and relatively lower value in a rain forest. In other words, value is contextual. If you find yourself in a rain forest with a supply of water you want to sell, you can either move to a desert (new target market) or find something else to sell (change your skills, expertise, or packaging of those things). Creating exceptional value is very much about identifying the right *context* within which to create that value. Target market selection is at first very much about finding the right "home" for your skills then later committing to a place where you can cultivate valuable expertise. All along, it's about finding the right context in which to create value.
 
 Let's review: Your market position is your reputation among a _specific_ group of people. This means you need to make some decisions:
 
 - **How** do you want to be perceived?
 - **Among what group** do you want to be perceived that way?
-- You probably are not currently perceived in the way you'd like to be. So the last question is: **what needs to happen _now_** to create the reputation you want _later_?
+- You probably are not currently perceived in the way you'd like to be. So the last question is: **what needs to happen _now_** to cultivate the reputation you want _over time_?
 
 ** The decision you make *now* in service of *a future reputation* is usually some form of *specialization*.**
 
 If you're reading closely, you'll have noticed that I used the word *positioning* in the title of this book and in some of the previous chapters, but I have not used it in this chapter until now. That's because, strictly speaking, the word "positioning" is a verb. It's a thing you *do*. 
 
-Except when it comes to marketing, that's exactly what it is _not_. A position--or more specifically a *market position*--is not a verb. It is more like a noun. It is a thing that exists in the minds of a group of people. It's a concept, an association, a feeling, or a vivid memory. Those are all nouns, not verbs. Things, not actions.
+Except when it comes to marketing, that's exactly what it is _not_. A position--or more specifically a *market position*--is not a verb. It is more like a noun. It is a thing that exists in the minds of a group of people. It's a concept, an association, a feeling, a mental residue, or a vivid memory. Those are all nouns, not verbs. Things, not actions.
 
 So why is it so commonly said "Company X is positioning itself as {thing}" or, "You need to position your business"?  I'll dive more into this in the next chapter, but for now just know that people mean one of two things when they say "positioning", and you have to dig a little deeper to know which of those two things they mean.
 
-For now, just know that it's a sort of lazy convention within marketing to talk about the process of building a desirable market position (reputation) as "positioning". Even I make this mistake from time to time, despite striving to be accurate in how I speak.
+For now, just know that it's a sort of lazy convention within marketing to talk about the process of building a desirable market position (reputation) as "positioning". Even I make this mistake from time to time, despite striving to be more accurate.
 
 That said, there is a verb that describes exactly what it is you do to build a desirable market position. That verb is "specialize" or "specialization".
 
 ## Specializing is an action
 
-The act of specializing is based on a decision about focus. Where do you want to focus? You could focus on a target market, focus on type of problem you want to solve, focus on a type of change you want to effect, or focus on a specific and possibly unique way of delivering your services.  There really are only about 4 different ways you can focus.
+The act of specializing is based on a decision about focus. Where do you want to focus? You could focus on a target market, focus on type of problem you want to solve, focus on a type of change you want to effect, or focus on a specific and possibly unique way of delivering your services. There really are only about 4 different ways you can focus.
 
-After you've made the decision about where to focus (there will be **much** more about making this decision this later in this book), you apply time and discipline to grow this seed of a decision into a desirable market position. I like this analogy: The decision about how exactly to specialize is the seed, time and discipline are the nourishment that seed needs, and the plant we see growing out of the ground after some time passes is the market position.
+After you've made the decision about where to focus (there will be **much** more about making this decision this later in this book), you apply time and discipline to grow this seed of a decision into a desirable market position. I like this analogy so much I used it for the cover of this book: The decision about how exactly to specialize is the seed, time and discipline are the nourishment that seed needs, and the plant we see growing out of the ground after some time passes is the market position.
 
 {TODO: book cover/theme image shown here}
 
 ## About time
 
-Time is a critical element in cultivating a market position for a services business. You can't create the market position overnight, just like no plant grows from a seed to maturity overnight. The concept of a market position applies to more than just services, it also applies to products and brands. When we look at how services businesses and product businesses cultivate a market position, we see some significant differences, especially as it relates to _time_. Understanding these differences will help you contextualize the various bits of advice about positioning that you'll come across from various sources.
+Time is a critical element in cultivating a market position for a services business. Just like no plant grows from a seed to maturity overnight, you can't create a market position overnight. 
+
+The concept of a market position applies to more than just services, it also applies to products and brands. When we look at how services businesses and product businesses cultivate a market position, we see some significant differences, especially as it relates to _time_. Understanding these differences will help you contextualize the various bits of advice about positioning that you'll come across from various sources.
 
 Product positioning is based on the inherent objective observability of a product, and the ability of advertising to amplify a message about those observable features.
 
@@ -90,7 +98,7 @@ The inherent observability of products means it can be faster and easier to deve
 
 To be fair, some of this also applies at least partially to the world of services. There are "hacks" that can more quickly build your reputation--at least among individuals. Price, visual branding, and certain forms of social proof are three of these "hacks" because they're signals that shortcut some of the normal work or time required for reputation-building. 
 
-In the main, however, a reputation for a services business takes time to build. It's something like a seed for a tree, which will take years to grow into something substantial. Reputations are built over years, not days or weeks (though I scarcely need mention they can be damaged much faster than they can be built). You should plan on 2 to 3 years of focused, disciplined effort to translate a specialization decision into a strong market reputation.
+In the main, however, a reputation for a services business takes time to build. It's like a seed for a tree, which will take years to grow into something substantial, not a tomato plant that can grow to maturity in a few months. Reputations are built over years, not days or weeks (though I scarcely need mention they can be damaged much faster than they can be built). You should plan on 2 to 3 years of focused, disciplined effort to translate a specialization decision into a strong market reputation.
 
 ## Standing on shoulders
 
