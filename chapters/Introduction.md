@@ -2,6 +2,9 @@
 
 I wrote the first version of TPM as an excited evangelist of an idea, and I wrote the second version as a diligent researcher seeking greater insight and fidelity. Now I approach this third version as a more seasoned practitioner, hoping my considerably deeper in-the-trenches experience translates to clearer thinking, better articulation of that thinking, and more practical, nuanced, and useful recommendations.
 
+test
+
+
 The updates to version 3 are numerous:
 
 - Standardized terminology
