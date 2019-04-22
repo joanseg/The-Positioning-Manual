@@ -30,7 +30,7 @@ The two fear management approaches described above come with compromises. This o
 
 I'm not recommending wild or indiscriminate risk-taking. I'm simply recommending you do your homework on how best to specialize (again, Chapter 12 has more on this), gather enough evidence to validate your decision, and then take assertive action on that decision. 
 
-If you're not currently in the position to make this kind of change to your business, of course that's OK. Your focus instead should be taking smaller risks and smaller forms of assertive action, perhaps around increasing rates or profitability.
+If you're not currently in the position to make this kind of change to your business, of course that's OK. Your focus instead should be taking smaller risks and smaller forms of assertive action, perhaps around increasing rates or profitability within your current generalist market position.
 
 ## Suggestions for cultivating courage
 
@@ -75,7 +75,7 @@ Again, nothing is 100% guaranteed, but here's what I've seen regarding the finan
 
 I can think of multiple examples of generalists specializing and working less while generating the same amount of revenue, or working the same amount and generating more revenue. Connie--a self-employed mother of two--cut her workload in half and maintained the same revenue (100% increase in profitability). Val--another self-employed mom--maintained her workload and tripled her revenue (300% increase in profitability).
 
-Professional services firms that squeeze every drop of benefit out of specialization and all the downstream advantages thereof (ability to value price, ability to sell advice rather than or in addition to implementation) can break into the vaunted territory of $400,000 in revenue per full time equivalent (FTE). I'm not saying this is common, and I'm certainly not promising this for you, but it is possible.
+Professional services firms that squeeze every drop of benefit out of specialization and all the downstream advantages thereof (ability to value price, ability to sell advice rather than or in addition to implementation) can break into the vaunted territory of $400,000 in yearly revenue per full time equivalent (FTE). I'm not saying this is common, and I'm certainly not promising this for you, but it is possible.
 
 So run the numbers for yourself. What would a 100% to 300% increase in profitability look like for _your_ business? Get specific about what this would mean for you. Maybe it's one of these:
 
@@ -102,6 +102,6 @@ So, even if you don't specialize, you'll still need to change with the changing 
 
 Compare this cost to whatever you perceive the cost of specializing to be. It might level the playing field, or even tilt it in favor of specializing.
 
-To be clear, I am trying here to make a strong case for specializing and support you the best way a book possibly could, but I'm not trying to "twist your arm" and force you to do it. It's a little bit like getting married or being in a long-term romantic relationship. If you don't fundamentally want to do it, it won't work. Romantic partners and the market can both smell someone who is pretending to want them, and neither of them ultimately react well to that realization.
+To be clear, I _am_ trying here to make a strong case for specializing and support you the best way a book possibly could, but I'm not trying to "twist your arm" and force you to do it. It's a little bit like getting married or being in a long-term romantic relationship. If you don't fundamentally want to do it, it won't work. Romantic partners and the market can both smell someone who is pretending to want them, and neither of them ultimately react well to that realization.
 
 ## Chapter Summary

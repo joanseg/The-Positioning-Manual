@@ -35,7 +35,7 @@ Now if we abstract this, you get the superficial vs. deep specialization distinc
 But when I actually ask my clients why they want to specialize, I get an interesting range of answers. Some specific examples:
 
 - "Just make my marketing easier/better"
-- "Just tell me how to have a pipeline so I'm not hand to mouth"
+- "Just tell me how to build a pipeline of opportunity so I'm not hand to mouth"
 - "I want better clients"
 - "I want to be a powerful expert"
 - "I want to be wealthy"
@@ -105,7 +105,7 @@ If you're pursuing an entrepreneurial thesis, then the above forms of market via
 
 ### 7) Decide
 
-You have enough information to decide now. You don't have enough information to guarantee that the decision will work out well (you can never collect this much information because there are factors that are impossible to predict), but you do have enough information to make an intelligent decision. So decide, dammit!
+You have enough information to decide now. You don't have enough information to guarantee that the decision will work out well (you can never collect this much information because there are factors that are impossible to predict or measure), but you do have enough information to make an intelligent decision. So decide, dammit!
 
 {Upgrade to course offer via "Go Deeper" in-book sales pages. Course is a revised version of SS W1, revised along the lines above. There is no different process, there is only more detail and more hand-holding in the course. And maybe I'll throw in a DiSC profile as part of the price of the course.}
 
