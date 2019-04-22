@@ -5,7 +5,7 @@ about-beta.md
 tableofcontents
 Introduction.md
 mainmatter:
-Why-Position-Your-Company.md
+1-Why-Position-Your-Company.md
 Who-This-Manual-is-For.md
 Its-Gonna-Hurt.md
 Positioning-vs-Specialization.md
