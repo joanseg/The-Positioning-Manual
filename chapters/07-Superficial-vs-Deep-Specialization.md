@@ -10,7 +10,7 @@ Superficial specialization is a marketing tactic, a market research technique, o
 
 Generally, superficial specialization means changing your marketing message to focus on business outcomes or the needs of a specific market vertical or specific type of buyer rather than technical inputs. This change will trickle down into how you talk to clients as well.
 
-You'll still have room to talk about technical inputs, but those get pushed down to the level of a supporting detail in your message. At the headline level, your message becomes one that's focused on business problems and outcomes, contextualized within a particular vertical market or horizontal problem or audience of buyers.
+You'll still have room to talk about technical inputs (your skill, your process, etc.), but those get pushed down to the level of a supporting detail in your message. At the headline level, your message becomes one that's focused on business problems and outcomes, contextualized within a particular vertical market or horizontal problem or audience of buyers.
 
 Superficial specialization might also mean specializing a marketing funnel so it speaks more specifically to a vertical or problem domain. You might have multiple "micro funnels" in place, each with a different flavor of specialization. I worked with a client who used this approach to experimentally identify where he could find the strongest interest in his DevOps consulting services. When he got lukewarm interest in a campaign specialized in migrating away from Heroku but got \~80% open rates on a campaign focused on Kubernetes, it became pretty clear where he could more easily gain attention for his work. Building these two micro-funnels required work, but less work and investment than a "blind pivot" would require.
 
@@ -36,7 +36,14 @@ They start at roughly the same place, but they end up at very different places b
 - If **low risk tolerance and greater business maturity**: validate via superficial, then go deep
 - If **high risk profile**: you've got lots of choices if you're smart about them. High risk profile doesn't mean you are guaranteed to succeed, but it does mean you are less likely to pull back or "flinch" at a critical moment when staying the course instead of flinching is the difference between success and failure.
 
-TODO: Interesting idea: business maturity metric (based on years working for self, number of clients/projects/etc, and any other important factors with some kind of metric to compare against) as a way to think through superficial vs. deep positioning. Back-test this against my clients
+TODO: Interesting idea: business maturity metric (based on years working for self, number of clients/projects/etc, and any other important factors with some kind of metric to compare against) as a way to think through superficial vs. deep positioning. Back-test this against my clients. Markers to measure:
+
+* Breadth across verticals, self-employed or not
+* Depth in a given vertical, self-employed or not
+* Depth in previous client work
+* Ability in lead generation
+* Runway
+* Difficult client situations you've resolved or terminated or otherwise handled, perhaps as a ratio of total clients
 
 ## Chapter Summary
 
