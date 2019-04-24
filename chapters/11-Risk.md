@@ -2,7 +2,7 @@
 
 You probably mis-perceive the risk levels of various activities. Let's look at one manifestation of risk: accidental death. Specifically, the lifetime odds of dying from various causes. 
 
-Which one seems like a more likely cause of death for most people? Unintentional drug poisoning or car crash? How about dying in a fire (literally) vs. dying in a plane crash? I'd bet you guessed wrong on both of those. I would have too if I didn't have these actual numbers from the Insurance Information Institute:
+Which one seems like a more likely cause of death for most people? Unintentional drug poisoning or car crash? How about dying in a fire (literally) vs. dying in a plane crash? I'd bet you guessed wrong on both of those. I would have too if I didn't have these actual numbers from the Insurance Information Institute in front of me:
 
 - **Accidental drug poisoning**: 1 in 70 lifetime odds of dying this way
 - **Motor vehicle accident**: 1 in 102 lifetime odds of dying this way
@@ -11,7 +11,7 @@ Which one seems like a more likely cause of death for most people? Unintentional
 
 --Source: [https://www.iii.org/fact-statistic/facts-statistics-mortality-risk][1]
 
-So, you're more likely to die of accidental drug poisoning than in a car crash, and more likely to die in a fire than in a plane crash! I would have guessed the oppose on each one of those pairs. To me, this points to one simple takeaway: we tend to misunderstand risk! This is because we over-weight factors that aren't correlated with risk (car crashes *look* gruesome while drugs look like clean- small pills or pure liquids), under-weight factors that are, and suffer from all sorts of cognitive biases that interfere with our ability to accurately assess risk (the availability heuristic is one biggie). Let's try to clarify the topic of risk with some important supporting ideas and a self-administered risk assessment that's a simplified version of what I use with my clients.
+So, you're more likely to die of accidental drug poisoning than in a car crash, and more likely to die in a fire than in a plane crash! I would have guessed the oppose on each one of those pairs. This points to one simple takeaway: we tend to misunderstand risk! This is because we over-weight factors that aren't correlated with risk. Car crashes *look* gruesome while drugs look like clean, small pills or pure liquids. We under-weight factors that are correlated with risk, we and suffer from all sorts of cognitive biases that interfere with our ability to accurately assess risk (the availability heuristic is one biggie). Let's try to clarify the topic of risk with some important supporting ideas and a self-administered risk assessment that's a simplified version of what I use with my clients.
 
 I am not a psychologist. I don't even play one on TV. That said, it's useful to think about two ideas that attempt to generalize a basket of personality characteristics and motivations into "types". As with all generalizations, 100% fidelity to individual cases is impossible, so take this with a grain of salt.
 
@@ -19,9 +19,9 @@ I am not a psychologist. I don't even play one on TV. That said, it's useful to 
 
 One useful idea is that we all fall somewhere on a spectrum with "missionaries" on one end and "mercenaries" on the other.
 
-Missionaries are motivated by a sense of purpose that's not fundamentally money-making in nature. Missionaries certainly may find a way to get paid--and perhaps quite well--for pursing their purpose, but that's not what drives them. It might be a desire to change the culture (or some small aspect thereof), it might be a desire to improve things in some specific or far-reaching way, or it might be a desire to build something new they just feel driven to build. 
+Missionaries are motivated by a sense of purpose that's generally not fundamentally money-making in nature. Missionaries certainly may find a way to get paid--and perhaps quite well--for pursing their purpose, but that's not what drives them. It might be a desire to change the culture (or some small aspect thereof), it might be a desire to improve things in some specific or far-reaching way, or it might be a desire to build something new they just feel driven to build. 
 
-This raises the question: if you're a missionary, do you invent your mission or does it find you? What I've seen is that they're both common, and neither is inherently superior or more effective.
+This raises the question: if you're a missionary, do you invent/choose your mission or does it find you? What I've seen is that they're both common, and neither is inherently superior or more effective.
 
 Mercenaries are in it for the money. This blunt description might seem like a dismissal but it's not. It's just that mercenaries are simple to describe. :)
 
@@ -29,7 +29,9 @@ Now obviously, even if human behavior was simple enough to describe with this mi
 
 That said, when I ask coaching clients to place themselves somewhere on this missionary-mercenary spectrum, almost everybody has an easy time doing so. So there's *something* true and resonant about how this idea generalizes our motivations into a simple duality.
 
-How do these two types respond to risk? I haven't found any significant difference in how they respond to risk, *however* I believe there is a difference in how they respond to *complex, long-term projects where there are many opportunities to make mistakes, recover from mistakes, or not recover from mistakes*. I believe the missionaries do better with these kinds of projects. In other words, I believe missionaries do better with risky, lengthy projects because they have something other than financial payoff motivating them. Missionaries tend to have an ability to envision a medium or long-term future where their mission has created significant value, and the vision of that future value keeps them motivated through the lengthy journey it may take to get there. It would be tempting to say that mercenaries should avoid these kinds of projects, but that would be exactly the kind of over-generalization I want to avoid.
+How do these two types respond to risk? I haven't found any significant difference in how they respond to risk, *however* I believe there is a difference in how they respond to *complex, long-term projects where there are many opportunities to make mistakes, recover from mistakes, or not recover from those mistakes*. I believe the missionaries do better with these kinds of projects. In other words, I believe missionaries do better with risky, lengthy projects because they have something other than financial payoff motivating them. Missionaries tend to have an ability to envision a medium or long-term future where their mission has created significant value, and the vision of that future value keeps them motivated through the lengthy journey it may take to get there. It would be tempting to say that mercenaries should avoid these kinds of projects, but that would be exactly the kind of over-generalization I want to avoid.
+
+Missionaries may have an advantage when it comes to executing on long-term risky entreprenurial projects.
 
 ## Entrepreneur - Craftspeople spectrum
 
@@ -41,7 +43,7 @@ On the other end of this spectrum are the craftspeople. They love their craft ab
 
 It's tempting to elevate one of these types above the other, but that would be completely unfair and arbitrary. It takes both types for modern society to function and thrive. Both types can make excellent business owners. Both types can become successful specialists who build wonderful market positions. And neither type is more likely to have a better or more satisfying career.
 
-Now that said, entrepreneur types will usually be more flexible about how they structure their business, while craftspeople will likely be *less* flexible. Entrepreneurs will be less constrained by the realities of the market, while craftspeople will sometimes be more constrained by those realities. This has real implications for how you choose to specialize.
+That said, entrepreneur types will usually be more flexible about how they structure their business, while craftspeople will likely be *less* flexible. Entrepreneurs will be less constrained by the realities of the market, while craftspeople will sometimes be more constrained by those realities. This has real implications for how you choose to specialize.
 
 If you're on the Craftsperson end of this spectrum, you face two constraints, and certain combinations of those constraints can present a very difficult obstacle to successfully specializing.
 
@@ -49,15 +51,15 @@ Let's start exploring this using this diagram, which I often use as a one-pictur
 
 ![][image-1]
 
-The entrepreneur has a very large Stuff They Can Do circle, because they tend to be aware of how easily acquired skill is (either through renting the skill or learning it at a competent level just-in-time), so they'll tend to start with the Stuff Clients Need circle, figure out what clients value *and* is rare on the supply side of the market and gravitate there. Thus, they'll define Stuff They Can Do based on Stuff Clients Will Pay Top Dollar For. They'll start on the left side of that diagram and move to the right in order to build a business model.
+The entrepreneur has a very large Stuff They Can Do circle, because they tend to be aware of how easily acquired skill is (either through renting the skill or just-in-time-learning it at a competent level), so they'll tend to start with the Stuff Clients Need circle, figure out what clients value *and* is rare on the supply side of the market, and gravitate there. Thus, they'll define Stuff They Can Do based on Stuff Clients Will Pay Top Dollar For. They'll start on the left side of that diagram and move to the right in order to build a business model.
 
 The craftsperson approaches things from right to left on this diagram. They tend to assume that Stuff They Can Do is fixed and difficult to change, and the Stuff They Can Do is constrained by their current skill as a developer, designer, artist, writer, etc. They can easily imagine increasing that skill (going deeper into it or expanding it), but they can less easily imagine building up an entirely different skill, especially one that has been dictated by marketplace demand.
 
-This is so partly because for many craftspeople, their skill is part of their *identity* as a person. It's part of how they see themselves as someone who is a contributing member of society.
+This is so partly because for many craftspeople, their skill is part of their *identity* as a person. It's a fundamental part of how they see themselves as someone who is a contributing member of society.
 
-So this is the first constraint craftspeople face. They're relatively attached to their current definition of Stuff They Can Do, and changing it can feel like a crisis of identity, or a major reinvention of self.
+So this is the first constraint craftspeople face. They're relatively firmly attached to their current definition of Stuff They Can Do, and changing it can feel like a crisis of identity, or a major reinvention of self.
 
-The second constraint is the market (this is the Stuff Clients Need circle on my diagram). You have even less control over what the market wants. In fact, it's healthiest to simply believe that you have *zero* control over what the market wants. While it's not 100% true, acting as if you have no control at all over what the market wants makes you a better small business owner. So yeah, let's go with that. You have *zero* control over what the market wants, and that's just the way things are. All you can do is understand what the market currently wants or try to predict what it will want soon or predict what it wants, doesn’t know it wants, but would definitely want If you invented it for them.
+The second constraint is the market (this is the Stuff Clients Need circle on my diagram). You have even less control over what the market wants. In fact, it's healthiest to simply believe that you have *zero* control over what the market wants. While it's not 100% true, acting as if you have no control at all over what the market wants makes you a better small business owner. So yeah, let's go with that. You have *zero* control over what the market wants, and that's just the way things are. All you can do is understand what the market currently wants or try to predict what it will want soon or guess what it wants, doesn’t know it wants, but would definitely want If you invented it for them.
 
 There definitely are situations where for a given person, there is *no overlap at all* between the Stuff Clients Need and the Stuff You Can do circles. In this situation, if you're completely inflexible about changing the size, shape, or position of the Stuff You Can Do circle, what you have is a standoff--an irresolvable conflict--and I can't imagine building a successful business under those conditions.
 
@@ -69,7 +71,7 @@ Sean McCabe started his business with a surprisingly successful course on hand l
 
 The takeaway is this: there are weird and wonderful examples of craftspeople who have made a business out of their weird and specific skill. And maybe that could be you! But do be warned that your dedication to your craft can be both an asset in some specialization scenarios or it can be a liability that prevents you from specializing at all.
 
-Finally, it’s worth noting that this analogy breaks down totally if you think of entrepreneurs whose craft is the business they are building. This dissolves any difference between these two types. The analogy is still valuable, this edge case notwithstanding.
+Finally, it’s worth noting that this analogy breaks down totally if you think of entrepreneurs as craftspeople whose craft is the business they are building. This dissolves any difference between these two types. The analogy is still valuable, this edge case notwithstanding.
 
 Bringing this all back to risk: if you are pretty far towards the pure craftsperson end of the spectrum, you will perceive the entrepreneurial aspects of self-employment as relatively risky because they threaten your identity. For example, a "pure entrepreneur" would likely see all of the following as opportunities they could take advantage of. In fact, each of the changes I'll list below are a key part of a real, successful business model, an example of which I've indicated in parentheses:
 
@@ -93,9 +95,9 @@ The dermis of expertise is where you maintain the narrow focus, but you start ca
 
 This is how experts transform an initial narrow focus into a complete solution to a difficult, complex problem. It's very much like a hypodermic needle. It's narrow and sharp to allow it to easily penetrate deep, but once deep in the skin it releases its contents which diffuse broadly into the surrounding tissue. 
 
-Again, this models how I became interested in risk, risk tolerance, and risk profile. I initially focused on how self-employed software developers can use specialization to their benefit, but ended up needing to learn about risk tolerance (to name just one non-adjacent area of expertise), and the best place I found for doing that--aside from some academic research on prospect theory--was the world of professional wealth management. Does this make me a non-specialist? Not at all! This is how specialization works. You go narrow so that you have more than a snowball's chance in hell of getting past the epidermis layer of the problem, and once you are past that layer you eagerly go broad in terms of *how you solve the problem*. 
+Again, this models how I became interested in risk, risk tolerance, and risk profile. I initially focused on how self-employed software developers can use specialization to their benefit, but ended up needing to learn about risk tolerance (to name just one non-adjacent area of expertise), and the best place I found for doing that--aside from some academic research on prospect theory--was the world of professional wealth management. Does this make me a non-specialist? Not at all! _This is how specialization works_. You go narrow so that you have more than a snowball's chance in hell of getting past the epidermis layer of the problem, and once you are past that layer you eagerly go broad in terms of *how you solve the problem*. 
 
-This is why I see the "specialist vs. polymath" debate as a waste of time. It takes a rare special case (the truly successful polymath) and compares it against another rare special case (the irrelevant specialist). Both cases are edge cases that don't help much in terms of suggesting best practices that apply to more common cases. In other words, it's rare for a specialist to find an interesting, complex problem that lies at the dermis or hypodermis of expertise and resist going broad in search of a complete solution. Bonified polymaths have told me that they see themselves more as serial specialists. Anyway!
+This is why I see the "specialist vs. polymath" debate as a waste of time. It takes a rare special case (the truly successful polymath) and compares it against another rare special case (the irrelevant specialist). Both cases are edge cases that don't help much in terms of suggesting best practices that apply to more common cases. In other words, it's rare for a specialist to find an interesting, complex problem that lies at the dermis or hypodermis of expertise and resist going broader in search of a complete solution. Bonified polymaths have told me that they see themselves more as serial specialists. Anyway!
 
 It's easy to think of risk solely in terms of risk tolerance. But the investment advice/wealth management world has a more nuanced take on risk, and this is beneficial to us here.
 
@@ -109,11 +111,11 @@ This actually gives us three ways to look at your relationship to risk:
 
 So to work out a client's risk profile, I have developed a survey that explores the following areas:
 
-1) **Your self-reported comfort with risk**. This is a useful "bullshit detector" when compared against more accurate indicators like behavior, so I'm always interested in seeing what kind of delta might exist between self-reported risk tolerance and measured risk tolerance. Note that my measurement is imperfect, but it's informative. TODO: data on this.
+1) **Your self-reported comfort with risk**. This is a useful "bullshit detector" when compared against more accurate indicators like behavior, so I'm always interested in seeing what kind of delta might exist between self-reported risk tolerance and measured risk tolerance. Note that my measurement is imperfect, but it's informative. {TODO: data on this, probably an on/over/under metric}.
 
 2) **Your past behavior with financial risk-taking**. What we say and what we do are often quite different, and behavior is a more accurate signal of risk tolerance. There are other forms of risk-taking, like risking social status by doing something your social circle doesn't accept or understand. But those are not easy to quantify, so I've stuck with what is easier to quantify and represents real risk-taking for most folks: spending money now under conditions of uncertainty about how that money might deliver a return on investment in the future and whether it might deliver a return at all.
 
-3) **The length of your "runway"**, defined as how long your business could survive without landing any new clients starting today, measured in months. This is not the only way to measure risk capacity, but it's a pretty good one. There are other forms of financial resilience beyond a savings account, but again those are less easy to quantify than "months of burn in a savings account, line of credit, or both“.
+3) **The length of your "runway"**, defined as how long your business could survive without landing any new clients starting today or taking on new debt, measured in months. This is not the only way to measure risk capacity, but it's a pretty good one. There are other forms of financial resilience beyond a savings account, but again those are less easy to quantify than "months of burn in a savings account, line of credit, or both“.
 
 4) **Your response to prospect theory questions**. Wikipedia does a pretty good job of defining this for us:
 
@@ -133,7 +135,7 @@ At the end of this chapter I'll share a simplified tool you can self-administer 
 
 ## Head Start vs. Find Your People/Opportunity vs. Entrepreneurial Thesis
 
-To complete your understanding of how risk fits into specializing, we need to dig into one more big idea, which we might think of as three different decision making heuristics. These are patterns I've noticed among the specialists I've interviewed for my podcast, and they form three different ways of answering the question: "how do I decide where to specialize?". These three decision making heuristics each present a different risk/reward tradeoff, so we'll move through them in order from lowest to highest risk.
+To complete your understanding of how risk fits into specializing, we need to dig into one more big idea, which we might think of as three different decision making heuristics. These are patterns I've noticed among the specialists I've interviewed for The Consulting Pipline Podcast, and they form three different ways of answering the question: "how do I decide where to specialize?". These three decision making heuristics each present a different risk/reward tradeoff, so we'll move through them in order from lowest to highest risk.
 
 Note: Chapter 12 will bring these three heuristics together into a single process you can self-administer, so as you're reading through these heuristics there's no need to try to _implement_ them until you get to Chapter 12.
 
@@ -141,20 +143,23 @@ Another note: These heuristics will portray 3 different decisions making styles,
 
 ### **Find Your Head Start**
 
-When you find your head start, instead of looking equally at all the factors that might make for a good specialization, you focus on one: where is your most significant head start?
+Remember, a head start is an advantage of some kind. Head starts generally take the form of one or more of these advantages:
 
-{TODO: remind folks what constitutes a head start, possible pull from ch10}
+* A significant depth or quality of _access_, or large number of _connections_ to, a target market.
+* A significant amount of _credibility_ in a market vertical or within a certain audience.
+* A significant depth of _expertise_ in some area.
+* A significant depth of _insight_ into a target market’s needs.
 
-You don't ignore those other factors. Here's what you actually do instead:
+When you find your head start, instead of looking equally at all the factors that might make for a good specialization, you focus on one: where is your most significant head start? You don't ignore those other factors. Here's what you actually do instead:
 
 1. List every way of specializing that might be a fit for your business.
 2. Rank each of those ways of specializing based on how much of a head start you have there, and how beneficial that head start would be.
 3. Use other factors to eliminate options from your list. Other factors might include:
-	- The risk of specializing in this way
-	- The low profitability of working with clients like those
-	- A lack of interest on your part in doing work like this
-	- Low demand from clients for this specialized offering
-	- How deep your insight into the problem or the needs of the vertical goes
+	- The risk of specializing in this way.
+	- The low profitability of working with clients like those.
+	- A lack of interest on your part in doing work like this.
+	- Low demand from clients for this specialized offering.
+	- How deep your insight into the problem or the needs of the vertical goes.
 
 At this point you have a shortlist of specialization options. They're all free from dealbreaker flaws, and they're ranked based on how beneficial your head start in each one is.
 
@@ -187,18 +192,16 @@ Instead of looking for what kind of clients you prefer to serve, or what problem
 
 I've interviewed several business owners who deployed this decision making heuristic when they decided how to specialize. They speak about interest and enjoyment in distinctly different ways than people who gravitate towards the other two decision making heuristics. Here are some verbatim quotes that illustrate this point:
 
-- TODO: look up the Elliot interview
-	- TODO: look up the Matt Rogish interview
+- {TODO: look up the Elliot interview}
+- {TODO: look up the Matt Rogish interview}
 
 Notice how Elliot and Matt both talk about the opportunity they chose to focus on in terms of its _business potential_ first. In fact, Elliot goes so far to compare the opportunity he pursued to janitorial work. Dirty, smelly, and mundane. That's how most of us would think of janitorial work, and it's exactly those repellant characteristics that attracted Elliot to this opportunity! He saw the inherent un-sexyness of the work as a "moat" that would deter most competition, and one that would also tend to keep his clients from adding this expertise in-house and therefore ensure long-term demand for an outsourced solution that Elliot could provide.
 
-So the Entrepreneurial Thesis heuristic is more like the Find Your Head Start heuristic and much less like the Find Your People/Opportunity heuristic in that the *potential business upside of the opportunity* is the most important factor in how you decide to specialize, and factors like enjoyment of the people or enjoyment of the work are much less important.
+In situations where the Entrepreneurial Thesis heuristic fits, the *potential business upside of the opportunity* is the most important factor in how you decide to specialize, and factors like enjoyment of the people or enjoyment of the work are much less important.
 
-In fact, you may have a head start that you can leverage into an entrepreneurial endeavor. Matt Rogish is a good example of this. His strongest head start was in DevOps work, and the cost and pain of migrating away from Heroku created the opportunity for him to build a team that could pursue that opportunity. Does he dislike DevOps work? Not at all. But every aspect of how he pursued the opportunity he saw to deliver DevOps as a service was done in an entrepreneurial, decouple-time-from-revenue way.
+In some cases you may have a head start that you can leverage into an entrepreneurial endeavor. Matt Rogish is a good example of this. His strongest head start was in DevOps work, and the cost and pain of migrating away from Heroku created the opportunity for him to build a team that could pursue that opportunity. Does he dislike DevOps work? Not at all. But every aspect of how he pursued the opportunity he saw to deliver DevOps as a service was done in an entrepreneurial, decouple-time-from-revenue way.
 
-There's one more subtle distinction I want to talk about here, because it's especially relevant when pursuing an Entrepreneurial Thesis. 
-
-It has to do with the idea of putting your market first.
+There's one more subtle distinction I want to talk about here, because it's especially relevant when pursuing an Entrepreneurial Thesis. It has to do with the idea of putting your market first.
 
 As n00b freelancers, lots of us do the opposite of a market-first approach to our businesses. We start with some skills that we probably developed while working a job, and we launch into self-employment with this skillset as our focus. We define ourselves or our value proposition based on this skillset.
 
@@ -206,15 +209,15 @@ Eventually, some of us arrive at the market-first orientation after the frustrat
 
 The answer is yes. And the different approach is a market-first approach.
 
-A market-first approach starts with a focus on a market, either defined vertically or horizontally. We focus on that market, and then do whatever we can to literally fall in love with it. There's really no better term for developing the empathy and the intimacy with the market. This love affair leads you to put the needs of the market first, and as you better and better understand those needs, you better understand where there might be value in addressing certain of those needs. This deeper understanding of what the market needs and values leads you to re-focus or even re-invent your services in a way that targets the more valuable needs the market has.
+A market-first approach starts with a focus on a market, either defined vertically or horizontally. We focus on that market, and then do whatever we can to literally fall in love with it. There's really no better term for developing empathy and the intimacy with the market. This love affair leads you to put the needs of the market first, and as you better and better understand those needs, you better understand where there might be value in addressing certain of those needs. This deeper understanding of what the market needs and values leads you to re-focus or even re-invent your services in a way that targets the more valuable needs the market has.
 
-Taking this approach all the way may lead you to an Entrepreneurial Thesis. I have a coaching client doing just that with a need that she and a few other see around the problem of software contributing to physician burnout. What makes this an Entrepreneurial Thesis is that there's no competition that validates that others can make this kind of focus work. She's a pioneer. Things can work out _very well_ for smart pioneers. Among their ranks are companies like AirBnB and Uber and other "unicorns". But it is risky! Taking a market-first approach is the best way to de-risk an Entrepreneurial Thesis. The other approach of dreaming up an idea, skipping a thorough a half-assed validation phase, and moving straight to execution is a surefire recipe for failure. Much better to let your market generate ideas for you.
+Taking this approach all the way may lead you to an Entrepreneurial Thesis. I have a coaching client doing just that with a need that she and a few other see around the problem of software contributing to physician burnout. What makes this an Entrepreneurial Thesis is that there's no competition that validates that others can make this kind of focus work. She's a pioneer. Things can work out _very well_ for smart pioneers. Among their ranks are companies like AirBnB and Uber and other "unicorns". But it is risky! Taking a market-first approach is the best way to de-risk an Entrepreneurial Thesis. The other approach of dreaming up an idea, rushing through a half-assed validation phase, and moving straight to execution is a surefire recipe for failure. Much better to let your market generate ideas for you.
 
-Again, I've listed these three decision making heuristics in order from lowest to highest risk. In Chapter 12 I'll bring these concepts of risk profile and decision making style together into a simple process you can follow to get closer to deciding how your business could specialize and get started building a great market position. So that means we need to do one more thing in this chapter, which is get a handle on your risk profile.
+Again, I've listed these three decision making heuristics in order from lowest to highest risk: Find Your Head Start, Find Your People, and Test an Entrepreneurial Thesis. In Chapter 12 I'll bring these concepts of risk profile and decision making style together into a simple process you can follow to get closer to deciding how your business could specialize and get started building a great market position. So that means we need to do one more thing in this chapter, which is get a handle on your risk profile.
 
 ## Risk Self-Assessment
 
-TODO: build a version of my current risk assessment that doesn't include the DiSC profile and automate it so that it calculates risk score and sends that back to folks who take it, and link book readers to that version.
+{TODO: build a version of my current risk assessment that doesn't include the DiSC profile and automate it so that it calculates risk score and sends that back to folks who take it, and link book readers to that version.}
 
 ## Chapter Summary
 
