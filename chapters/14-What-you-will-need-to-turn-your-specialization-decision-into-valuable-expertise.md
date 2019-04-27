@@ -1,4 +1,4 @@
-# What You Will Need to Turn Your Specialization Decision Into a Valuable Expertise
+# What You Will Need to Turn Your Specialization Decision Into Valuable Expertise
 
 You may be specializing for one or both of two reasons: 1) to make your efforts to connect and build trust with ideal prospects yield better results and 2) to make it possible to cultivate exceptionally valuable expertise. It's possible to focus on the first reason and avoid the second (remember, that’s what I call superficial specialization), but I think the deepest rewards of specialization--both economically and personally--accrue to those who pursue both reasons for specializing. This chapter is an introduction to how you might use time and focused effort to turn your specialization decision into economically valuable expertise.
 
@@ -21,8 +21,8 @@ If I had to limit myself to one observation about impactful expertise, it's this
 
 In other words, you can't be an expert who ignores context. If you are, you'll fit most of the negative or wrong stereotypes of specialized expertise. And even from folks who should know better, I've run across plenty of these. For example:
 
-\<blockquote class="twitter-tweet" data-lang="en"\>\<p lang="en" dir="ltr"\>If you&#39;re a specialist the only thing you can really do is optimize. This also makes you fragile to a (rapidly) changing environment.\</p\>&mdash; Shane Parrish (@farnamstreet) \<a href="https://twitter.com/farnamstreet/status/1076960397209432064?ref\_src=twsrc%5Etfw"\>December 23, 2018\</a\>\</blockquote\\\\\\\\\\\\\>
-\<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"\>\</script\\\\\\\\\\\\\>
+\<blockquote class="twitter-tweet" data-lang="en"\>\<p lang="en" dir="ltr"\>If you&#39;re a specialist the only thing you can really do is optimize. This also makes you fragile to a (rapidly) changing environment.\</p\>&mdash; Shane Parrish (@farnamstreet) \<a href="https://twitter.com/farnamstreet/status/1076960397209432064?ref\_src=twsrc%5Etfw"\>December 23, 2018\</a\>\</blockquote\\\\\\\\\\\\\\\>
+\<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"\>\</script\\\\\\\\\\\\\\\>
 
 [https://twitter.com/farnamstreet/status/1076960397209432064][3]
 
