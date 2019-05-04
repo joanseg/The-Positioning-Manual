@@ -2,11 +2,11 @@
 
 Chapter 3 warned you about The Fear. But, now that you've peered more deeply into the world of specialization and what your options might be there, it's a good time to talk about practical ways to manage The Fear.
 
-## The first fear management approach is to **lower the stakes**. 
+## The first fear management approach is to **lower the stakes**.
 
 Lowering the stakes might look like specializing a digital marketing funnel as a low-stakes way to experiment with various possible specializations before committing more fully. Or alternately, build a market-first (rather than solution-first) productized service as a way to test demand for a specialized service. If it goes well, that service could eventually "take over" your business and enable a generalist to specialist transition with less existential fear. Both of these approaches fit under the superficial specialization umbrella discussed in Chapter 7. In the right situation, these can be useful approaches. 
 
-My main caveat here is to properly align your expectations. Lowering the stakes might be the exact right decision because a low-stakes experiment is all your risk profile and personality can handle (see Chapter 12 for more on this). But lowering the stakes might also reduce the potential upside for you! Or you might half-ass it because there's not much on the line, and as a result get half-assed results. So lowering the stakes is not a panacea, and it's not the only right approach.
+My main caveat here is to properly align your expectations. Lowering the stakes might be the exact right decision because a low-stakes experiment is all your risk profile and personality can handle (see Chapter 12 for more on this). But lowering the stakes might also reduce the potential upside for you! Or you might half-ass it because there's not much on the line, and therefore get half-assed results. So lowering the stakes is not a panacea, and it's not the only right approach.
 
 ## The second fear management approach is to **gather more evidence**
 
@@ -26,7 +26,7 @@ Thanks to our mammalian fight-or-flight wiring, anger can temporarily override o
 
 ## **Courage and risk tolerance** are the best antidote.
 
-The fear management approaches described above come with compromises. This one doesn't: Do something courageous! Take a calculated risk! If you can do this with the question of how you focus your business, you can do it with lots of other aspects of your business, and I can't think of a real downside to acquiring this new ability to take calculated risks.
+The fear management approaches described above come with compromises. This one doesn't: Do something courageous! Take a calculated risk! If you can do this with the question of how you focus your business, you can do it with lots of other aspects of your business, and I can't think of any real downside to acquiring this new ability to take calculated risks.
 
 I'm not recommending wild or indiscriminate risk-taking. I'm simply recommending you do your homework on how best to specialize (again, Chapter 12 has more on this), gather enough evidence to validate your decision, and then take assertive action on that decision. 
 
@@ -105,6 +105,8 @@ Compare this cost to whatever you perceive the cost of specializing to be. It mi
 To be clear, I _am_ trying to make a strong case for specializing here and support you the best way a book possibly could, but I'm not trying to "twist your arm" and force you to do it. It's a little bit like getting married or being in a long-term romantic relationship. If _you_ don't fundamentally want to do it, it won't work. Romantic partners and the market can both smell someone who is pretending to want them, and neither of them ultimately react well to that realization.
 
 ## Chapter Summary
+
+@TODO
 
 [1]:	http://specializationexamples.com
 [2]:	http://consultingpipelinepodcast.com

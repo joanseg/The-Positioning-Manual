@@ -47,11 +47,4 @@ TODO: Interesting idea: business maturity metric (based on years working for sel
 
 ## Chapter Summary
 
-@TODO
-
----- 
-
-PL:
-
-
-Your market position is a lagging indicator of the relevance and value of your specialized expertise. It's the mental residue of your marketing message and client interactions over time. It's your reputation. {might move this to ch 04, or just have this be a reminder of this same point as elaborated in ch 04}
+Superficial specialization is a marketing tactic; deep specialization is a career-development strategy. They are not mutually exclusive choices. You might use superficial specialization earlier in your career to get some quick marketing wins or experiment with several possible specializations and once you choose, you convert to the deep specialization approach in order to cultivate rare, valuable expertise.
