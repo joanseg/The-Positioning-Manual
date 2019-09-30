@@ -23,7 +23,7 @@ Missionaries are motivated by a sense of purpose that's generally not fundamenta
 
 This raises the question: if you're a missionary, do you invent/choose your mission or does it find you? What I've seen is that they're both common, and neither is inherently superior or more effective.
 
-Mercenaries are in it for the money. This blunt description might seem like a dismissal but it's not. It's just that mercenaries are simple to describe. :)
+Mercenaries are in it for the money. This blunt description might seem like a dismissal but it's not. It's just that mercenaries are simple to generalize about. :)
 
 Now obviously, even if human behavior was simple enough to describe with this missionary-mercenary generalization (it's not), we'd still find elements of both types in every person. Even missionaries are going to act like mercenaries at times when they need the money more than they need the satisfaction of living out their mission. And even mercenaries will seek the meaning and satisfaction of some kind of mission, even if that mission is chosen and optimized to maximize its potential monetary upside.
 
@@ -35,15 +35,15 @@ Missionaries may have an advantage when it comes to executing on long-term risky
 
 ## Entrepreneur - Craftspeople spectrum
 
-There's another way to generalize human motivation that's a bit more specific to creative professionals (which includes developers). It's another over-simplified spectrum.
+There's another way to generalize human motivation that's a bit more specific to creative professionals (which includes software developers). It's another over-simplified spectrum.
 
 On one end are the entrepreneurs. There are lots of definitions of entrepreneur, but for services businesses I prefer to think of an entrepreneur as one who decouples their income from the time they spend working on client deliverables. You can do this in a variety of ways, not all of which require building a team where you leverage other people's time. There are plenty of entrepreneurial businesses with one person doing all the value creation and delivery, but in a way where much of that value creation is de-coupled from their time.
 
-On the other end of this spectrum are the craftspeople. They love their craft above almost everything else. They might be heard saying "if only I could spend all my time on my craft...". Or alternately, when asked what's special about their business, their response centers almost completely on their abilities as a craftsperson.
+On the other end of this spectrum are the craftspeople. They love their craft above almost everything else. They might be heard saying "if only I could spend all my time on $CRAFT...". Or alternately, when asked what's special about their business, their response centers almost completely on their abilities as a craftsperson.
 
 It's tempting to elevate one of these types above the other, but that would be completely unfair and arbitrary. It takes both types for modern society to function and thrive. Both types can make excellent business owners. Both types can become successful specialists who build wonderful market positions. And neither type is more likely to have a better or more satisfying career.
 
-That said, entrepreneur types will usually be more flexible about how they structure their business, while craftspeople will likely be *less* flexible. Entrepreneurs will be less constrained by the realities of the market, while craftspeople will sometimes be more constrained by those realities. This has real implications for how you choose to specialize.
+That said, entrepreneur types will usually be more flexible about how they structure their business, while craftspeople will likely be *less* flexible. Entrepreneurs will be less constrained by the current realities of the market -- because they're more focused on future value creation -- while craftspeople will sometimes be more constrained by current market realities. This has real implications for how you choose to specialize.
 
 If you're on the Craftsperson end of this spectrum, you face two constraints, and certain combinations of those constraints can present a very difficult obstacle to successfully specializing.
 
