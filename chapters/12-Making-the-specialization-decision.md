@@ -92,7 +92,7 @@ Options for doing this:
 - Build a list of competitors, make sure you can find at least a few and that there aren't too many (\>20)
 - Find conf talks that roughly map to your particular advantage
 - Find any other evidence that money is being spent in a way that maps to your particular advantage
-- Reach out to and speak with any competitors or non-competitive experts that you can
+- Reach out to and speak with any competitors or non-competitive experts that you can {Note: this is such a great shortcut!}
 
 If you're pursuing an entrepreneurial thesis, then the above forms of market viability may not be present, so your best bet will be to:
 

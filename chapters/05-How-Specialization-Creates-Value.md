@@ -6,7 +6,7 @@ Specialization adds value in two specific ways. First, it *addresses marketing i
 
 If I'm going to talk about how specialization addresses marketing inefficiencies, then I need to start with this question: **what actually *is* marketing**?
 
-There are lots of definitions, and a few really useful definitions. There are clever ones too, like Peter Drucker saying, "The aim of marketing is to make selling superfluous." This is a warm and fuzzy sentiment for marketers, but it doesn't really say anything about what marketing is and does.
+There are lots of definitions, and a few really useful definitions. There are clever ones too, like Peter Drucker saying, "The aim of marketing is to make selling superfluous." This is a warm and fuzzy sentiment for marketers, but it doesn't really say anything about what marketing actually is and does.
 
 On the more useful end of the spectrum, let's start with Seth Godin’s definition: (I’m paraphrasing here): **marketing is changing the culture**. I know it's incredibly broad, but it's an important fundamental truth about marketing. But, as you know by now, as specialized businesses our target market is never "the world" or "every user of $THING" or "the culture at large". We can't cultivate a reputation (aka market position) among groups of people that large. So Seth's definition is sweepingly broad.
 

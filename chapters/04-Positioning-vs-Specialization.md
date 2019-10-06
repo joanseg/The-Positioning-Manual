@@ -26,7 +26,7 @@ Let's revisit the Zencaster example. Here's a similar 2x2 matrix showing Zencast
 
 {TODO: 2x2 with value of features on one axis and reliability on the other, with a cluster of dots from my peers in the high value, reasonably reliable quadrant and my lone dot on the high value, low reliability quadrant. Maybe instead of dots use a circular avatar image for me and then for my friends. Or use my name and the names of my podcaster friends.}
 
-**Generally, the more consistency there is in the placement--or _positioning_--of Apple, Facebook, Zencastr, or any business on a diagram like this, the more homogenous that companies reputation--or market position--is.**
+**Generally, the more consistency there is in the placement--or _positioning_--of Apple, Facebook, Zencastr, or any business on a diagram like this, the more homogenous that companies reputation -- or market position -- is.**
 
 At this point you should be noticing a seeming contradiction at play in this idea of a market position. 
 
