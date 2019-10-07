@@ -1,10 +1,10 @@
-# Understanding the Timeline
+;'# Understanding the Timeline
 
 Specialization is the decision to focus; a market position is the reputation you build up over time as a result of consistent, disciplined followthrough on that decision.
 
 ## How much time does it take to build a market position?
 
-***"Most people overestimate what they can do in one year and underestimate what they can do in ten years." --Bill gates***
+***"Most people overestimate what they can do in one year and underestimate what they can do in ten years." --Bill Gates***
 
 3 months to 3 years. That's what I want you to be prepared for. It generally requires 3 months to 3 years of consistent work to build up a market position.
 
@@ -39,22 +39,22 @@ The first whale is the whale client. Your relationship to them is one of relativ
 
 One interesting manifestation of this I’ve seen (rarely, thank goodness) looks like this:
 
-* You look at your specialization options and identify a head start that is vertical in nature.
-* Your current whale client is in the vertical it makes sense for you to specialize in.
-* You gingerly feel out how your whale feels about you specializing in a way that would have you working with other companies in their vertical. You get strong, negative feedback. This would be a real problem from their perspective.
+- You look at your specialization options and identify a head start that is vertical in nature.
+- Your current whale client is in the vertical it makes sense for you to specialize in.
+- You gingerly feel out how your whale feels about you specializing in a way that would have you working with other companies in their vertical. You get strong, negative feedback. This would be a real problem from their perspective.
 
 Now what? Your whale client is shutting you out of your best specialization option!
 
 Make no mistake, I see this as a very difficult situation, and sympathize with the difficulty of getting out of it. But the exit plan is pretty simple (unless you have massive runway or other resources to soften the blow of firing the whale client, in which case it’s _really simple_: harpoon that whale and take back control of your business):
 
 1. Preserve the whale and work like hell to get out from inside the whale. Do anything you can to address this client concentration problem, and seek advice from David C. Baker, Blair Enns, and Jonathan Stark on practical steps for doing this.
-2.  In terms of specialization, pursue a horizontal specialization until you've escaped the belly of the whale, even if your ultimate plan is a pure vertical specialization. Yes, from a market position perspective you’re not playing your strongest hand, but by dealing with the whale you are being proactive and future-focused, and _that’s_ really valuable.
+2. In terms of specialization, pursue a horizontal specialization until you've escaped the belly of the whale, even if your ultimate plan is a pure vertical specialization. Yes, from a market position perspective you’re not playing your strongest hand, but by dealing with the whale you are being proactive and future-focused, and _that’s_ really valuable.
 
 The second whale is sunk cost. I haven’t measured this precisely, but I’d estimate maybe half of those who struggle with making a good specialization decision are held back by some sort of sunk cost.
 
-Getting personal for a moment, I have some advantages in this area that I think are somewhat rare. First, Cheryl—my wife of 11 years who I love even more than when we first got together—is absolutely, 100% _immune_ to most forms of sunk cost. I’ve never met anyone who makes decision in a way that is as unhindered by sunk cost. There is this pretty famous TED talk by Jill Taylor Bolte--a woman who had a stroke and was able to observe some cognitive abilities slipping away as the stroke effected her. Sometimes I wonder if this happened to my wife, except it only effected whatever part of the brain responds to sunk cost (I know there probably isn’t such a thing, but it’s a fun way to imagine how she got so immune to sunk cost). {TODO: Add to sunk cost section: bombing in front of a bunch of my peers.  Farting student, maybe. }
+Getting personal for a moment, I have some advantages in this area that I think are somewhat rare. First, Cheryl -- my wife of 11 years who I love even more than when we first got together -- is absolutely, 100% _immune_ to most forms of sunk cost. I’ve never met anyone who makes decision in a way that is as unhindered by sunk cost. There is this pretty famous TED talk by Jill Taylor Bolte -- a woman who had a stroke and was able to observe some cognitive abilities slipping away as the stroke effected her. Sometimes I wonder if this happened to my wife, except it only effected whatever part of the brain responds to sunk cost (I know there probably isn’t such a thing, but it’s a fun way to imagine how she got so immune to sunk cost). {TODO: Add to sunk cost section: bombing in front of a bunch of my peers.  Farting student, maybe.}
 
-Second advantage: I have done a lot of crazy shit in my life. I lean _way out_ over my skis a lot. I've lived in 27 houses if you don't count college dorm rooms and the 8x8 foot pump house I lived in for 6 weeks on the Oregon coast, some because my parents moved a few times, but most because I wanted to move. I know firsthand what it’s like to join the YMCA because that’s the cheapest way to get access to a place to take a shower and you don't have any other options.  I was 100% convinced I was seconds away from my own death—and astonishingly lucid about the whole thing—when my truck spun off Interstate 24 on the way to Chattanooga in a snowstorm in {TK:year}. My ex-wife left me for a cult leader in the same 18 month period I did a bankruptcy and foreclosure. I found some weird loophole in the USDA regulations that let me get a license to import the constituent ingredients for Ayahuasca from Peru (semi-legal) and sell them on eBay (definitely not legal). There’s less crazy shit to tell you about _within_ the statute of limitations because even I’ve calmed down a bit as I’ve aged. The bottom line is that I have lots of practice torching sunk costs I’m pretty sure many others would fight to preserve.
+Second advantage: I have done a lot of crazy shit in my life. I lean _way out_ over my skis a lot. I've lived in 27 houses if you don't count college dorm rooms and the 8x8 foot pump house I lived in for 6 weeks on the Oregon coast, some because my parents moved a few times, but most because I wanted to move. I know firsthand what it’s like to join the YMCA because that’s the cheapest way to get access to a place to take a shower and you don't have any other options.  I was 100% convinced I was seconds away from my own death -- and astonishingly lucid about the whole thing -- when my truck spun off Interstate 24 on the way to Chattanooga in a snowstorm in {TK:year}. My ex-wife left me for a cult leader in the same 18 month period I did a bankruptcy and foreclosure. I found some weird loophole in the USDA regulations that let me get a license to import the constituent ingredients for Ayahuasca from Peru (semi-legal) and sell them on eBay (definitely not legal). There’s less crazy shit to tell you about _within_ the statute of limitations because even I’ve calmed down a bit as I’ve aged. The bottom line is that I have lots of practice torching sunk costs I’m pretty sure many others would fight to preserve.
 
 And so when I see you fighting to preserve some kind of sunk cost that looks to *me* like a go-kart at the expense of pursuing an opportunity that looks to *me* like a BMW 5-Series, a wonder why you’re fighting so hard for that sunk cost. I know it feels safe because it’s what you know, but I also see it blinding you to the opportunity.
 
@@ -94,7 +94,9 @@ Here are the accelerants I've seen actually work:
 
 ### Connections, good timing, and luck
 
-I often like to say: unfortunately you’re in a relationship business. I say this because most of us would rather invest in fun tech skills than relationships. But if you happen to be blessed with useful business connections, it can really help because… _you’re in a relationship business_. The right kind of relationships or connections can accelerate your move from generalist to well-positioned specialist. In fact, one of the ways of deciding how to specialize that we’ll explore in Chapter 12 is to specialize in the area where you find your most significant head start. If you have especially useful relationships or connections in a certain area, that often represents a significant head start that you can build up into a great specialization.
+I often like to say: unfortunately you’re in a relationship business. I say this because most of us would rather invest in fun tech skills than relationships. But if you happen to be blessed with useful business connections, it can really help because… _you’re in a relationship business_. 
+
+The right kind of relationships or connections can accelerate your move from generalist to well-positioned specialist. In fact, one of the ways of deciding how to specialize that we’ll explore in {TK:Chapter 12} is to specialize in the area where you find your most significant head start. If you have especially useful relationships or connections in a certain area, that often represents a significant head start that you can build up into a great specialization.
 
 Good timing is another accelerant. If you’re insistent on specializing in a platform, then one form of good timing is to “get in on the ground floor” when a platform is in the very early part of the Gartner Hype Cycle. This is an accelerant that is partially within your control. After all, Gartner frequently publishes updates to their Hype Cycle research, and even if the particular Hype Cycle you want to reference is one of their paid products, they freely publish the table of contents, which lists everything you need to know right there in text. So it’s pretty easy to know what platform is where in the Hype Cycle.
 
@@ -180,7 +182,7 @@ Building a somewhat unique “thing” you can promote can be an accelerant. Esp
 
 I say “thing” because it could take multiple forms:
 
-- A blue ocean productized service
+- A specialized service
 - A free gift of information
 - A relevant, valuable dataset or useful by-product of research
 - Open source software
