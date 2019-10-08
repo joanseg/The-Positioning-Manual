@@ -4,13 +4,13 @@ In earlier versions of this book, I looked at specialization through the lens of
 
 My admonition at that time was simple: just move from where you are towards the global maximum on that curve. Where _is_ the global maximum on that curve? "I don't know, because it's unique to you! Just do it!"
 
-It was the right idea, but expressed in a general, hand-wavey way. I think I can do better now. It's still very much a unique-to-you decision, but there is a 7-step process almost anyone can follow to help make the decision about how to specialize. I'll present this process in this chapter.
+It was the right idea, but expressed in a general, hand-wavey way. I can do better now. It's still very much a unique-to-you decision, but there is a 7-step process almost anyone can follow to help make the decision about how to specialize, presented in this chapter.
 
 ## Everybody starts from a different place
 
-We all approach the specialization decision from a different starting point. Yes, we can abstract this a bit and say if you're not currently specialized, you're probably some sort of generalist, meaning you'll say yes to almost any opportunity to apply your skill. But when you look closer, everyone is approaching the specialization decision with a different combination of skill, risk tolerance, business experience, and personality attributes. These differences matter.
+We all approach the specialization decision from a different starting point. Yes, most non-specialists are generalists, and that means we're all starting from the same abstracted starting point. But when you look closer, everyone is approaching the specialization decision with a different combination of skill, risk tolerance, business experience, and personality attributes. These differences matter.
 
-If everyone was starting from the same place, I could offer perhaps just one "specialization decision-making recipe" that everyone could follow. But if I did that, some people's head start would be overlooked, and others lack of a head start--or different form of head start--would present them with insurmountable challenges. So in reality, the decision is very individualized.
+If everyone was starting from the same place, I could offer perhaps just one "specialization decision-making recipe" that everyone could follow. But if I did that, some people's head start would be overlooked, and others lack of a head start -- or different form of head start -- would present them with insurmountable challenges. So in reality, the decision is very individualized.
 
 When I'm working with a coaching client, I'm looking at several factors to define their starting point. These factors include:
 
@@ -28,10 +28,10 @@ Taken together, these 7 factors tend to define your starting point.
 
 Just like everybody has a different starting point, everyone wants to achieve something slightly different by specializing.
 
-At the most fundamental level, you either want to use specialization in a superficial way (to get some quick marketing wins, for example) or a deep way (to make it possible to cultivate exceptionally valuable expertise). But when I actually ask my clients why they want to specialize, I get an interesting range of answers. Some specific examples:
+At the most fundamental level, you either want to use specialization in a superficial way (to get some quick marketing wins, for example) or a deep way (to make it possible to cultivate exceptionally valuable expertise). But when I actually ask my clients why *they* want to specialize, I get an interesting range of answers. Some specific examples:
 
 - "Just make my marketing easier/better"
-- "Just tell me how to build a pipeline of opportunity so I'm not hand to mouth"
+- "Just tell me how to build a pipeline of opportunity so I'm not living hand to mouth"
 - "I want better clients"
 - "I want to be a powerful expert"
 - "I want to build wealth"
@@ -96,8 +96,8 @@ Options for doing this:
 
 If you're pursuing an entrepreneurial thesis, then the above forms of market viability may not be present, so your best bet will be to:
 
-- Reach out to and speak with potential clients/customers using a customer development style of interview-based market research
-- Additionally, you might create a strategy canvas to make sure your entrepreneurial theory targets a "real" opportunity in the market and validate that how you're differentiating makes good sense
+- Reach out to and speak with potential clients/customers using a customer development or JTBD style of interview-based market research
+- Additionally, you might create a Blue Ocean Strategy-style strategy canvas to make sure your entrepreneurial theory targets a "real" opportunity in the market and validate that how you're differentiating makes good sense
 
 ### 7) Decide
 
