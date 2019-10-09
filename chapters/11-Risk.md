@@ -153,7 +153,7 @@ Note: Chapter 12 will bring these three heuristics together into a single proces
 
 Another note: These heuristics will portray 3 different decisions making styles, and it may seem that you should fit neatly and cleanly into only one of those 3 buckets. The reality is almost always more nuanced, and you may find yourself combining two of these approaches. That's totally normal, but I'll talk about them as if they are 3 things with distinct borders between them, even though they're really not.
 
-### **Find Your Head Start**
+### Find Your Head Start
 
 Remember, a head start is an advantage of some kind. Head starts generally take the form of one or more of these advantages:
 
@@ -177,7 +177,7 @@ At this point you have a shortlist of specialization options. They're all free f
 
 If your shortlist is longer than 1 item, you still have a decision to make, but this simple decision making heuristic has hopefully supplied you with a shortlist of manageable size.
 
-### **Find Your People/Opportunity**
+### Find Your People/Opportunity
 
 The next decision making heuristic is to ignore your head start and instead focus on a different single factor: what kind of clients do you prefer to serve, or what problems do you find most fascinating and compelling?
 
@@ -198,7 +198,7 @@ If you're using the Find Your Head Start heuristic, you're probably going to spe
 
 This is also a good place to remind you that I see the kind of people who read a book like this as way above average in terms of creativity, resourcefulness, and willingness to learn and change. My clients are all like this, and it's a never-ending joy to work with people with this kind of drive and growth mindset. So if you have a fire in your belly to Find Your People/Opportunity and the risk profile to handle it, I believe you can build the access and trust you need, perhaps in less time than it takes to get a masters degree.
 
-### **Entrepreneurial Thesis**
+### Entrepreneurial Thesis
 
 The final decision making heuristic I've seen out in the wild is what I call the Entrepreneurial Thesis. This is actually a variation of the Find Your People/Opportunity approach, but it's better suited to someone who is more mercenary or entrepreneurial in their overall orientation to risk & opportunity. This mercenary or entrepreneurial orientation is often correlated with a reduced need for craftsman-like enjoyment of the work. Or rather, the craftsmanship shows up in the design of the business rather than the creation of deliverables.
 

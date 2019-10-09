@@ -208,8 +208,6 @@ The considerable price experts can charge for the application of their expertise
 
 They know that there's no limit to how deep they can go with their free lead nurture content because there's always enough prospects out there who will pay a premium price for the specific application of an expert's expertise to their specific situation or needs, so they don’t feel like they have to hold back in the free content, or use it as some kind of cheap tease for their services. Viewed through this lens, an expert who publishes fresh new insightful content to an email list of leads on a weekly or more frequent basis appears a lot more successful than one who sets up some automated lead nurture sequences and then retreats away to focus on their evidently less profitable client work.
 
-#### “The Terminators" vs. everybody else
-
 Now that I've laid out my case for why you might _avoid_ marketing automation, let's talk about why and how you might make use of it :)
 
 If you were in a situation where you could only do broadcast-style publication at relatively high frequency or automated, personalized lead nurture, I'd recommend the broadcast style publication every single time because it has more beneficial second-order effects than automated lead nurture. Granted, this may only be true for those who are trying to cultivate deep, valuable expertise, but you're the ones I care most about helping, so my advice is calibrated for you. Again, it's possible you're in a situation where you have to choose between broadcast or automation.

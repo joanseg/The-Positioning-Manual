@@ -2,7 +2,7 @@
 
 I sincerely hope this manual is extremely useful to you as you attempt to solve one of the most common problems in individually owned technical services firms: the lack of proper positioning. If at any point in working your way through this manual you run across problems, I encourage you to contact me directly. I'm Philip Morgan, and I help people like you get into consulting through the side door. You can reach me via email at [philip@philipmorganconsulting.com][1].
 
-## Who This Manual is For
+## Who This Manual is For {TODO: change this to not be redundant w/chapter title}
 
 This manual will be most helpful to a narrow range of people:
 
