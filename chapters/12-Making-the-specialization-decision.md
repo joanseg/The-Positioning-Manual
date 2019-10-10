@@ -106,3 +106,5 @@ You have enough information to decide now. You don't have enough information to 
 {Upgrade to course offer via "Go Deeper" in-book sales pages. Course is a revised version of SS W1, revised along the lines above. There is no different process, there is only more detail and more hand-holding in the course. And maybe I'll throw in a DiSC profile as part of the price of the course.}
 
 ## Chapter Summary
+
+TODO

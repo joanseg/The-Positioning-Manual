@@ -1,6 +1,6 @@
 # Go Forth and Specialize! (And then grow that specialization seed into a great market position!)
 
-I hope I've supplied you with all the information, processes, best practices, and examples you need to make a great specialization decision for your business. The goal of this manual has always been to be a comprehensive resource for making the specialization decision.
+I hope I've supplied you with all the information, processes, and best practices you need to make a great specialization decision for your business. The goal of this manual has always been to be a comprehensive resource for making the specialization decision.
 
 Because decisions are invisible without action, I've also had to take you into the beginning stakes of taking action on the specialization decision and that's why we've covered the topics of marketing and expertise.
 
@@ -16,7 +16,7 @@ I owe a debt of gratitude to many people for helping with this book.
 
 My wife Cheryl, whose love, patience, and encouragement has been vital.
 
-The trees, creeks, and landscape around Carson National Forest in Taos, NM, who lent me sanity and calm during a personally difficult time.
+The trees, creeks, and landscape in Carson National Forest around Taos, NM, who lent me sanity and calm during a personally difficult time.
 
 My parents, who filled our home with books and music, helped me learn to question, drove me countless times to the public library, and created enough stability at home that I didn't leave there a broken person. These are priceless gifts and privileges that live on in me today.
 
