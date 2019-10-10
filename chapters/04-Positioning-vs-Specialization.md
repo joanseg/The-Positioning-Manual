@@ -62,9 +62,9 @@ Let's review: Your market position is your reputation among a _specific_ group o
 
 **The action you take *now* in service of *a future reputation* is usually some form of *specialization*.**
 
-{TODO: is this true?} If you're reading closely, you'll have noticed that I used the word *positioning* in the title of this book and in some of the previous chapters, but I have not used it in this chapter until now. That's because, gramatically speaking, the word "positioning" is a verb. It's a thing you *do*. 
+Grammatically speaking, the word "positioning" is a verb. It's a thing you *do*. Except when it comes to marketing for services, that's exactly what positioning is _not_. 
 
-Except when it comes to marketing for services, that's exactly what positioning is _not_. A position -- or more specifically a *market position* -- is not a verb. It is more like a noun. It is a thing that exists in the minds of a group of people. It's a concept, an association, a feeling, a mental residue, or a vivid memory. Those are all nouns, not verbs. Things, not actions.
+A position -- or more specifically a *market position* -- is not a verb. It is more like a noun. It is a thing that exists in the minds of a group of people. It's a concept, an association, a feeling, a mental residue, or a vivid memory. Those are all nouns, not verbs. Things, not actions.
 
 So why is it so commonly said "Company X is positioning itself as the leader in $THING" or, "You need to position your business"?  I'll dive more into this in the next chapter, but for now just know that people mean one of two things when they say "positioning", and you have to dig a little deeper to know which of those two things they mean.
 

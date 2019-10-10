@@ -127,6 +127,6 @@ While I can't completely de-risk this choice for you, I will provide as many too
 
 The rest of this book is all about helping you move through these fears and make the best positioning choice you can. There is a reason why Blair Enns calls positioning "[the Difficult Business Decision](http://www.winwithoutpitching.com/read-it-online/the-purpose-of-positioning/)"! It takes courage and commitment to push through the fear.
 
-## Conclusion
+## Chapter Summary
 
 In conclusion, remember that the biggest obstacle to finding a desirable market position is not a crowded market place or strong competition. It’s the fears that naturally arise during the process. By seeing these fears coming at a distance, you can avoid being ambushed.
