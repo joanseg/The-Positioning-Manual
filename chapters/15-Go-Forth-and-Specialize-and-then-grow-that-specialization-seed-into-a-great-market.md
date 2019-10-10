@@ -16,9 +16,9 @@ I owe a debt of gratitude to many people for helping with this book.
 
 My wife Cheryl, whose love, patience, and encouragement has been vital.
 
-The trees, creeks, and landscape around Carson National Forest in Taos, NM, who lent me sanity and calm during a difficult time.
+The trees, creeks, and landscape around Carson National Forest in Taos, NM, who lent me sanity and calm during a personally difficult time.
 
-My parents, who filled the home with books and music, helped me learn to question, drove me countless times to the public library, and created enough stability at home that I didn't leave there a broken person. These are priceless gifts and privileges that live on in me today.
+My parents, who filled our home with books and music, helped me learn to question, drove me countless times to the public library, and created enough stability at home that I didn't leave there a broken person. These are priceless gifts and privileges that live on in me today.
 
 Jonathan Stark, for challenging me to specialize years ago.
 
@@ -26,4 +26,4 @@ Blair Enns, whose _Win Without Pitching Manifesto_ was an impactful experience t
 
 David C. Baker, who has long offered warm support for my work and who included me in a wonderful writing retreat in late 2019 that helped push the third edition of this book over the finish line.
 
-And finally, I thank the 2,081 customers of the first and second edition of this manual, especially all those who wrote with thoughtful and challenging questions that helped me pierce the epidermis of expertise on this topic so I could bring you this much improved version of the manual. I couldn't have done it without y'all.
+And finally, I thank the 2,081 customers of the first and second edition of this manual, especially all those who wrote with thoughtful and challenging questions that helped me pierce the epidermis of expertise on this topic so I could bring you this much improved version of the manual. I couldn't have done it without y'all. Thank you.
