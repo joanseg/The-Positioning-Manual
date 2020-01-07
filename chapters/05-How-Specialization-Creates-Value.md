@@ -1,5 +1,9 @@
 # How Specialization Creates Value
 
+EDITING NOTES:
+
+- RE-CAST "CONNECT AND BUILD TRUST" AS "EARN VISIBILITY AND TRUST"
+
 Specialization helps your business create more value, and creating more value makes it easier to charge premium rates and attract good clients. This ability to create more value is the core reason to specialize.
 
 Specialization adds value in two specific ways. First, it *addresses marketing inefficiencies*. And second, specialization makes it possible for you to *cultivate exceptionally valuable, rare expertise*. Much more on both of these in a moment.

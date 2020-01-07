@@ -1,5 +1,9 @@
 # Understanding the Timeline
 
+EDITING NOTES
+
+- UPDATE POV SECTION
+
 Specialization is the decision to focus; a market position is the reputation you build up over time as a result of consistent, disciplined followthrough on that decision.
 
 ***"Most people overestimate what they can do in one year and underestimate what they can do in ten years." --Bill Gates***

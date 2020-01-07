@@ -53,7 +53,7 @@ At first, this initial specialized focus might be a specialized application of s
 
 Over time, you'll see the ways in which skill is not enough to create the desired impact. You'll learn from others who guide your skill with expertise. You'll see common failure points and learn to see them coming so you can avoid them in the future. You'll get curious about what might create greater business impact, and this curiosity will lead to self-directed learning or research that expands your understanding of the context in which your skills operate. You'll learn what stuff your clients tend to be blind to, or what assumptions turn out to be harmful later in the project when they're harder to correct.
 
-Over time, you will fill the barrel of your "syringe" with what I call a complete solution, which is a blend of skill and contextual understanding that's optimized for maximum business impact on an important business issue.
+Over time, you will fill the barrel of your "syringe" with what I call a complete solution, which is a blend of skill, contextual understanding, and a truly unique implementation process that's optimized for maximum business impact on an important business issue.
 
 Here's how this works over time. It might be possible to start with the syringe and the serum inside it, but it doesn’t actually work that way.
 
@@ -77,7 +77,7 @@ Here's where the element of time becomes important. You'll choose a needle by de
 
 At this point you can either give up entirely, retreat to a more superficial layer, or get serious about solving the deeper problem. Even if you decide to get serious about solving the deeper problem (and I hope you do, because the world needs more self-made experts like you!), you will spend some time living in that satisfaction gap I mentioned earlier. You'll spend some time knowing that there's a problem that you have access to but can't solve to your full satisfaction.
 
-This dissatisfaction will lead you to organize and pursue side quests, in search of the context, skill, complementary expertise, or data you need to really solve the deeper problem. It is during this phase of your career that you'll need even more discipline and discernment, because you now have a focus problem all over again.
+This dissatisfaction will lead you to organize and pursue side quests, in search of the context, skill, complementary expertise, a unique implementation method, or data you need to really solve the deeper problem. It is during this phase of your career that you'll need even more discipline and discernment, because you now have a focus problem all over again.
 
 You thought the focus problem was over when you made that initial courageous specialization decision! Again, if you were simply pursuing marketing efficiencies, it might have ended there. But you're pursuing deep self-made expertise that creates valuable business impact. And there's almost certainly no curriculum to guide you as you do this. So now not only do you have to learn a lot of stuff, you have to invent the curriculum that guides your own learning!
 
@@ -128,7 +128,7 @@ Your vision for the role your expertise could play is going to be deeply persona
 
 * It's worth the work it takes to cultivate a vision for **what your expertise is for**. It keeps you going when the going gets tough.
 * If in doubt, **cultivate the most generous version** of your vision you can. Even if it doesn't work out financially, you'll have fewer regrets if you choose generosity, and you’ll become a person you can love more.
-* As you cultivate a vision, **do lean out over your skis**, but not so far that you crash. Seeing no meaningful progress towards a vision that's important to you is flat out discouraging. Working towards a career vision that could be fully realized in a year is too small a challenge to bring out the best in you. There's going to be a happy medium that's different for different folks. Choose a level of ambition that excites you--maybe even scares you a little--but also brings out the best in you.
+* As you cultivate a vision, **do lean out over your skis**, but not so far that your business becomes an unstable system. Seeing no meaningful progress towards a vision that's important to you is flat out discouraging. Working towards a career vision that could be fully realized in a year is too small a challenge to bring out the best in you. There's going to be a happy medium that's different for different folks. Choose a level of ambition that excites you -- maybe even scares you a little -- but also brings out the best in you.
 * Finally, cultivate a vision that is relevant to those you seek to serve—one that is grounded in their needs or desires, not yours. If following this maxim leads you to an overly ambitious, unrealistic vision, go more narrow on who it is you want to serve before you lower your expectations about how much you can help them. In fact, avoid at all cost lowering your expectations about how much you can help. It will be far more satisfying to deeply impact 1000 people than to superficially impact 10,000, and as a side benefit it's significantly easier to connect and build trust with 1000 than 10,000.
 
 Finally, notice that I'm most often talking about your vision effecting *people*. Now in reality, your vision needs to be relevant to *people who have the ability to pay you for delivering services that are profitable for you to deliver*. So I definitely mean for you to cultivate a vision that draws revenue, profit, and business opportunity towards you. 
@@ -211,6 +211,7 @@ In other words, if you're only focused on the short term, your decisions may not
 I'd like to explore this tension a bit, with a focus on the non-monetary value that some work can have for you.
 
 ### Strategic Value
+
 If you decide to do something because doing that thing might create value in the future or give you better options in the future, you have done two things.
 
 **First, you have taken a risk.** Your decision might not work out the way you thought! That future value might not materialize. Those future better options might not become available to you. Or they might! 
@@ -229,7 +230,7 @@ Instead, when you're earlier in your career or trying to transition from impleme
 
 I think you should at least consider taking that immediate revenue-strategic value tradeoff when it shows up. And if these kinds of lower revenue-higher strategic value opportunities don't show up for you, I think you should actively cultivate them in order to move your career more assertively towards cultivating exceptionally valuable expertise.
 
-There's an implicit point of view I'll make explicit here: if you're just starting to move out of a generalist market position, I believe that it's easier to get access to opportunities that are _primarily_ strategically valuable than it is  opportunities that are _both_ lucrative and strategically valuable. Said differently, if you can delay financial gratification a bit -- maybe 2 or 3 years -- I think you can spend that time optimizing for the future value of your expertise at the expense of short-term revenue. I think this is an awesomely desirable tradeoff if you can afford to make it. Graduate degree students do it all the time. I hope you can, too.
+There's an implicit point of view I'll make explicit here: if you're just starting to move out of a generalist market position, I believe that it's easier to get access to opportunities that are _primarily_ strategically valuable than it is opportunities that are _both_ lucrative and strategically valuable. Said differently, if you can delay financial gratification a bit -- maybe 2 or 3 years -- I think you can spend that time optimizing for the future value of your expertise at the expense of short-term revenue. I think this is an awesomely desirable tradeoff if you can afford to make it. Graduate degree students do it all the time. I hope you can, too.
 
 Let's talk about how to evaluate the strategic value of opportunities.
 
@@ -352,7 +353,7 @@ Candidates for these unknowns will most certainly include:
 
 There is some overlap between these questions, and that's intentional. I wanted to ask them in a way that spurs thinking for you, and so several of them approach the same issue from slightly different angles.
 
-What I'm proposing here is simply a form of service (“Serve, don’t sell!” --Liston Witherill) to your target market based on collecting, organizing, and sharing useful information with them. I wonder if that framing changes your concept of research? 
+What I'm proposing here is simply a form of service [^“Serve, don’t sell!” --Liston Witherill] to your target market based on collecting, organizing, and sharing useful information with them. I wonder if that framing changes your concept of research? 
 
 As you consider how you might use research to find more ambitious client work, you're really answering these two questions for yourself:
 
@@ -470,7 +471,7 @@ The world *needs* your self-made expertise, but there's no reserved seat at this
 
 ## Flexibility
 
-Earlier I said: Expertise naturally seeks Venn Diagram overlaps between impact and risk. In other words, _experts_ feel the gravitation pull of this place on the venn diagram, and they deploy their curiosity and energy in this direction. Alternately, maybe they just follow their muse and the market rewards those that focus on these kinds of venn diagram overlaps and ignores those that don't (this would be a survivorship bias explanation).
+Earlier I said: Expertise naturally seeks Venn Diagram overlaps between impact and risk. In other words, _experts_ feel the gravitation pull of this place on the venn diagram, and they deploy their curiosity and energy in this direction. Alternately, maybe they just follow their muse and the market rewards those that focus on these kinds of venn diagram overlaps and ignores those that don't [^This would be a survivorship bias explanation].
 
 To follow the gravitational pull of impact and risk, you'll need to be flexible, because your initial decision about how to specialize may need to be updated as you move up the ladder of expertise. As you do this, you're following the "scent" of value.
 
