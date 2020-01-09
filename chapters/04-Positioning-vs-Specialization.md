@@ -1,4 +1,4 @@
-# Positioning vs. Specialization
+# [CH04] Positioning vs. Specialization
 
 When I ask you to think of the *best* cloud platform-as-a-service, what company or platform do you think of?
 
@@ -46,7 +46,7 @@ Lots of us who start out as freelancers and then graduate to consultants or entr
 
 Then our career progresses and we become more intentional and willing to be more disciplined, and that means either sticking with a subset of our initial target market because we have a head start there, or intentionally choosing a different target market either because our interest doesn't align with our head start or because we have no head start at all.
 
-### {Heading here?}
+# Value
 
 Value is contextual. 
 
@@ -58,9 +58,11 @@ Let's review: Your market position is your reputation among a _specific_ group o
 
 - **How** do you want to be perceived?
 - **Among what group** do you want to be perceived that way?
-- You probably are not currently perceived in the way you'd like to be. So the last question is: **what needs to happen *now*** to cultivate the reputation you want _over time_?
+- You probably are not currently perceived in the way you'd like to be. So the last question is: **what needs to happen _now_** to cultivate the reputation you want _over time_?
 
 **The action you take *now* in service of *a future reputation* is usually some form of *specialization*.**
+
+# Nouns vs. Verbs
 
 Grammatically speaking, the word "positioning" is a verb. It's a thing you *do*. Except when it comes to marketing for services, that's exactly what positioning is _not_. 
 
@@ -72,19 +74,21 @@ For now, just know that it's a sort of lazy convention within marketing to talk 
 
 That said, there is a verb that describes exactly what it is you do to build a desirable market position. That verb is "specialize" or "specialization".
 
-## Specializing is an action
+# Specializing Is An Action
 
 The act of specializing begins with a decision about focus. Where do you want to focus? You could focus on a target market, focus on type of problem you want to solve, focus on a type of change you want to effect, or focus on a specific and possibly unique way of delivering your services. There really are only about 4 basic ways you can specialize.
 
-After you've made the decision about where to focus [^ There will be **much** more about making the specialization decision this later in this book], you apply time and discipline to grow this seed of a decision into a desirable market position. I like the following analogy so much I used it for the cover of this book: The decision about how exactly to specialize is the seed, time and discipline are the nourishment that seed needs, and the plant we see growing out of the ground after some time passes is the market position.
+After you've made the decision about where to focus [^ There will be **much** more about making the specialization decision later in this book], you apply time and discipline to grow this seed of a decision into a desirable market position. I like this analogy so much I used it for the cover of this book: The decision about how exactly to specialize is the seed, time and discipline are the nourishment that seed needs, and the plant we see growing out of the ground after some time passes is the market position.
 
 {TODO: book cover/theme image shown here}
 
-## About time
+# About Time
 
 Time is a critical element in cultivating a market position for a services business. Just like no plant grows from a seed to maturity overnight, you can't create a market position overnight. 
 
 The concept of a market position applies to more than just services, it also applies to products and brands. When we look at how services businesses and product businesses cultivate a market position, we see some significant differences, especially as it relates to _time_. Understanding these differences will help you contextualize the various bits of advice about positioning that you'll come across from various sources.
+
+## Inherent Objective Observability
 
 Product positioning is based on the inherent objective observability of a product, and the ability of advertising to amplify a message about those observable features.
 
@@ -96,11 +100,15 @@ Products also tend to have fixed, known prices, which further lends a sense of o
 
 Services have no such objective observability. 
 
+## Services Lack Observability
+
 Because most services are custom scope, custom price, and delivered under various forms of secrecy, they lack this quality of objective observability. We try to compensate for this with case studies, testimonials, and other post-hoc artifacts that come from successful engagements. This is how we try to make our services seem more objectively observable, but ultimately they are not. They're like any human relationship: there's the reality of the relationship, there's what your close friends know about it, and there's what everybody else thinks they know about it. Those are three distinctly different categories of knowledge about the actual thing, and only one of them can see the full reality. 
 
 The inherent observability of products means that advertising or PR can be used to amplify that observability and more quickly build a market position. Even if you've never driven a car made by Tesla Motors, you probably know roughly what it would be like to drive one. That's because you've seen them photographed, videoed, talked about, reacted to by others -- all at scale -- and this creates for you a mental model of what it would be like to drive the car. 
 
 Contrast your mental model of what it would be like to drive a Tesla with your mental model of what it would be like to hire and work with McKinsey & Company. That's also a prestigious brand, but it's a services company with much less inherent observability. If you've never hired or worked with McKinsey & Company, how would you possibly know what it's actually like to have the experience of working with them?
+
+## Time And Reputation
 
 The inherent observability of products means it can be faster and easier to develop a reputation for a product. With a $5,000 budget and a week of time you could develop a reputation for a product that doesn't even exist. [^I'm not saying this is legal or ethical.]
 
@@ -110,14 +118,14 @@ In doing this you would be tapping into the ad audience's latent associations, b
 
 To be fair, some of this also applies at least partially to the world of services. There are "hacks" that can more quickly build your reputation -- at least among individuals. Price, visual branding, and certain forms of social proof are three of these "hacks" because they're signals that shortcut some of the normal work or time required for reputation-building. 
 
-In the main, however, a reputation for a services business takes time to build. It's like a seed for a tree, which will take years to grow into something substantial, not a tomato plant that can grow to maturity in a few months. Reputations are built over years, not days or weeks[^I scarcely need mention they can be damaged much faster than they can be built]. Although it can occasionally happen faster, you should plan on at least 3 years of focused, disciplined effort to translate a specialization decision into a strong market reputation.
+In the main, however, a reputation for a services business takes time to build. It's like a seed for a tree, which will take years to grow into something substantial, not a tomato plant that can grow to maturity in a few months. Reputations are built over years, not days or weeks[^I scarcely need mention they can be damaged much faster than they can be built.]. Although it can occasionally happen faster, you should plan on at least 3 years of focused, disciplined effort to translate a specialization decision into a strong market reputation.
 
-## Standing on shoulders
+# Standing On Shoulders
 
 I did not invent the concepts of market position and specializing. Far from it! These concepts were formalized decades ago, and have been around in some less well defined form for much longer. Others, noted in the Bibliography, have written very useful books that are well worth reading if you're a student of marketing or wanting to understand a variety of perspectives on positioning.
 
-I wrote this book because nobody else has explained exactly how specialization, market position, and expertise relate to each other within the domain of solo practitioners or small shops who provide technology consulting services[^Though David C. Baker has written an excellent, slightly more general-purpose treatment of positioning and expertise in his _The Business of Expertise_.]. Taking advantage of these three concepts can transform your business, and so a book that addresses them within the specific context of a business like yours needed to exist.
+I wrote this book because nobody else has explained exactly how specialization, market position, and expertise relate to each other within the domain of solo practitioners or small shops who provide technology consulting services[^Though David C. Baker has written an excellent, more general-purpose treatment of positioning and expertise in his _The Business of Expertise_.]. Taking advantage of these three concepts can transform your business, and so a book that addresses them within the specific context of a business like yours needed to exist.
 
-## Chapter Summary
+# Chapter Summary
 
-I won't hunt you down and yell at you if you conflate specialization and market position, but it's useful to distinguish them just like it's useful to distinguish between any cause-effect pair. Specialization is the decision you make, time and discipline are the nutrients to that decision, and a desirable market position is the ultimate outcome of those two other ingredients.
+I won't hunt you down and yell at you if you conflate specialization and market position, but it's useful to distinguish them just like it's useful to distinguish between any cause-effect pair. Specialization is the decision you make, time and discipline are the nutrients to that decision, and a desirable market position is the ultimate outcome of those two ingredients.

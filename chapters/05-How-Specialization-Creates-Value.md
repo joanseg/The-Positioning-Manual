@@ -1,4 +1,4 @@
-# How Specialization Creates Value
+# [CH05] How Specialization Creates Value
 
 EDITING NOTES:
 
@@ -8,13 +8,13 @@ Specialization helps your business create more value, and creating more value ma
 
 Specialization adds value in two specific ways. First, it *addresses marketing inefficiencies*. And second, specialization makes it possible for you to *cultivate exceptionally valuable, rare expertise*. Much more on both of these in a moment.
 
-## What is Marketing?
+# What Is Marketing?
 
 If I'm going to talk about how specialization addresses marketing inefficiencies, then I need to start with this question: **what actually *is* marketing**?
 
 There are lots of definitions, and a few really useful definitions. There are clever ones too, like Peter Drucker saying, "The aim of marketing is to make selling superfluous." This is a warm and fuzzy sentiment for marketers, but it doesn't really say anything about what marketing actually is and does.
 
-On the more useful end of the spectrum, let's start with Seth Godin’s definition: (I’m paraphrasing here): **marketing is changing the culture**. I know it's incredibly broad, but it's an important fundamental truth about marketing. But, as you know by now, as specialized businesses our target market is never "the world" or "every user of $THING" or "the culture at large". We can't cultivate a reputation (aka market position) among groups of people that large. So Seth's definition is sweepingly broad.
+On the more useful end of the spectrum, let's start with Seth Godin’s definition: (I’m paraphrasing here): **marketing is changing the culture**. I know it's incredibly broad, but it's an important fundamental truth about marketing. But, as you know by now, as specialized businesses our target market is never "the world" or "every user of $THING" or "the culture at large". We can't cultivate a reputation (aka market position) among groups of people that large. Seth's definition is sweepingly broad.
 
 Fine, let’s narrow Seth's definition down a bit to the level of _businesses like yours_. When we do that, we get a definition more like this: **Marketing is changing how prospective clients understand your business**. In this view, marketing is merely taking charge of how your prospective clients understand your business and what you can do for them.
 
@@ -39,7 +39,7 @@ I hope that if you've thought of marketing as manipulative, sleazy, or somehow m
 
 Now let's get back to that idea of marketing inefficiencies.
 
-## About marketing inefficiencies
+# About Marketing Inefficiencies
 
 If you neglect the following "defaults" of human behavior, you will find that your marketing often doesn't work:
 
@@ -59,17 +59,17 @@ Specialization helps you use these *helpful* defaults in human behavior to conne
 
 There are 9 specific ways that specialization addresses marketing inefficiencies.
 
-### 1) Insider status
+## 1) Insider Status
 
 When you specialize, you become an insider to an industry vertical, an audience, or a functional area of the business world[^An example of a functional area of a business is the supply chain, to pick just one example from many]. You won't become a highly connected, highly trusted insider quickly. That takes time and work. But you will become an insider rather than an outsider, and in so doing you've become a member of a new _social group_. Because humans tend to treat members of _their social group_ better than outsiders, you will gain an advantage.
 
-### 2) Solution-seeking
+## 2) Solution-Seeking
 
 Especially if you specialize in some sort of evergreen business problem or functional area of the business world, you can benefit from the solution-seeking behavior we humans default to. 
 
 I'm reminded of the 1984 film _The Terminator_, and I like to imagine prospects who are feeling lots of urgency in their focused search for a solution as Terminator T-800's, with their heads-up displays seeking and scanning for their target which -- in a happy departure from the film's plot -- might be you and your ability to provide a solution to the problem that's driving their mission. Most people are not "Terminators", and so they'll ignore you or dedicate only a little bit of attention to what you're doing. If you're a generalist, you're probably used to that anyway. :) After you specialize, even more will ignore you. That's also OK, because the Terminators definitely will *not* ignore you. Their internal heads-up-display will light up like a Christmas tree when they find you, and that's exactly what you want.
 
-### 3) Cultural status
+## 3) Cultural Status
 
 Western cultures confer elevated social status on experts. Experts are almost always specialized, and even polymaths -- which we tend to think of as hyper-accomplished generalists -- tend in reality to be serial specialists.
 
@@ -87,7 +87,7 @@ Part of this cultural inheritance is a heuristic that confers relatively high st
 
 Is it _true_ that specialists are more important, and therefore worthy of higher social status, than non-specialists? It doesn't matter, because there are enough heuristics out there running on autopilot inside the minds of enough people that we -- at least in Western cultures -- act as if specialists are of higher status. The elevated social status of specialists makes it easier for them to charge super-premium rates. 
 
-### 4) Memorable, shareable, discoverable
+## 4) Memorable, Shareable, Discoverable
 
 Specialization often makes your message about what you do or the value of what you do more memorable, shareable, and discoverable.
 
@@ -111,7 +111,7 @@ On the other hand, if you are searching for a very niche topic, there will simpl
 
 Finally, as you specialize, you will start having more contact with prospective clients within your area of focus. So their chance of "bumping into you" online or otherwise will increase because you'll both be part of the same social group. This also serves to make your business more discoverable.
 
-### 5) Better targeting
+## 5) Better Targeting
 
 Specialization makes it dramatically easier to conceive of _who_ you are trying to reach, which creates a multitude of positive second-order effects.
 
@@ -119,7 +119,7 @@ There are many reasons why marketing as it's usually practiced sucks, but lack o
 
 The first thing I usually see happen with people who have chosen a specialization is a flood of new ideas about how they can start talking to prospective clients in dramatically more specific, relevant ways. If they're already producing content marketing or have held back on doing so because of a lack of clarity on who they are trying to reach, it's a flood of ideas about content they could create to reach and serve a specific type of services buyer. Or if they're not even that far along in doing disciplined lead generation, then it might be a flood of ideas about how that can -- for the first time -- clearly communicate the value of what they do. Sometimes it's as simple as knowing who to ask for referrals.
 
-### 6) Marketing message
+## 6) Marketing Message
 
 As soon as you decide *who* your services are for, you can communicate more effectively with those prospects. I wrote the previous sentence, went on a short break, and then when I returned and looked at it, it seemed ridiculously simple. Like, insulting-your-intelligence simple. And yet, how many of your peers know **exactly who** to recommend *your* services to? How many of you know exactly what keeps your clients awake at night? How many of you have received compliments from prospective clients about the powerful message they saw on your website? Specialization isn't complicated, it's just something that requires courage, and so it's less common than the other approach of trying to serve basically everybody.
 
@@ -137,13 +137,13 @@ Your marketing message is a short story about how a specific protagonist (your i
 
 Remember that earlier in this chapter I said that the default human behavior is to misunderstand, forget, or not trust/believe your marketing message/story. For this reason, your marketing message contains a story, but it also needs to include other elements to help strangers *believe that the story could be true for them*. I won't get into those other elements here, but in brief they are *proof* and *demonstrations of expertise*.
 
-### 7) More effective inbound
+## 7) More Effective Inbound
 
 Inbound marketing, if you're not familiar with the idea, is activities that are meant to attract prospective clients to you. A great example is guesting on a podcast, saying something that resonates with a prospective client, and they respond by seeking you out and engaging your services. Inbound marketing often takes the form of publishing useful stuff and hoping that it connects and resonates with prospective clients that are a good match for your services.
 
 Specialization can make your inbound marketing activities more effective because it gives you _clarity_ about who you are trying to connect with. That clarity makes it possible to understand what those you are trying to reach care about. This is insight into your market. This kind of insight makes it possible to earn their attention. Earning attention is the first step towards connecting and building trust.
 
-### 8) Easier outbound
+## 8) Easier Outbound
 
 If you're not familiar with the idea, outbound marketing is reaching out to prospective clients and checking for need or interest, or simply inviting them to become aware of your services. Specialization makes outbound marketing easier to execute and more effective for the same reasons it makes inbound more effective.
 
@@ -155,7 +155,7 @@ It's worth pointing out that there are certain professions you will _never_ see 
 
 It's also worth pointing out that there are certain forms of specialization where outbound marketing simply *can't* work. Specializing in uncommon problems (ex: integrating a certain ERP with a certain warehouse management system) is the prime example. How can you know what businesses need help with the problem you focus on? You don't want to be like a brain surgeon standing on a street corner asking every passer by to come in for a MRI scan. That's not relevant, polite, or efficient.
 
-### 9) Force multiplier
+## 9) Force Multiplier
 
 Finally, specialization acts as a force multiplier for your efforts to connect and build trust with prospective clients because it allows you to focus the same amount of force on a smaller area to achieve impact faster. You could think of how the Allied forces in Word War 2 chose a beachhead for their invasion of occupied France. They focused a lot of force on a very small area in order to push through enemy defenses. The same amount of force spread over a larger area would have been less effective. You could also think of how a hypodermic needle, with its extremely sharp tip, makes it easier to penetrate multiple layers of skin to deliver its contents to a vein or to deep tissue without harming the surrounding skin. Meditate on this! I'll build on this idea later in this book.
 
@@ -163,14 +163,14 @@ Concentrating force in this way makes it easier for you to "be everywhere", beca
 
 When I say that specialization addresses marketing inefficiencies, it does so for one, several, or all of the 9 reasons described above. Even having just one or two of those 9 advantages working in your favor can make your efforts to connect and build trust with prospective clients dramatically more effective.
 
-## About cultivating exceptionally valuable expertise
+# About Cultivating Exceptionally Valuable Expertise
 
 Earlier I said: Specialization adds value in two specific ways. First, it *addresses marketing inefficiencies*. And second, specialization makes it possible for you to *cultivate exceptionally valuable, rare expertise*.
 
 The second benefit of specialization is an added ability for you to cultivate expertise. This idea really needs its own chapter, so that's what the next chapter is about.
 
-## Chapter Summary
+# Chapter Summary
 
 Specialization adds value, both for you and your clients. This chapter focused on how it adds value for _you_, primarily through addressing marketing inefficiencies. Marketing inefficiencies are based on hardwired human behavioral defaults, so there's no point to trying to change those defaults. You have to change how you attempt to connect and build trust instead.
 
-Specialization is how you execute that change. It aligns you with human behavioral defaults by making you an insider, engaging our natural solution-seeking behavior, and by raising your status. It creates too many additional benefits to list individually here, but aligning with human behavioral defaults is the most essential way in which specialization makes your attempts at connecting and building trust more effective.
+Specialization is how you execute that change. It aligns you with human behavioral defaults by making you an insider, engaging our natural solution-seeking behavior, and by raising your status. It creates too many additional benefits to list individually here, but aligning with human behavioral defaults is the most essential way in which specialization makes your attempts at earning visibility and trust more effective.
