@@ -1,8 +1,8 @@
-# Managing the Fear
+# [CH09] Managing the Fear
 
 Chapter 3 warned you about The Fear. But, now that you've peered more deeply into the world of specialization and what your options might be there, it's a good time to talk about practical ways to manage The Fear.
 
-## The first fear management approach is to_lower the stakes_
+# The First Fear Management Approach Is to _Lower The Stakes_
 
 Lowering the stakes might look like specializing a digital marketing funnel as a low-stakes way to experiment with various possible specializations before committing more fully. 
 
@@ -12,7 +12,7 @@ My main caveat here is to properly align your expectations. Lowering the stakes 
 
 Lowering the stakes is not a panacea, and it's not the only right approach.
 
-## The second fear management approach is to _gather more evidence_
+# The Second Fear Management Approach Is To _Gather More Evidence_
 
 Specializing can feel like making a decision that has high stakes: significant potential consequences; specifically a significant potential for loss. When you make a decision like that without a lot of information, it's naturally a bit intimidating. You find yourself saying things like "Am I really just guessing here?" or "How can I be sure this will work out well for me?". 
 
@@ -22,7 +22,7 @@ But what you can do is gather evidence. You can look "look before you leap". You
 
 Chapter 12 goes way deeper into this, but for now just know that the best antidote to uncertainty is the right kind of data interpreted in the right kind of way. I refer to this as evidence, and Chapter 12 suggest what kinds you'll need, and how to gather it.
 
-## "I'm _mad as hell_, and I'm not going to take this anymore!"
+# "I'm _Mad As Hell_, And I'm Not Going To Take This Anymore!"
 
 I've seen some folks use the emotional energy of anger to fuel a transition from generalist to specialist. I think this is part of what helped me make the leap at a critical point in my own career.
 
@@ -30,7 +30,7 @@ Thanks to our mammalian fight-or-flight wiring, anger can temporarily override o
 
 This kind of focused, righteous anger could be a very effective antidote to The Fear, and a very effective catalyst for bold decision-making as you decide what specialization opportunity to pursue. This isn't something you'd do on purpose, but if you happen to be feeling angry about how things are going as a generalist, that anger could fuel a (still carefully considered, I hope) move to a specialist market position.
 
-## _Courage and risk tolerance_ are the best antidote
+# _Courage and Risk Tolerance_ Are The Best Antidote
 
 The fear management approaches described above come with compromises. This one doesn't: Do something courageous! Take a calculated risk! If you can do this with the question of how you focus your business, you can do it with lots of other aspects of your business, and I can't think of any real downside to acquiring this new ability to take calculated risks.
 
@@ -38,7 +38,7 @@ I'm not recommending wild or indiscriminate risk-taking. I'm simply recommending
 
 If you're not currently in the position to make a courageous specialization decision, of course that's OK. Your focus instead should be taking smaller risks and smaller forms of assertive action, perhaps focused on increasing rates or profitability within your current generalist market position. These kinds of smaller risks will give you practice with risk-taking as well as pave the way for making bigger and bolder changes in your business.
 
-## Suggestions for cultivating courage
+# Suggestions For Cultivating Courage
 
 Specialization is not a face tattoo. I mean to be both serious and humorous here.
 
@@ -51,7 +51,7 @@ To contextualize how serious a decision specialization is, let me sketch out a s
 - Getting legally married. You can get un-married, but not without some level of paperwork that -- even in Oregon where I got divorced -- is more extensive than what you signed to get married in the first place. And that's not counting the emotional and financial cost of a separation and all that might happen during and after the separation/divorce.
 - Getting a tattoo on your face. Yes, these can be removed, but that's painful, and the affected skin is never the same as it was before the tattoo. It really is, in some sense, truly permanent. It's the only thing on this list that *is*physically permanent.
 
-	My first suggestion for cultivating courage is to realize where specialization actually fits in this spectrum from easy-to-change to impossible-to-change. Depending on several things (how complex your marketing infrastructure is, how big or complex your business is), I'd say specialization is somewhere between buying a TV and buying a house in terms of how difficult it is to change. If you're evaluating decisions in terms of permanence, you should put a _lot_ more thought into getting a face tattoo than any of the other decisions on this list. :)
+My first suggestion for cultivating courage is to realize where specialization actually fits in this spectrum from easy-to-change to impossible-to-change. Depending on several things (how complex your marketing infrastructure is, how big or complex your business is), I'd say specialization is somewhere between buying a TV and buying a house in terms of how difficult it is to change. If you're evaluating decisions in terms of permanence, you should put a _lot_ more thought into getting a face tattoo than any of the other decisions on this list. :)
 
 I need to remind you of the difference between specialization and your market position. Specialization is the front-end decision; your market position is the reputation you build up by specializing and following through on it for years. 
 
@@ -59,7 +59,7 @@ A market position is much harder to change than a specialization decision. It's 
 
 The takeaway here is that _you have freedom to experiment with your specialization_, especially earlier in the process. I hope knowing this helps you make a more courageous decision. It's easier to be courageous when you realize you're making a decision that can be changed or un-made.
 
-## See how specialization works for others
+# See How Specialization Works For Others
 
 I do a lot of labor-of-love work in this area to help show how specialization actually works:
 
@@ -78,7 +78,7 @@ Ask them the following:
 - What advice do you have for others wanting to specialize
 - What might you do differently next time?
 
-## Run the numbers
+# Run The Numbers
 
 Again, nothing is 100% guaranteed, but here's what I've seen regarding the financial upside of specialization.
 
@@ -97,7 +97,7 @@ Run the numbers for yourself. What would a 100% to 300% increase in profitabilit
 
 What you're doing here is *building a vision* for what your future could look like. That's why it's important to be specific. When you daydream about something desirable, you're specific. This is just "daydreaming on purpose", and it can help you move through fear and indecision.
 
-## Estimate the cost of _not_ specializing
+# Estimate The Cost Of _Not_ Specializing
 
 Avoiding change seems like a way to spare yourself the cost of changing, but avoiding change also has a cost of its own.
 
@@ -117,7 +117,7 @@ To be clear, I _am_ trying to make a strong case for specializing here and suppo
 
 It's a little bit like getting married or being in a long-term romantic relationship. If _you_ don't fundamentally want to do it, it won't work. Romantic partners and the market can both smell someone who is pretending to want them, and neither of them ultimately react well to that odor.
 
-## Chapter Summary
+# Chapter Summary
 
 The best antidote to The Fear is courage combined with realizing that specialization is not a face tattoo. Courage is such a useful asset in business. Why not start cultivating it now with a courageous specialization decision?
 

@@ -1,4 +1,4 @@
-# About the Business Value of Expertise
+# [CH06] About The Business Value Of Expertise
 
 Specialization can transform your marketing, which is awesome, but it can also transform _you_, and that's the real reason to get excited about it.
 
@@ -6,7 +6,7 @@ The words *skill* and *expertise* are often used interchangeably, but they do no
 
 Let's agree, at least for the purposes of the rest of this book, to use *skill* to describe the technical ability to get something done and *expertise* to describe understanding business context, planning effectively, and guiding the deployment of skill so that the skill creates desirable business impact. Skill gets it done; expertise ensures it has meaningful impact for your client.
 
-## About skill
+# About Skill
 
 Before I go any further, I need to assure you that I deeply respect skill. It has tremendous value to the human race, and it is well worth investing in acquiring skill. Skill is a necessary building block, not an optional one. 
 
@@ -14,7 +14,7 @@ I am sure that you have worked hard to acquire and refine whatever skill(s) you 
 
 If your business model is based on renting access to your skill alone, then you have a three-pronged problem: 1) Skill markets tend towards commoditization, 2) skills are easily replicated, and 3) differentiating based on skill alone is almost impossible. Let's understand each of these problems.
 
-### Commoditization
+## Commoditization
 
 Modern business models and human resources departments are what has defined skill as "an ability to perform a discrete, standardized task or group of tasks". Some specific examples: 
 
@@ -31,7 +31,7 @@ There is plenty of money to be made on the selling side of commoditized markets.
 
 To be clear, most service providers would prefer to avoid a commoditized market for their skills. However, commoditized markets emerge when the supply side participants fail or don't even try to create *meaningful differentiation* between their offerings and other offerings in the market. The demand side of a market will generally apply pressure to commoditize it because a commoditized skill market is easier to buy from. In the world of self-employed service providers and freelancers with business models based on skill rather than expertise, this kind of commoditization dynamic is not the exception, it's the norm.
 
-### Easily replicated
+## Easily Replicated
 
 Your skills are easily replicated by competitors. The prevalence of open source software and tooling in the modern custom software development industry and the eagerness of many advanced technologist to share what they know makes it relatively easy to acquire new skill. The longer a skill has been in existence the more freely available documentation there will be for that skill. The longer a tech platform has been around, the more libraries, frameworks, and best practices will exist to support it and reduce the need for advanced skill.
 
@@ -39,7 +39,7 @@ While formal education certainly exists within the world of software development
 
 Becoming a competent software developer requires little money or specialized equipment. It certainly helps greatly to have real world experience, but on that point, compare yourself to an attorney or surgeon. If you have the time, you can build all kinds of amazing stuff. Via cloud computing and open source you have access to the exact same tools that Amazon or Netflix run multi-billion dollar businesses on. You can practice experientially in a way that more closely resembles "real life". Now think about someone wanting to become a litigator or surgeon. How can they practice those skills in a situation approximating real life? They can't. If they tried, they'd literally be breaking the law.
 
-### Difficult differentiation
+## Difficult Differentiation
 
 Remember in chapter 4 I compared the inherent objective observability of products to the relative lack of observability that services have because services are essentially delivered in secret. Remember in chapter 5 I pointed out the human default to not trust your claims. This means that even if your skills are vastly superior to those of others, it's difficult for prospective clients to observe, assess, and trust this superiority.
 
@@ -53,7 +53,7 @@ These are valiant attempts at differentiation because they're talking about how 
 
 To be clear, lots of us manage to get into this game *without* those forms of competence[^I got into the  services business game without much in the way of real competence.]. That's why we're so proud of ourselves when we finally achieve them. We learned them the hard way, on the job. And that *is* something to be happy about. But to be clear, competence in skill delivery is the *minimum*, not something that more demanding clients will get excited about. The fact that so many of us are excited about mere competence is actually a sad condemnation of the state of our profession rather than a point of actual pride. 
 
-### Time-sensitive
+## Time-Sensitive
 
 In the world of software and technology, skill has a relatively short half-life. To understand why, there are three closely related concepts you need to know about. They are what's known as the Rogers curve, Ronald Moore's variation of this idea described in his book _Crossing the Chasm_, and Gartner, Inc's elaboration of the same idea known as the Gartner Hype Cycle.
 
@@ -119,11 +119,11 @@ If you're a typical young software developer, you're excited by this time-sensit
 
 If you think of yourself more as a business owner, this time-sensitive quality of skill alone is somewhere between a neutral fact of life at best, a nuisance, or a significant risk at worse. And if you're focused on using expertise as the raw material to build a career that last 20 years or more, you'll do everything you can to wrap time-sensitive skill in evergreen expertise.
 
-### Easily replaceable
+## Easily Replaceable
 
 Focusing on skill alone makes your business easily replaceable. Remember that skills tend to be defined as discrete blocks of ability. This modularity makes it easier for the business to build a human-powered system, but those human building blocks are meant to be like the interchangeable parts that were such a huge part of the industrial revolution. If all you have to offer is skill -- especially one that is a more mature skill -- you will make your business easily replaceable.
 
-### Own vs. rent
+## Own vs. Rent
 
 If your skill is strategically important to a company, that company will prefer to "own" rather than "rent" it. Owning the skill means hiring a full time employee or building out an internal capacity to deliver that skill. Renting a skill means working with outside contractors, freelancers, or consultants.  While renting a skill may be short-term cheaper than owning it, there is a discovery and switching cost to renting. And even if you can't make a convincing case that owning a strategically-important skill *actually* produces superior results to renting it, that doesn't stop companies from acting as if it does.
 
@@ -131,7 +131,7 @@ Startups are one place where you can see this very clearly. Digital product star
 
 Again, none of the above is meant to denigrate the value of skill. I simply want you to understand the limited ability of *skill **alone*** to make your business valuable. Skill alone is quickly commoditized, easily replicated, and does little to make your company uniquely different from competitors. If your attempt at differentiation is to claim "My company will meet spec really well and deliver this project on or under budget", then you are absolutely setting yourself up to play the commoditization game. You are *inviting* clients to think of you as a commodity.
 
-## About impact
+# About Impact
 
 Skill gets it done; expertise creates impact. What is impact?
 
@@ -155,7 +155,7 @@ As you enter the rightmost region of the hype cycle, skill becomes very commodit
 
 Most tech skills become commoditized in about 5 to 7 years. Some never do, and some remain relatively high-paying even after they are commoditized. If you plan on a new skill being hot for 3 to 5 years, you'll be right a lot more than you'll be wrong.
 
-## About expertise
+# About Expertise
 
 If skill gets it done and expertise creates impact, what actually is _expertise_?
 
@@ -175,7 +175,7 @@ Entrepreneurial experts feel a sort of gravitational pull towards this overlap b
 
 The differences between expertise and skill make it possible to build two different kinds of businesses. They're both considered services businesses, but that's where the similarities end. I refer to a business where skill is the primary asset as an output-based business. And one where expertise is the primary asset is an expertise-based business.
 
-### The output-based business model
+## The Output-Based Business Model
 
 In an output-based business model, you're most likely promising outputs that are measured in the following ways:
 
@@ -191,7 +191,7 @@ At the *advanced* level of this business model, you're promising outputs that ar
 
 Implementation tends to play a critical role in the output-based business model. Providing advice and helping your client make better decisions will be an inevitable part of the output-based business, but these elements are secondary to how this kind of business works.
 
-### The expertise-based business model
+## The Expertise-Based Business Model
 
 With an expertise-based business model, you're most likely promising things that are measured in the following ways:
 
@@ -209,13 +209,13 @@ If you can deliver on these promises then it is almost certainly because you are
 - You are more likely to push back against client assumptions or decisions. You lead in the project more than you follow.
 - Your sales conversations with clients change. You still discuss scope and specifications, but you probably spend more time asking simple questions about motivation and context. You spend more time helping your client explore other possibilities and less time assuming that their a priori assumptions and decisions are valid. And overall, you're more willing to walk away from a potential sale where the client won't let you lead.
 
-## Expertise and marketing
+# Expertise And Marketing
 
 I often say: expertise is both the cause and effect of good marketing. This paradox is at the heart of how you rapidly cultivate self-made expertise.
 
 If you're willing to do something quite simple that seems incredibly risky but actually is not very risky at all, you can use your marketing itself to accelerate your cultivation of valuable expertise. This is what people in my Expertise Incubator program do, so I'll outline the structure of that program as a way to get you thinking about how your marketing can feed forward into your cultivation of expertise.
 
-### Marketing as an expertise accelerant
+## Marketing As An Expertise Accelerant
 
 If you're following my framework, you *don't wait until you've cultivated this deep, valuable expertise to share it*. You share it as you go.
 
@@ -259,7 +259,7 @@ This is my solution to the "chicken and egg problem" of becoming a self-made exp
 
 It's not easy, and it's not emotionally comfortable, but it is something I've tested and can tell you works, and it's faster than other methods (formal education, for example, or waiting until you've stacked up dozens of similar client projects, as another example).
 
-### Expertise as a marketing accelerant
+## Expertise As A Marketing Accelerant
 
 Which of these two pieces of content would you rather put behind an opt-in gate?[^Opt-in gate: A form that marketing leads have to fill out in order to access some piece of content.]
 
@@ -287,7 +287,7 @@ Also kind of a trick question! It really depends who is on your list, doesn't it
 
 I hope these examples have made the point that demonstrating real expertise in your marketing attracts folks who need that expertise, and those folks also tend to seek business impact and be reasonably well-supplied with money to aid their quest for business impact. Demonstrating real expertise in your marketing helps you connect and build trust with ideal buyers for your services.
 
-## Chapter Summary
+# Chapter Summary
 
 Skill is essential, but skill alone is not sufficient to differentiate your business from competitors. Skill alone is also easily commoditized, and its value is very time-sensitive as determined by the market forces described in the innovation lifecycle models that Everett Rogers, Geofrey Moore, and Gartner have created.
 

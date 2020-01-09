@@ -1,4 +1,4 @@
-# Understanding the Timeline
+# [CH10] Understanding The Timeline
 
 EDITING NOTES
 
@@ -8,7 +8,7 @@ Specialization is the decision to focus; a market position is the reputation you
 
 ***"Most people overestimate what they can do in one year and underestimate what they can do in ten years." --Bill Gates***
 
-## How much time does it take to build a market position?
+# How Much Time Does It Take To Build A Market Position?
 
 3 months to 3 years. That's what I want you to be prepared for. It generally requires 3 months to 3 years of consistent work to build up a market position.
 
@@ -20,7 +20,7 @@ Depending on how much _fame_ you want to build into your reputation, it can cert
 
 But if validation of your market position looks more to you like starting to get great referrals from within your area of focus, starting to notice a more favorable power dynamic in your sales conversations, or starting be able to leverage repeated experience to help clients, then 3 years is a pretty realistic timeframe.
 
-## Earning your ability to say no
+# Earning Your Ability To Say No
 
 It's easy to see how specialization works, get excited, and then get unreasonable. For most people, the unreasonable part looks like fantasizing about turning down every prospect that's not a perfect fit for your new specialized focus. When you're at your personal "Peak of Inflated Expectations" around specialization, it's easy to imagine things working this way.
 
@@ -35,7 +35,7 @@ But again, what's much more likely in my experience is a multi-year transition p
 
 This is how you earn your ability to say no. For most of us, we either use this incremental way of earning the ability to say no, or we have a trust fund, burn a year or more of runway, or take on debt.
 
-### Whales, Jonah, and Ahab
+## Whales, Jonah, and Ahab
 
 This is a good place to talk about the two kinds of whales some of you will have to deal with as you cultivate a market position over time. Whale #1 is the one that swallowed Jonah, and whale #2 is the one Ahab wanted to kill.
 
@@ -68,7 +68,7 @@ You might start to practice walking away from sunk cost on a small scale to buil
 
 Seth Godin describes sunk costs as a gift from our past self. And like any gift, we don’t have to receive it. We’ll feel social pressure to do so, but you can drive straight to the Goodwill donation center on your way home from the party where you got that unwanted gift. If you want to. Nobody will know except the future better-off version of you.
 
-## Adjusting/refining over time
+# Adjusting/Refining Over Time
 
 Quick question: what is the oldest memory you have of your answer to the "what do you want to do/be when you grow up?" question?
 
@@ -82,13 +82,13 @@ Some adjustments will be based on changes within you. Changes in preferences, a 
 
 And in some cases, you'll thoughtfully decide to pour gasoline on a market position you've painstakingly built up, throw a match on it, watch it burn all Halloween-orange and chimeney-red, and then walk away gleefully cackling, knowing that you possess the skills and hutzpah to build up a new one that supports a whole new chapter in your life.
 
-## Accelerants
+# Accelerants
 
 As we think about the timeline of specializing and then building up a strong market position around that specialization, it's smart to ask: "what might accelerate things?" "How can I get to a strong market position faster?"
 
 Here are the accelerants I've seen actually work:
 
-### Connections, good timing, and luck
+## Connections, Good Timing, and Luck
 
 I often like to say: unfortunately you’re in a relationship business. I say this because most of us would rather invest in fun tech skills than relationships. But if you happen to be blessed with useful business connections, it can really help because… _you’re in a relationship business_. 
 
@@ -102,7 +102,7 @@ The final accelerant in this group is _luck_. Luck isn’t necessary for a succe
 
 Specialization helps you aim your hard disciplined work in the right direction, which helps increase your luck surface area as well. So as you specialize and work hard at the followthrough you’ll usually get incrementally more “lucky”. But sometimes you get a massively lucky break. When that happens, be deeply grateful, run with the lucky break as far as it will take you, and don’t let your ego take credit.
 
-### Building on a head start
+## Building On A head Start
 
 A head start is some advantage that you possess. Building on an advantage is a specialization accelerant, at least compared to undertaking the same specialization journey without that head start.
 
@@ -117,7 +117,7 @@ Head starts generally take the form of one or more of these advantages:
 * A significant depth of _expertise_ in some area.
 * A significant depth of _insight_ into a target market’s needs.
 
-### Serving an audience generously
+## Serving An Audience Generously
 
 A willingness to invest in serving a market or audience _generously_ with few or no expectations of immediate return is another powerful accelerant I’ve seen.
 
@@ -135,7 +135,7 @@ I should also note that this "be helpful" accelerant is less demanding on you th
 
 Over time, this curation work can make you an expert, or at least very well informed about the context and specifics of the topic of your newsletter. But at first, it doesn’t require much domain expertise. You need just enough to see the hole this information can fill and some validation that filling this hole is important to those you seek to serve. After that, it simply requires willingness to serve and some dedication to push through occasional inspiration dry spells.
 
-### Sharing boldly as you go
+## Sharing Boldly As You Go
 
 The next accelerant will feel more risky, but it’s not actually that much more risky. We could think of this accelerant in several ways:
 
@@ -154,7 +154,7 @@ It’s worth it. It’s worth it. It’s worth it.
 
 CSS Tricks is one notable example of this kind of sharing-what-you-just-learned. *The Personal MBA* is another such example.
 
-### Leverage existing audiences
+## Leverage Existing Audiences
 
 If you’re specializing in a way that’s relatively low risk, then you are almost certainly specializing in serving an _existing_ market vertical, audience, or focusing on an *established* (rather than emerging) problem domain. This means that somebody else -- some kind of superconnector -- has probably already gathered an audience that maps directly to the market vertical, audience, or problem domain you are focused on.
 
@@ -162,9 +162,9 @@ This existing audience might take the form of a regular conference, a podcast, a
 
 The pre-existence of a relevant audience can be an accelerant for you because you don’t have to build the audience yourself. You can just “borrow” the audience by giving a talk at that conference, guesting on that podcast, submitting an article to that publication, or becoming a generous participant in that community. If you execute several or all of these activities it’s possible to appear to “be everywhere” surprisingly quickly, and being everywhere is a real accelerant as you build your market position.
 
-### Polarizing PoV
+## Polarizing POV
 
-A point of view (PoV) is your opinion on how best to achieve results for your clients. Critically, it's an opinion you can support with evidence or a compelling argument.
+A point of view (POV) is your opinion on how best to achieve results for your clients. Critically, it's an opinion you can support with evidence or a compelling argument.
 
 - You make your point of view more _memorable_ or _shareable_ when it is specific, can be summarized in a short, punchy sentence or phrase, and addresses something that is important or of-the-moment for your clients.
 - You make your point of view more _convincing_ to your clients when you combine it with examples or evidence that supports it. 
@@ -185,7 +185,7 @@ The deepest layer is the domain of books or email lists that explore a PoV, and 
 Finally, your points of view (you can have more than one, of course) should relate to things your buyers care about. If your PoV(s) speak to risk or how best to move the needle, that’s better because it generally places you within a planning, decision-making, or strategic conversation at potential clients.
 
 
-### Build a promotable thing
+## Build A Promotable Thing
 
 Building a somewhat unique “thing” you can promote can be an accelerant. Especially if you don’t have a strong, clear PoV that you can articulate, a “thing” that you can promote is your next best accelerant.
 
@@ -202,7 +202,7 @@ Ask yourself this right now: you have a choice between getting up on a stage and
 
 The previous paragraph also contains my best tip for writing an About page on your website. Don’t make it about you directly. Make it directly about what you’ve helped clients do and only indirectly about you. Don't assume "about page" means "about _me_ page". Instead, act as if "about page" means "about how I create results for _you_" page.
 
-### Consistency
+## Consistency
 
 The next accelerant is consistency. Showing up consistently. Publishing consistently. Connecting consistently. Participating consistently. Caring consistently, rather than caring only when you’re a month or two away from needing the next client.
 
@@ -210,7 +210,7 @@ In some ways, consistency is simply the necessary followup to your decision abou
 
 The rarity of consistency helps you stand out, which accelerates the speed at which you can become known for whatever it is you’ve specialized in. In other words, consistency makes you more *visible* to those you are trying to connect and build trust with.
 
-### Thinking like a media company
+## Thinking Like A Media Company
 
 The final accelerant might be thought of as a grouping of several previously mentioned accelerants. I refer to it as “Thinking like a media company”.
 
@@ -232,7 +232,7 @@ This media company mindset will accomplish two important things:
 1. Almost guarantee that you avoid producing crappy content marketing
 2. Accelerate the speed with which you cultivate a reputation in the market
 
-## Chapter Summary
+# Chapter Summary
 
 As you're earning your ability to say no to clients outside your new area of specialization, you can be held back by whale clients and sunk cost that might be a tuna that looks to you like a whale. Really attack the sunk cost fallacy if you can, and remember that you're not getting a face tattoo here. You can iterate over time.
 

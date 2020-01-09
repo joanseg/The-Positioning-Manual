@@ -1,4 +1,4 @@
-# Specialization Can Lead You to One of 5 Market Positions
+# [CH08] Specialization Can Lead You to One of 5 Market Positions
 
 Remember, specialization is the seed, time and discipline are the nutrients, and the part of the plant that's visible above ground is your growing reputation (market position).
 
@@ -8,26 +8,28 @@ Once you start to apply the idea of specialization to _your_ specific situation 
 
 These 5 market positions can be grouped into three categories of market positions with three corresponding ways of specializing: vertical, horizontal, and service specialization. Vertical and horizontal specialization have subcategories within them.
 
-## About Vertical Specialization
+{TODO: illustration of how these relate}
+
+# About Vertical Specialization
 
 Vertical specialization is focusing on a type of business or an audience of businesses or buyers. It leads to a vertical market position.
 
-### Pure vertical specialization
+## Pure Vertical Specialization
 
 If you've ever heard someone say the _[fill in the blank] industry_, you've heard a reference to what marketers and MBA types will refer to as a _market vertical_.
 
 There's a useful list of verticals here: [https://www.naics.com/naics-drilldown-table/](https://www.naics.com/naics-drilldown-table/). Here's a few representative examples from that list:
 
-* Broad verticals (ones that are very large, or not highly specific):
-	* Finance
-	* Manufacturing
-	* Transportation
-* Narrow verticals (ones that are smaller, or are highly specific):
-	* Retail mortgage lenders
-	* Machine shops
-	* Over-the-road (OTR) trucking companies
+- Broad verticals (ones that are very large, or not highly specific):
+	- Finance
+	- Manufacturing
+	- Transportation
+- Narrow verticals (ones that are smaller, or are highly specific):
+	- Retail mortgage lenders
+	- Machine shops
+	- Over-the-road (OTR) trucking companies
 
-### Audience specialization
+## Audience Specialization
 
 An audience is formed by a group of businesses that might not share the same vertical but share some other fundamental mission, need, desire, or business model. An audience specialization will lead you to cultivate an audience-focused market position.
 
@@ -37,7 +39,7 @@ A more fundamental similarity would be businesses with the non-profit business m
 
 Their fundamental similarity will often extend to a shared worldview or narrative about what's important, and this allows you to connect and build trust with them as a group. The needs, desires, watering holes, and cultural institutions that an audience shares makes specializing in an audience a viable way to specialize.
 
-### Specializing vertically is useful because:
+## Specializing Vertically Is Useful Because:
 
 **It's relatively easy**. Check out the LinkedIn advanced search feature. The list of industries there doesn't map 100% to the NAICS list I linked you to before, but it's close enough to make finding prospective buyers using a LinkedIn search pretty trivial, at least for a pure vertical focus. 
 
@@ -61,7 +63,7 @@ Most vertical specializations will be just as interesting as {TK:cave from pic a
 
 **It shortens the growth path from skill to expertise** and from implementor to advisor. By serving a group of businesses that have a lot in common with each other, you will find more opportunity and incentive to become conversant in what's important to the business, which will allow you to more quickly learn how to create real impact in the context of that vertical.
 
-### Specializing Vertically is Risky Because:
+## Specializing Vertically is Risky Because:
 
 **Not every vertical is equally receptive to outsiders**. Chapter {TK:12} digs deep into how to make the specialization decision, so I won't cover that here. For now, know that if you're truly an outsider to a vertical, trying to specialize in that vertical is a risk you should measure carefully. Other options may have lower risk: either other verticals, or other forms of specialization.
 
@@ -77,11 +79,11 @@ If you do have a prospective client voice this concern, there's an 80% chance it
 
 There's a 20% chance that CoI is a real issue. If it is, the underlying issue is a variation of the insider trading situation. It's unethical for someone to trade on information they shouldn't have access to because, as Matt Levine points out, this is a form of theft. So if you're running ads for Company X, you could "insider trade" on the information you yourself have gained from working with that company and help their competitor Company Y gain an advantage against Company X. You're stealing from Company X by using the insider information you have to help Company Y. Bigger organizations can internally firewall teams to prevent this, but as a soloist or very small company it's often not possible to do this firewalling, so you may have to just walk away from opportunities where there is a genuine CoI concern. In reality, however, these situations are uncommon.
 
-## About Horizontal Specialization
+# About Horizontal Specialization
 
 This is focusing on a type of technology or evergreen business problem, with little or no concern for what vertical the problem shows up in. A horizontal specialization leads to a horizontal market position.
 
-### Platform specialization
+## Platform Specialization
 
 I don't love the terminology here since the word "platform" can mean different things to different people, but I don't have anything better to refer to the following group of things because, from a specialization perspective, they work fundamentally the same way. Platforms might include:
 
@@ -111,7 +113,7 @@ Except for the above multidimensional specialization, I always encourage folks t
 
 If you're pursuing _superficial specialization_ because you aren't interested in making this leap, you would be right to discount my warning, since you're not interested in the potential expertise you're depriving yourself of. My warnings about competition from above and below still apply, though, and so your best bet if you pursue a superficial specialization focused on a platform is to adopt a loose vertical constraint around your platform specialization[^ Example: Salesforce consulting for the professional services industry] to create at least a little differentiation and address at least some marketing inefficiencies.
 
-### Pure horizontal specialization
+## Pure Horizontal Specialization
 
 This is a type of specialization that focuses mostly on _problems_ that are visible to business decision makers. A horizontal specialization leads to a horizontal market position.
 
@@ -152,7 +154,7 @@ This leads to what might the most useful simple definition of a pure horizontal 
 
 Compared to a platform specialization, a pure horizontal specialization is relatively more concerned with business impact and relatively less concerned with technology skill, since in many cases the skill can be rented for a mere fraction of the ROI it produces, especially on the right half of the Rogers curve when skill commoditization has set in.
 
-### Specializing Horizontally is useful because:
+## Specializing Horizontally Is Useful Because:
 
 **It's more naturally compatible with how developers think**.[^If you're talking about a big group of people -- and given that there are about 13 million professional software developers, I am! -- you're going to generalize and sometimes miss the mark because of that generalizing. I apologize if I'm missing the mark about _you_, but I've worked with enough of your peers to know I'm mostly right about most of these general group characteristics.] Software is "eating the world", and custom software is powerful for a number of reasons, but one of those reasons is its flexibility. It's a single category of tools with millions of potential applications. I can't think of another tool that exists in the world with this much utility and flexibility. 
 
@@ -176,7 +178,7 @@ I'm not sure I can prove this, but I believe horizontal specialization (or a ver
 
 For example, sure, there are developers with lots of competence in full stack development, design, DevOps, and the other sub-disciplines needed to ship a software product. I've worked with folks who can handle everything from PCB design to mechanical and motor system design to embedded realtime system code and can singlehandedly get something as complex as a drone or surgery robot from idea to prototype. But... a team of sub-specialists might offer a better value proposition if the promise is something like "custom software for manufacturing" (pure vertical focus with broad discipline), while a lone wolf could credibly live up to the promise of "inventory optimization for manufacturing" without the support of a team of sub-specialists.
 
-### Specializing Horizontally is risky because:
+## Specializing Horizontally Is Risky Because:
 
 **It can require more work, lead time/runway, and marketing sophistication to find clients**. One of the most fundamental differences between vertical and horizontal specialization is the relative absence of external signals of need from the latter. To illustrate this, let's compare how two different specialists might connect and build trust with clients:
 
@@ -213,7 +215,7 @@ There is a special case here, which usually takes the form of developing special
 
 This works because instead of trying to sell expertise that few businesses understand, you "aggregate" the market demand for that expertise coming from your peers and sell your expertise to them in the form of training, coaching, mentoring, etc. Doing this often gets you corporate clients anyway, but it's a second-order effect of being successful selling training to individuals who then become sort of like an unpaid sales team for you.[^In the best scenario, they're paying you twice! Once for the training and then a second time in the form of credibility, access, or both to corporate buyers.]
 
-## About Service Specialization
+# About Service Specialization
 
 Finally, we have Service Specialization. Service Specialization is where you specialize your service delivery. This is often synonymous with productization (where you standardize scope and pricing for your services), or, more specifically, innovative service productization where you standardize your scope in a unique way that's attractive to a narrow spectrum of clients.
 
@@ -222,7 +224,7 @@ This approach to specialization is best explained through examples:
 - [https://knapsackcreative.com/](http://web.archive.org/web/20190710090902/https://knapsackcreative.com/)
 	- [https://audienceops.com/](http://web.archive.org/web/20190723072343/https://audienceops.com/)
 
-### Service Specialization is useful because:
+## Service Specialization Is Useful Because:
 
 **It can be an easy, low-risk integration to your existing business**. It need not be seen as a risky or disruptive move because at first it's "just another service offering". Not that you should be haphazard about adding service offerings[^Every additional item on the menu increases cognitive load for your prospects and may make it harder for them to decide and take action], but it is something you can treat as a service offering experiment rather than a significant change in strategy. 
 
@@ -236,7 +238,7 @@ You can test a specialized service out on your existing lead flow and iterate ba
 
 **It can be a way to become comfortable with the whole idea of narrowing or specializing or focusing**. Think of it like a "specialization internship", where you experiment in a low-stakes way with some of the realities of specializing. Will you get bored doing this standardized service over and over again? Why not find out with the scope constrained to a single service rather than across your entire business? Will solving a somewhat consistent problem over and over again really allow you to stack experience and gain real expertise? Why not find out within the small "sandbox" of a specialized service first?
 
-### Service Specialization is risky because:
+## Service Specialization Is Risky Because:
 
 **It's easy for all of us -- even experienced business owners -- to imagine patterns that aren't really there or miss patterns that really are**. That's because we're human and have all sorts of sophisticated mental filters that work great for basic survival but prevent us from accurately measuring real-world opportunity or risk. 
 
@@ -256,7 +258,7 @@ It might be irrelevant because the productized service was poorly designed (solu
 
 Surprise! There's actually a sixth kind of specialization, which is really an amalgam of two other kinds
 
-### Vertical + Horizontal = Multidimensional
+## Vertical + Horizontal = Multidimensional
 
 When you combine a narrow vertical _and_ horizontal focus, you have what I call a multidimensional specialization.
 
@@ -287,7 +289,7 @@ Clear vertical + broad horizontal is the ideal first specialization move for a b
 
 Some sort of multidimensionality to your specialization is normal, not rare. That said, it is more bold and risky to go very narrow on both the vertical and horizontal dimensions. The potential upside is that this multidimensional narrowness makes it much easier to find your ideal clients, connect deeply or frequently with them, become an insider to their world, and cultivate exact-match expertise for their most pressing and valuable problems.
 
-### Service Specialization + another kind
+## Service Specialization + Another Kind
 
 You might combine Service Specialization (a unique service delivery model) with a vertical specialization, a horizontal specialization, or both. This is rare but not unheard of. Some hypothetical examples:
 
@@ -295,8 +297,8 @@ You might combine Service Specialization (a unique service delivery model) with 
 - **Content marketing as a service for healthcare businesses**. This specialization includes Service Specialization + clear vertical components.
 - **App mockups and a pitch deck in 1 week for a fixed price**. This specialization includes Service Specialization + narrow horizontal components.
 
-## Chapter Summary
+# Chapter Summary
 
 The 5 forms of specialization described here can be combined in a variety of ways, making for a spectrum of possibilities. Each approach represents a tradeoff between risk and opportunity, and none is ideal until you consider your individual case.
 
-When you bring the specifics of your business, past experience, and goals into the picture you'll start to fit your situation to what each form of specialization can offer you.
+When you bring the specifics of your business, past experience, and goals into the picture you'll start to understand what each form of specialization can offer you in light of your specific situation.
