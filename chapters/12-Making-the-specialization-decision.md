@@ -1,4 +1,4 @@
-# Making the Specialization Decision
+# [CH12] Making the Specialization Decision
 
 In earlier versions of this book, I looked at specialization through the lens of this, which I called the Value-Specificity curve.
 
@@ -10,7 +10,7 @@ My admonition at that time was simple: just move from where you are towards the 
 
 It was the right idea, but expressed in a general, hand-wavey way. I can do better now. It's still very much a unique-to-you decision, but there is a 7-step process almost anyone can follow to help make the decision about how to specialize, presented in this chapter.
 
-## Everybody starts from a different place
+# Everybody Starts From A Different Place
 
 We all approach the specialization decision from a different starting point. Yes, most non-specialists are generalists, and that means we're all starting from the same general starting point. But when you look closer, everyone is approaching the specialization decision with a different combination of skill, risk tolerance, business experience, and personality attributes. These differences matter.
 
@@ -28,7 +28,7 @@ When I'm working with a client, I'm looking at several factors to define their s
 
 Taken together, these 7 factors tend to define your starting point.
 
-## Some want different things
+# Additionally, Some Want Different Things
 
 Just like everybody has a different starting point, everyone wants to achieve something slightly different by specializing.
 
@@ -43,22 +43,20 @@ At the most fundamental level, you either want to use specialization in a superf
 
 Your answer to the question, "what do you want to achieve by specializing your business?" defines your end point. With a starting and end point defined, we have what it takes to draw a line, and the line between your starting and end point defines what you'll need to do to successfully specialize your business. Add to this personal factors like risk tolerance, and you have all the information you need to decide how to specialize your business.
 
-## A Process For Deciding
+# A Process For Deciding
 
 Here's a reliable, 7-step process for deciding how to specialize.
 
 In previous chapters, I've recommended that you just absorb concepts but avoid taking action. In this chapter, do one of two things:
 
 1. If you just want to understand this process, then simply read it through.
-2. But if you're ready to decide how to specialize, then actually do the work described in each step of this process. Give it the time required (more than just an hour or two), but don't lose momentum.
+2. But if you're ready to decide how to specialize, then actually do the work described in each step of this process. Give it the time required (it'll take more than just an hour or two), but don't get bogged down and lose momentum.
 
 This process is based on you conducting an inventory of previous experience, along with some clerical stuff. Use whatever tool you like for that inventory, but do consider using something tabular like a spreadsheet. A spreadsheet is delightfully low-tech while giving you all the power you need to sort and filter the results of your work. This makes it easier to spot patterns.
 
-### 1) Inventory
+## 1) Inventory
 
-#### Vertical Inventory
-
-Inventory everything you've ever done for clients, employers, and any substantial side-projects.
+**Vertical Inventory**: Inventory everything you've ever done for clients, employers, and any substantial side-projects.
 
 For each thing in your inventory, include:
 
@@ -66,22 +64,18 @@ For each thing in your inventory, include:
 2. Market vertical that client is in
 3. The business outcome of what you did for that client
 
-#### Horizontal Inventory
-
-Add to your inventory all horizontal abilities you currently have that help you move the needle for clients. The following would be horizontal abilities:
+**Horizontal Inventory**: Add to your inventory all horizontal abilities you currently have that help you move the needle for clients. The following would be horizontal abilities:
 
 - Increase conversion rate on e-commerce stores
 - Reduce downtime for critical infrastructure
 - Integrate ERP with other systems
 - Reduce cognitive load of using software
 
-#### Entrepreneurial Theses Inventory 
-
-Add to your inventory all entrepreneurial theses you're sitting on. 
+**Entrepreneurial Theses Inventory**: Add to your inventory all entrepreneurial theses you're sitting on. 
 
 The difference between this and the horizontal inventory is that you might have to put together a team, or rent skill you don't have, or build something that requires up-front investment, or just generally take on more risk -- perhaps by pursuing a specialization you just can't validate but you believe deeply in -- as part of building out your market position.
 
-### 2) Extend
+## 2) Extend
 
 Add to your inventory all verticals that interest you, even if you haven't worked in them before.
 
@@ -102,7 +96,7 @@ Add any NAICS categories that interest you -- ones that you get a subtle _yes_ t
 
 Also add all horizontal abilities that interest you, even if you have only a poorly developed version of these abilities. The NAICS list won't help you with the ideation here, so try to think about problems or ways of improving a business that are a) interesting to you personally and b) likely to effect businesses across multiple verticals.
 
-### 3) Quantify
+## 3) Quantify
 
 Score each item on your inventory according to:
 
@@ -114,7 +108,7 @@ Score each item on your inventory according to:
 
 As you do this scoring, use a scale of 1 to 3 (whole numbers only) to keep things simple and avoid analysis paralysis.
 
-### 4) Rank and Eliminate
+## 4) Rank And Eliminate
 
 At this point, you almost surely have a big, messy inventory. Let's turn it into a reasonable shortlist.
 
@@ -141,7 +135,7 @@ Also flag opportunities that have one of the following deal-breaker flaws:
 
 You now have an inventory that's sorted by the attractiveness of the opportunities, and you've flagged specialization opportunities that are potentially too risky or suffer deal-breaker flaws.
 
-### 5) Enrich
+## 5) Enrich
 
 I have you do the rank and eliminate step prior to this one in order to reduce the amount of market research you need to do here.
 
@@ -155,7 +149,7 @@ A market that is smaller than 1,000 prospective clients[^Remember that you're no
 
 If any of your top 3 specialization opportunities are horizontal in nature, you need to have a viable method for connecting with those opportunities. Imagine that one of your top 3 opportunities is "integrating ERP systems with warehouse management systems". Can you use outbound marketing or personal relationships to reach these opportunities? If you can't, think long and hard about the inbound marketing work you'll need to do, the skill and effort it will take to do it, and the time it will take for it to work. If you can't see a viable path to connecting with these opportunities using marketing, then go ahead and flag the opportunity as un-viable.
 
-### 6) Validate
+## 6) Validate
 
 The next step is to validate that the right-sized opportunities you have left on your list have some "signs of life". We do this by _documenting relevant market interest_.
 
@@ -170,13 +164,13 @@ If you're pursuing an entrepreneurial thesis, then the above forms of market via
 
 Additionally, you might create a Blue Ocean Strategy-style strategy canvas to make sure your entrepreneurial theory targets a real opportunity in the market and validate that how you're differentiating makes good sense.
 
-### 7) Decide
+## 7) Decide
 
 You have enough information to decide now. You don't have enough information to guarantee that the decision will work out well (you can never get to this level of certainty because there are factors that are impossible to predict or measure), but you do have enough information to make an intelligent decision. 
 
 So decide, dammit! :)
 
-## Chapter Summary
+# Chapter Summary
 
 The process presented here has several checkpoints in order to reduce the risk of specializing in a way that's wrong for you. That makes for a somewhat laborious process, but in general this is the right tradeoff.
 

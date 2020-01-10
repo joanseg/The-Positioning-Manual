@@ -1,4 +1,4 @@
-# Risk
+# [CH11] Risk
 
 You probably mis-perceive the risk levels of various activities. Let's look at one manifestation of risk: accidental death. Specifically, the lifetime odds of dying from various causes. 
 
@@ -17,7 +17,7 @@ Car crashes *look* gruesome while drugs look like clean, small pills or pure liq
 
 I am not a psychologist. I don't even play one on TV. That said, it's useful to think about two ideas that attempt to generalize a basket of personality characteristics and motivations into "types". As with all generalizations, 100% fidelity to individual cases is impossible, so take this with a grain of salt.
 
-## Missionary - Mercenary spectrum
+# Missionary - Mercenary Spectrum
 
 One useful idea is that we all fall somewhere on a spectrum with "missionaries" on one end and "mercenaries" on the other.
 
@@ -37,7 +37,7 @@ Missionaries do better with risky, lengthy challenges or projects because they h
 
 All this creates an advantage for missionaries when it comes to executing on long-term risky entreprenurial projects.
 
-## Entrepreneur - Craftspeople spectrum
+# Entrepreneur - Craftspeople Spectrum
 
 There's another way to generalize human motivation that's a bit more specific to creative professionals (which includes software developers). It's another over-simplified spectrum.
 
@@ -93,7 +93,7 @@ For each of these changes in the marketplace there are craftspeople who suffer r
 
 I want this book to provide a useful, detailed, nuanced *framework* that helps you specialize and cultivate a great market position for your business, so I tend to avoid broad, absolute declarations. That said, if you are a pure craftsperson and feel inflexibly attached to that identity, your specialization options will be limited, and you may be better off pursuing other ways of improving your business. Partially productizing the pricing and delivery of your craft is one such option.
 
-## Risk tolerance vs. risk profile
+# Risk Tolerance vs. Risk Profile
 
 *Specialization is a voluntary narrowing in service of a future wider impact. You subtract until your focus is narrow enough to penetrate into the dermis of a mystery, then you recruit the needed resources from any corner of the world to unravel that mystery and synthesize an effective solution.* 
 
@@ -107,7 +107,7 @@ Again, this models how I became interested in risk, risk tolerance, and risk pro
 
 This is why I see the "specialist vs. polymath" debate as a waste of time. It takes a rare special case (the truly successful polymath) and compares it against another rare special case (the irrelevant specialist). Both cases are edge cases that don't help much in terms of suggesting best practices that apply to more common cases. It's rare for a specialist to find an interesting, complex problem that lies at the dermis or hypodermis of expertise and resist going broader in search of a complete solution. Bonified polymaths have told me that they see themselves more as serial specialists.
 
-### The Wealth Management Insight
+## The Wealth Management Insight
 
 It's easy to think of risk solely in terms of risk tolerance. But the investment advice/wealth management world has a more nuanced take on risk, and this is beneficial to us here.
 
@@ -145,7 +145,7 @@ Taken together, these five factors give a good picture of your risk profile whic
 
 At the end of this chapter I'll share a simplified tool you can self-administer to assess your own risk profile.
 
-## Head Start vs. Find Your People/Opportunity vs. Entrepreneurial Thesis
+# Head Start vs. Find Your People/Opportunity vs. Entrepreneurial Thesis
 
 To complete your understanding of how risk fits into specializing, we need to dig into one more big idea, which we might think of as three different decision making heuristics. These are patterns I've noticed among the specialists I've interviewed for *The Consulting Pipline Podcast*, and they form three different ways of answering the question: "how do I decide where to specialize?". These three decision making heuristics each present a different risk/reward tradeoff, so we'll move through them in order from lowest to highest risk.
 
@@ -153,7 +153,7 @@ Note: Chapter 12 will bring these three heuristics together into a single proces
 
 Another note: These heuristics will portray 3 different decisions making styles, and it may seem that you should fit neatly and cleanly into only one of those 3 buckets. The reality is almost always more nuanced, and you may find yourself combining two of these approaches. That's totally normal, but I'll talk about them as if they are 3 things with distinct borders between them, even though they're really not.
 
-### Find Your Head Start
+## Find Your Head Start
 
 Remember, a head start is an advantage of some kind. Head starts generally take the form of one or more of these advantages:
 
@@ -177,7 +177,7 @@ At this point you have a shortlist of specialization options. They're all free f
 
 If your shortlist is longer than 1 item, you still have a decision to make, but this simple decision making heuristic has hopefully supplied you with a shortlist of manageable size.
 
-### Find Your People/Opportunity
+## Find Your People/Opportunity
 
 The next decision making heuristic is to ignore your head start and instead focus on a different single factor: what kind of clients do you prefer to serve, or what problems do you find most fascinating and compelling?
 
@@ -198,7 +198,7 @@ If you're using the Find Your Head Start heuristic, you're probably going to spe
 
 This is also a good place to remind you that I see the kind of people who read a book like this as way above average in terms of creativity, resourcefulness, and willingness to learn and change. My clients are all like this, and it's a never-ending joy to work with people with this kind of drive and growth mindset. So if you have a fire in your belly to Find Your People/Opportunity and the risk profile to handle it, I believe you can build the access and trust you need, perhaps in less time than it takes to get a masters degree.
 
-### Entrepreneurial Thesis
+## Entrepreneurial Thesis
 
 The final decision making heuristic I've seen out in the wild is what I call the Entrepreneurial Thesis. This is actually a variation of the Find Your People/Opportunity approach, but it's better suited to someone who is more mercenary or entrepreneurial in their overall orientation to risk & opportunity. This mercenary or entrepreneurial orientation is often correlated with a reduced need for craftsman-like enjoyment of the work. Or rather, the craftsmanship shows up in the design of the business rather than the creation of deliverables.
 
@@ -233,13 +233,13 @@ Things can work out well for smart pioneers. But it is risky! Taking a market-fi
 
 Again, I've listed these three decision making heuristics in order from lowest to highest risk: Find Your Head Start, Find Your People, and Test an Entrepreneurial Thesis. In Chapter 12 I'll bring these concepts of risk profile and decision making style together into a simple process you can follow to get closer to deciding how your business could specialize and get started building a great market position. So that means we need to do one more thing in this chapter, which is get a handle on your risk profile.
 
-## Risk Self-Assessment
+# Risk Self-Assessment
 
 {TODO: build a version of my current risk assessment that doesn't include the DiSC profile and automate it so that it calculates risk score and sends that back to folks who take it, and link book readers to that version.}
 
-## Chapter Summary
+#Chapter Summary
 
-If we perceived risk more accurately, we'd probably all embrace more of it.
+If we perceived risk more accurately, we'd probably all embrace more of it. If we all embraced more of it, we'd maximize our potential for earning or impact over our working careers.
 
 As you're thinking about the ideas of risk profile, the missionary/mercenary & craftsman/entrepreneur spectrums, and the Find Your Head Start, Find Your People/Opportunity, and Entrepreneurial Thesis decision making heuristics, try to look at these as tools to gain insight into yourself rather than actual or desired forms of _social status_. 
 

@@ -1,12 +1,12 @@
-# What You Will Need to Turn Your Specialization Decision Into a Strong Market Position
+# [CH13] What You Will Need To Turn Your Specialization Decision Into A Strong Market Position
 
 EDITING NOTES:
 
-- CONSIDER WHETHER I NEED TO RE-CAST ANYTHING AS EARNIG VISIBILITY AND TRUST RATHER THAN CONNECTING AND BUILDING TRUST
+- CONSIDER WHETHER I NEED TO RE-CAST ANYTHING AS EARNING VISIBILITY AND TRUST RATHER THAN CONNECTING AND BUILDING TRUST
 
 Once you've decided how you want to specialize, it takes time, discipline, courage, and follow-through to turn that decision into a strong market position. Here's specifically what you'll need to do that.
 
-## A declaration of focus
+# A Declaration Of Focus
 
 You need your new focus to be very clear to prospective clients. How you declare this focus to prospects depends very much on how you specifically connect and build trust with clients.
 
@@ -27,7 +27,7 @@ There are other venues where you can declare your new focus:
 - Print marketing assets
 - Your personal and professional network
 
-### Some tips for declaring your focus:
+## Some Tips For Declaring Your Focus
 
 Keep it simple. Like, "cave man speak" simple. Prospects will appreciate the lower cognitive load, and will feel like you don't have anything you're trying to hide behind excessively complex language. 
 
@@ -68,7 +68,7 @@ At first, nothing is more important than your site's ability to articulate a cle
 
 Finally, don't overload pages on your site. Each page should have at most one "job", with one exception: if you've decided to specialize and don't have much of a web presence at all right now, I recommend you set up a 1-page web site to start with, and build that out over time. Here's an example of what I mean: [https://1pageleadgen.site](https://1pageleadgen.site). On a 1-page website, the home page will have three jobs: declaring your focus, providing evidence that you're trustworthy, and inviting prospective clients to take some kind of next step.
 
-## A platform for connecting
+# A Platform For Visibility And Connection
 
 You'll also need some sort of platform for connecting with people. Marketing types generally refer to this as "lead generation".
 
@@ -86,13 +86,13 @@ A prospect is someone who has expressed a more specific interest in working with
 
 So you'll need a way to generate leads. There are lots of ways to do this. I've vetted and profiled the best ones here: [http://trustvelocity.com](http://trustvelocity.com).
 
-## A habit-based method for earning trust
+# A Habit-Based Method For Earning Trust
 
 You'll also need at least one way of building trust with leads. Sometimes you can earn sufficient trust *while* generating the lead, and sometimes it takes time *after* someone has become a lead to earn their trust.
 
 I believe that wherever possible, the activities you carry out to generate leads and earn trust with those leads should be _habitual_ for you. The two most damaging marketing failures I see with the kind of people I work with are a failure to focus sufficiently, and a failure to build a lead generation/trust-earning habit, and so as a result they go very long periods of time without doing either, and it causes a predictable feast-famine cycle. Of course, these activities won't start out being habitual. You have to form the habit! And it may take more than 90 days of what feels like challenging work to form certain habits. But it's worth it.
 
-### Earning trust *while* generating the lead
+## Earning Trust *While* Generating The Lead
 
 Some lead generation activities have the effect of both generating a lead _and_ at the same time earning trust with that lead.
 
@@ -105,15 +105,13 @@ These activities have one thing in common: they tend to involve your voice, and 
 - A live or only lightly-edited media interview
 - Podcast guest appearance
 
-### Earning trust *after* generating the lead
+## Earning Trust *After* Generating The Lead
 
 We usually think of this as "lead nurture".
 
 There's a really interesting spectrum of options here, and some of them offer poorly aligned incentives, so I want to dig into this topic a bit.
 
-#### The spectrum
-
-On one end of the spectrum, we have a multi-step process involving some level of automation or personalization, often referred to as a marketing funnel.
+**The Spectrum:** On one end of the spectrum, we have a multi-step process involving some level of automation or personalization, often referred to as a marketing funnel.
 
 On the opposite end of the spectrum, we have more simple, less automated approaches like sending a regular installment of content to your entire email list, or things that function like a radio broadcast in that anyone who "tunes in" can partake of the podcast or YouTube video or blog article you've just published.
 
@@ -139,7 +137,7 @@ This frames the benefit or harm of automation in terms of efficiency, so let's g
 
 I often talk about premature automation, which is the idea that you're jumping into the world of marketing automation before you have a well-developed capacity to earn trust from leads without automation. In the premature automation situation, you are very likely to magnify the effect of your own mistaken, un-tested assumptions about your leads rather than scale and magnify your ability to earn trust from your leads faster, or earn trust from more leads.
 
-### Misaligned incentives
+## Misaligned Incentives
 
 Building lead nurture automation is not always easy, but it is always easier than building operational efficiency. That's part of why people who are actually good at building actual operational efficiency at scale are usually paid astronomical amounts of money. They're building the real foundational asset, and those who apply automation to it are successful mainly to the degree that they are building on top of a good foundation. As a solo business owner you may be doing both, but remember that the operational efficiency -- or in this case your ability to earn trust efficiently -- is the foundation, and automation is the optimization. 
 
@@ -218,7 +216,7 @@ If you were in a situation where you could only do broadcast-style publication a
 
 But it's more likely you can combine elements of both approaches. And in that situation, I recommend you _do_ combine them! But in a specific way. Before I lay that out for you, let's talk about "The Terminators".
 
-### "The Terminators"
+## "The Terminators"
 
 There are leads who -- somewhat like The Terminator[^I used this analogy in an earlier chapter to describe human solution-seeking behavior, and it's worth re-using the metaphor again here.] in James Cameron's 1984 film by the same name -- are on a very specific mission to find a solution to their problem. It's like they're walking around with an internal heads up display, scanning and seeking for something very specific. I do believe you can create lead nurture content for these "Terminators".
 
@@ -244,7 +242,7 @@ Definitely make your decision about how you want to earn trust after someone bec
 
 Again, you can combine approaches and I've seen that work very well, and I do that myself in my own business. Overall, just make sure you're choosing your approach based on its actual merits when applied to your business over the long term, not based simply on convenience or the short-term emotional ROI of one approach over the other.
 
-## A relevant offer, or ladder of relevant offerings
+# A Relevant Offer, Or Ladder Of Relevant Offerings
 
 Let's talk about the next thing you need to turn your specialization decision into a strong market position: a ladder of relevant offerings.
 
@@ -267,13 +265,13 @@ They're saying, in essence, "Here's a bunch of semi-related skills. We don't kno
 	- Can make cuts within 1mm of the intended cut point.
 	- Can stand on feet for many hours while performing surgery.
 	- Can remain focused and not check email every 5 minutes.
-	- Can describe all major and minor systems of the brain, and locate them within an actual human brain
+	- Can describe all major and minor systems of the brain, and locate them within an actual human brain.
 
 A completely normal Services page on a generalist firm's website would be a grid or list of "services" that are actually a list of skills or disciplines. If it's a dev shop, you'll see a list of languages, frameworks, and functional areas of skill. Ex: Ruby, Python, C#, React, Node.js, DevOps, Testing, AWS infrastructure. Or if it's a digital marketing agency, you'll see a list of the components of a campaign or digital marketing solution. Ex: Facebook ads, copywriting, WordPress design, SEO, content marketing, CRO. 
 
 This is exactly like an auto repair shop that lists all of its equipment on its website instead of a list of what that equipment can do, or a brain surgeon that does the same. 
 - **Auto repair shop acting like generalist dev shop**: Hydraulic lift, impact tools, 300-piece socket set, oil changing equipment, engine computer diagnostic system, tire repair components, etc, etc (you get the idea by now).
-- A**ctual auto repair shop**: We can perform a smog check, repair or replace damaged tires, change your oil, tune up your engine, perform yearly maintenance, etc, etc (you get the idea by now). 
+- **Actual auto repair shop**: We can perform a smog check, repair or replace damaged tires, change your oil, tune up your engine, perform yearly maintenance, etc, etc (you get the idea by now). 
 
 It's inputs compared to outcomes. Tools/skills compared to results those tools/skills can achieve.
 
@@ -324,7 +322,7 @@ For example, imagine that your ladder of services includes design and implementa
 
 Implicit in the idea of a ladder is that clients will climb it. This is where the analogy of a services ladder breaks down, because some ladders are organized such that some clients will enter it only at the highest level and others will, over time, actually climb it as they move from a small, entry level engagement on the bottom of the ladder to a more robust, deep engagement higher up the ladder. The main point here is that you shouldn't take the "ladder" analogy too strictly. It's more about the "choice of yesses” -- or a small menu of focused relevant options -- than it is about a "small to big" arrangement of services.
 
-## An ecosystem of support
+# An Ecosystem Of Support
 
 Eventually, you'll need an ecosystem of support. Remember that what we're talking about here is the list of things you need to turn your specialization decision into a strong market position. Remember that your market position is your _reputation_. Remember also that I like to say: unfortunately, you're in a relationship business. 
 
@@ -340,7 +338,7 @@ One of my coaching clients is cultivating a relationship with a Wall Street Jour
 
 Cultivating an ecosystem of support is something you can do intentionally, but it's not something you can develop a granular, precise plan for. It's much more about keeping an ear to the ground for beneficial relationships and opportunity, and then taking action when they present themselves. 
 
-## Chapter Summary
+# Chapter Summary
 
 To build a strong market position, you need something I've mentioned several times already: time and disciplined followthrough. You can specialize with some courage and a quick decision making process, but you can't build a strong market position without time and lots of disciplined followthrough on your part. The time is best measured in years, not months or weeks, and the discipline is about what it would take to complete a PhD degree in a timely fashion.
 
