@@ -1,12 +1,12 @@
 # [CH07] Specialization Can Lead You to One of 5 Market Positions
 
-Remember, specialization is the seed, time and discipline are the nutrients, and the part of the plant that's visible above ground is your growing reputation (market position).
+Remember, specialization is the seed, time and discipline are the nutrients, and the part of the plant that's visible above ground is your growing reputation -- your market position.
 
 You can cultivate one of 5 different market positions, depending on how you decide to specialize and nurture that seed of a decision. In the pure abstract, there's little reason to favor one of these market positions over the others. Each of them can produce positive results. 
 
 Once you start to apply the idea of specialization to _your_ specific situation with _your_ specific head start(s), possible lack of head start, interest, and appetite for various forms of marketing, then you'll start to develop a preference for one or more of these 5 market positions. In other words, one or more of them will be a good fit for where you are now in your business, where you'd like to see it go, and how much of what kind of work you're willing to put in to see it get there.
 
-These 5 market positions can be grouped into three categories of market positions with three corresponding ways of specializing: vertical, horizontal, and service specialization. Vertical and horizontal specialization have subcategories within them.
+These 5 market positions can be grouped into three categories of market positions with three corresponding ways of specializing: vertical, horizontal, and service specialization. Vertical and horizontal specialization each have subcategories within them.
 
 {TODO: illustration of how these relate}
 
