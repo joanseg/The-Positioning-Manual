@@ -1,7 +1,4 @@
-# [CH03] It's Gonna Hurt
-
-EDITING NOTES:
-- How to make the usage of positioning/specialization clear and consistent?
+# [CH04] It's Gonna Hurt
 
 # Why Is Positioning So Difficult?
 
@@ -24,13 +21,13 @@ Collectively, I call these fears *The Fear*.
 
 Properly positionig your professional services business is difficult because it is *so personal*. 
 
-A lot of us start our self-employment operating as a sort of personal brand. We don't really think of ourselves the way that a manufacturer of backpacks or wallets or speed controllers for electric motors would think of their business. They would almost certainly have a non-personal business identity from day 1.
+A lot of us start our self-employment operating as a sort of impromptu personal brand. We don't really think of ourselves the way that a manufacturer of backpacks or wallets or speed controllers for electric motors would think of their business. They would almost certainly have a non-personal business identity from day 1.
 
 When we in the professional services sector try to develop a narrow market position, it's so wrapped up in our *identity* of who we are, even if we have a non-personal business name. We are creative people[^There's a difference between creative people and so-called Creatives. Most software developers are very creative people, despite not thinking of themselves as "Creatives".], and we love the thrill of exploration and new learning curves. Even more, we often take real pride in how our personality attributes are woven into our businesses.
 
 It comes with the territory of being creative that we *don't* like to think of ourselves as narrow specialists. In fact, we often jump to unfairly characterizing narrow specialists as "one-dimensional", "fragile", or "out of touch", while we neglect the incredible potential for exploring the intricate *depth* of a specialty.
 
-Part of this negative baggage comes from the world of employment at big companies, where specializing can in fact result in being pigeonholed. In that context, a pigeonhole is a limit on your career. In the context of self-employment however, specializing is a voluntary narrowing of your focus in service of greater impact, profit, and effectiveness. For the self-employed, specializing increases opportunity.
+Part of this negative baggage comes from the experience of employment at big companies, where specializing can in fact result in being pigeonholed. In that context, a pigeonhole is a limit on your career. In the context of self-employment however, specializing is a voluntary narrowing of your focus in service of greater impact, profit, and effectiveness. For the self-employed, specializing increases opportunity.
 
 ## It's Mysterious
 

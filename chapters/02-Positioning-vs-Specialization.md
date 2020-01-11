@@ -1,4 +1,4 @@
-# [CH04] Positioning vs. Specialization
+# [CH02] Positioning vs. Specialization
 
 When I ask you to think of the *best* cloud platform-as-a-service, what company or platform do you think of?
 

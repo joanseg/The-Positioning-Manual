@@ -7,5 +7,5 @@ urlcolor: blue
 output:
   tufte::tufte_html:
     toc: true
-    toc_depth: 3
+    toc_depth: 2
 ---

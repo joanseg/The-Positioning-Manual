@@ -1,4 +1,4 @@
-# [CH02] Who This Manual is For
+# [CH03] Who This Manual is For
 
 This manual will be most helpful to a narrow range of people:
 
