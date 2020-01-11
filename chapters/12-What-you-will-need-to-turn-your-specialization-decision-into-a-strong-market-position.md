@@ -1,8 +1,8 @@
-# [CH13] What You Will Need To Turn Your Specialization Decision Into A Strong Market Position
+# [CH12] What You Will Need To Turn Your Specialization Decision Into A Strong Market Position
 
 EDITING NOTES:
 
-- CONSIDER WHETHER I NEED TO RE-CAST ANYTHING AS EARNING VISIBILITY AND TRUST RATHER THAN CONNECTING AND BUILDING TRUST
+- RE-CAST AS EARNING VISIBILITY AND TRUST RATHER THAN CONNECTING AND BUILDING TRUST
 
 Once you've decided how you want to specialize, it takes time, discipline, courage, and follow-through to turn that decision into a strong market position. Here's specifically what you'll need to do that.
 

@@ -1,4 +1,4 @@
-# [CH12] Making the Specialization Decision
+# [CH11] Making the Specialization Decision
 
 In earlier versions of this book, I looked at specialization through the lens of this, which I called the Value-Specificity curve.
 

@@ -1,4 +1,4 @@
-# [CH15] Go Forth and Specialize! (And then grow that specialization seed into a great market position!)
+# [CH14] Go Forth and Specialize! (And then grow that specialization seed into a great market position!)
 
 I hope I've supplied you with all the information, processes, and best practices you need to make a great specialization decision for your business. The goal of this manual has always been to be a comprehensive resource for making the specialization decision.
 

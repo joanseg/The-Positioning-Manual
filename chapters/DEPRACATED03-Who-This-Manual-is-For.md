@@ -1,4 +1,4 @@
-# [CH03] Who This Manual is For
+# [MERGED WITH CH01] Who This Manual is For
 
 This manual will be most helpful to a narrow range of people:
 

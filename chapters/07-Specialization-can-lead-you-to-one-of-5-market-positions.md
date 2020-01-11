@@ -1,4 +1,4 @@
-# [CH08] Specialization Can Lead You to One of 5 Market Positions
+# [CH07] Specialization Can Lead You to One of 5 Market Positions
 
 Remember, specialization is the seed, time and discipline are the nutrients, and the part of the plant that's visible above ground is your growing reputation (market position).
 

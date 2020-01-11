@@ -1,4 +1,4 @@
-# [CH06] About The Business Value Of Expertise
+# [CH05] About The Business Value Of Expertise
 
 Specialization can transform your marketing, which is awesome, but it can also transform _you_, and that's the real reason to get excited about it.
 

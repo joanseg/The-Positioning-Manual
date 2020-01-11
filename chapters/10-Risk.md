@@ -1,4 +1,4 @@
-# [CH11] Risk
+# [CH10] Risk
 
 You probably mis-perceive the risk levels of various activities. Let's look at one manifestation of risk: accidental death. Specifically, the lifetime odds of dying from various causes. 
 

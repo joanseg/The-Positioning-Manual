@@ -1,4 +1,4 @@
-# [CH07] Superficial vs. Deep Specialization
+# [CH06] Superficial vs. Deep Specialization
 
 There are two valid ways to look at specialization. I will refer to one of them as *superficial*, and I don't mean that as an insult. I simply mean it doesn't go that deep. It therefore has different requirements and delivers different benefits to your business.
 

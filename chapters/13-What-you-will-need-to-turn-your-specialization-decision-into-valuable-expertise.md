@@ -1,4 +1,4 @@
-# [CH14] What You Will Need To Turn Your Specialization Decision Into Valuable Expertise
+# [CH13] What You Will Need To Turn Your Specialization Decision Into Valuable Expertise
   
 {TODO: Add more subheadings for better info architeccture}
 
