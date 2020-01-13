@@ -164,10 +164,10 @@ Point of view (POV) is where you stand, what you see as a result of standing the
 
 For consultants, your POV can place you closer or further away from your clients based on the answers each of you will provide to these 4 questions:
 
-1. Is the goal of the consultation radical transformation or incremental optimization?
-2. Do we make decisions based on experience, ideals, or data?
+1. Is the goal of the consultant's work radical transformation or incremental optimization?
+2. Does the consultant make decisions and recommendations based on experience & ideals, or data?
 3. Is this consultant a pedigreed insider or an expert outsider?
-4. Will this consultant create change through disruption or through a more gentle, evolutionary style?
+4. Will this consultant create change through disruption or through a more gentle, evolutionary style? 
 
 The goal here is not to have the same POV as your clients, nor is it to have a dramatically different POV.  The goal is to become aware of how you see things (which is a result of where you stand) and how they see things, and use that awareness to create leverage for yourself.
  

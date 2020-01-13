@@ -205,7 +205,7 @@ This is also a good place to remind you that I see the kind of people who read a
 
 ## Entrepreneurial Thesis
 
-The final decision making heuristic I've seen out in the wild is what I call the Entrepreneurial Thesis. This is actually a variation of the Find Your People/Opportunity approach, but it's better suited to someone who is more mercenary or entrepreneurial in their overall orientation to risk & opportunity. This mercenary or entrepreneurial orientation is often correlated with a reduced need for craftsman-like enjoyment of the work. Or rather, the craftsmanship shows up in the design of the business rather than the delivery of services.
+The final decision making heuristic I've seen out in the wild is what I call the Entrepreneurial Thesis. This is actually a variation of the Find Your People/Opportunity approach, but it's better suited to someone who is more mercenary or entrepreneurial in their overall orientation to risk & opportunity. This mercenary or entrepreneurial orientation is often correlated with a reduced need for craftsman-like enjoyment of the work. Or perhaps the craftsmanship shows up in the design of the business rather than the delivery of services.
 
 Instead of looking for what kind of clients you prefer to serve, or what problems you find most fascinating and compelling, you are looking for the opportunity that seems like the best bridge from your current position to a significant entrepreneurial opportunity.
 
@@ -234,13 +234,13 @@ This love affair leads you to put the needs of the market first, and as you bett
 
 Taking this "falling in love with a problem" to its logical conclusion may lead you to an Entrepreneurial Thesis. I have an Expertise Incubator member doing just that with a need that she and a few other see around the problem of software contributing to physician burnout. What makes this an Entrepreneurial Thesis is that there's no competition that validates that others can make this kind of focus work. She's a pioneer. 
 
-Things can work out well for smart pioneers. But it is risky! Taking a market-first approach is the best way to de-risk an Entrepreneurial Thesis. The other approach of dreaming up an idea, rushing through a half-assed validation phase, and moving straight to execution is a surefire recipe for failure. It's much better to let your market generate ideas for you.
+Things can work out well for smart pioneers. But it is risky! Taking a market-first approach is the best way to de-risk an Entrepreneurial Thesis. The opposite approach of dreaming up an idea, rushing through a half-assed validation phase, and moving straight to execution is a surefire recipe for failure. It's much better to let your market generate ideas for you.
 
 Again, I've listed these three decision making heuristics in order from lowest to highest risk: Find Your Head Start, Find Your People, and Test an Entrepreneurial Thesis. In Chapter 11 I'll bring these concepts of risk profile and decision making style together into a simple process you can follow to get closer to deciding how your business could specialize and get started building a great market position. So that means we need to do one more thing in this chapter, which is get a handle on your risk profile.
 
 # Risk Self-Assessment
 
-{TODO: build a version of my current risk assessment that doesn't include the DiSC profile and automate it so that it calculates risk score and sends that back to folks who take it, and link book readers to that version.}
+The following risk profile self-assessment is free to use and takes less than 5 minutes to complete. It will provide you with a report explaining your results: [https://philipmorganconsulting.com/risk-profile-self-assessment/](https://philipmorganconsulting.com/risk-profile-self-assessment/)
 
 # Chapter Summary
 
