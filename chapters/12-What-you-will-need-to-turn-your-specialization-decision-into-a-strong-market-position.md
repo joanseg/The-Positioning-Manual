@@ -1,18 +1,14 @@
 # [CH12] What You Will Need To Turn Your Specialization Decision Into A Strong Market Position
 
-EDITING NOTES:
-
-- RE-CAST AS EARNING VISIBILITY AND TRUST RATHER THAN CONNECTING AND BUILDING TRUST
-
 Once you've decided how you want to specialize, it takes time, discipline, courage, and follow-through to turn that decision into a strong market position. Here's specifically what you'll need to do that.
 
-# A Declaration Of Focus
+# Asset 1: A Declaration Of Focus
 
-You need your new focus to be very clear to prospective clients. How you declare this focus to prospects depends very much on how you specifically connect and build trust with clients.
+You need your new focus to be very clear to prospective clients. How you declare this focus to them depends very much on how specifically you earn visibility and trust.
 
 Ironically, the easiest _and_ most difficult starting point for declaring your new focus is your website.
 
-It's difficult because most of my clients are not experienced marketing writers, and additionally they're used to writing websites that focus on themselves rather than on their clients needs and problems. This means when they sit down to a blank text editor or CMS screen, they kind of freeze up, and what they end up writing kind of sucks. 
+It's difficult because, if you're like most of my clients, you are not an experienced marketing writer, and additionally you're used to writing websites that focus on yourself rather than on your clients needs and problems. This means when you sit down to a blank text editor or CMS screen, you kind of freeze up, and what you end up writing kind of sucks. 
 
 There's generally the perception that because your website is so public and anyone literally anywhere in the world can see it, it's a high stakes change. It feels like your website is a megaphone that's powerful enough to reach the entire world's population. And in a way it is. HOWEVER...
 
@@ -23,7 +19,7 @@ There are other venues where you can declare your new focus:
 - Email marketing content
 - Social media presence(s), like your LinkedIn profile, etc.
 - Sales conversations with prospective clients, where you verbally declare your focus in the privacy of that conversation.
-- Off-site content marketing (done off your website, like talks, podcasting guesting, etc.)
+- Off-site content marketing (things like talks, podcasting guesting, etc. that happen places other than your website)
 - Print marketing assets
 - Your personal and professional network
 
@@ -33,14 +29,14 @@ Keep it simple. Like, "cave man speak" simple. Prospects will appreciate the low
 
 Don't try to perfectly qualify clients on your site by having a long checklist of stuff you're looking for. That overly complicates things for prospects, runs the risk of alienating good prospects by making you seem strangely picky, and adds friction. 
 
-If you're at a place in your career where you're drowning in good leads, of course ignore this advice and add the right kind of friction to make sure you only spend valuable phone time with good prospects. But those earlier in their career can gain an outsized benefit from one simple thing: *more conversations*. A simple message on your site can help avoid confusing prospects. This increases the number of conversations you get the opportunity to participate in, so keep things simple!
+If you're at a place in your career where you're drowning in good leads, of course ignore this advice and add the right kind of friction to make sure you only spend valuable phone time with good prospects. But those earlier in their career can gain an outsized benefit from one simple thing: *more conversations*. Keeping the message on your site simple can help avoid confusing prospects. This increases the number of conversations you get the opportunity to participate in, so keep things simple!
 
 Be clear and avoid waffling. If in doubt, use one of the following recipes for your site headline:
 
 - [Thing you do] for [Market you do it for]
 	- Ex: Custom software for manufacturing
 - [Service] for [target market]
-	- Ex: Web sites for cosmetic dentists
+	- Ex: Web site design for cosmetic dentists
 - [Result] for [target market]
 	- Ex: Reduced inventory management cost for multi-location retailers
 - I/We help [primary audience/market vertical] [description of solution/result you help them achieve]
@@ -58,7 +54,7 @@ Frame your message in terms of your clients needs, desires, and how your focus b
 
 Wherever possible, let your previous clients do the talking for you through stories about *their* successes (successes achieved with your help, of course), quotes, testimonials, case studies, and using their household-name logo on your site. If you have a choice between saying "we have deep skill in {thing}" and a previous client saying the same thing through a case study, testimonial, or quote, then use the version where your client says it.
 
-Wherever possible, talk about how your process or unique IP facilitates positive results, but only if your process or IP is sufficiently unique. If an objective outsider would lump your process in with an industry-standard process like agile, XP, or the old standby "design, develop, deploy" 3 or 4-stage process, then your process is not sufficiently differentiating, and you should not emphasize your process. 
+Wherever possible, talk about how your process or unique intellectual property (IP) facilitates positive results, but only if your process or IP is sufficiently unique. If an objective outsider would lump your process in with an industry-standard process like agile, extreme pogramming, or the old standby "design, develop, deploy" 3-stage process, then your process is not sufficiently differentiating, and you should not emphasize your process. 
 
 Taking something that's the bare minimum and talking about it like it's something special is embarrassing, because it makes you look inexperienced. This would be like a construction contractor bragging about having general liability insurance and saying that makes their business special.
 
@@ -66,11 +62,11 @@ At first, don't worry too much about scrubbing your website for old blog article
 
 At first, nothing is more important than your site's ability to articulate a clear, simple message about what your focus is, and then providing evidence that you are a credible source of results or expertise within this new area of focus. Focus on those two things first, then later you can spend time going deeper into your site to scrub old content and replace it with new content that's more consistent with your new focus.
 
-Finally, don't overload pages on your site. Each page should have at most one "job", with one exception: if you've decided to specialize and don't have much of a web presence at all right now, I recommend you set up a 1-page web site to start with, and build that out over time. Here's an example of what I mean: [https://1pageleadgen.site](https://1pageleadgen.site). On a 1-page website, the home page will have three jobs: declaring your focus, providing evidence that you're trustworthy, and inviting prospective clients to take some kind of next step.
+Finally, don't overload pages on your site. Each page should have at most one "job", with one exception: if you've decided to specialize and don't have much of a web presence at all right now, I recommend you set up a 1-page web site to start with, and build that out over time. On a 1-page website, the home page will have three jobs: declaring your focus, providing evidence that you're trustworthy, and inviting prospective clients to take some kind of next step.
 
-# A Platform For Visibility And Connection
+# Asset 2: A Platform For Visibility And Connection
 
-You'll also need some sort of platform for connecting with people. Marketing types generally refer to this as "lead generation".
+You'll also need some sort of platform for connecting with people. Marketing types generally refer to this as "lead generation".[^Here I'm using the word _platform_ differently than when I discuss platform specialization. Here when I say platform, I mean a presence in the marketplace that lets you "stand above the crowd", giving you greater visibility.]
 
 A lead is someone who has taken some kind of action that indicates a general level of interest in your business. This might include:
 
@@ -80,28 +76,28 @@ A lead is someone who has taken some kind of action that indicates a general lev
 
 A prospect is someone who has expressed a more specific interest in working with you. "Prospect" is short for "prospective client". This might include:
 
-- Emailing you to inquire about your services
+- Emailing you to inquire specifically about your services
 - Filling out a service-specific contact form on your website
 - Contacting you after a referral from someone who knows about your work
 
-So you'll need a way to generate leads. There are lots of ways to do this. I've vetted and profiled the best ones here: [http://trustvelocity.com](http://trustvelocity.com).
+You'll need a way to generate leads. There are lots of ways to do this. I've vetted and profiled the best ones here: [http://trustvelocity.com](http://trustvelocity.com).
 
-# A Habit-Based Method For Earning Trust
+# Asset 3: A Habit-Based Method For Earning Trust
 
-You'll also need at least one way of building trust with leads. Sometimes you can earn sufficient trust *while* generating the lead, and sometimes it takes time *after* someone has become a lead to earn their trust.
+You'll also need at least one way of earning trust from leads. Sometimes you can earn sufficient trust *while* generating the lead, and sometimes it takes time *after* someone has become a lead to earn their trust.
 
-I believe that wherever possible, the activities you carry out to generate leads and earn trust with those leads should be _habitual_ for you. The two most damaging marketing failures I see with the kind of people I work with are a failure to focus sufficiently, and a failure to build a lead generation/trust-earning habit, and so as a result they go very long periods of time without doing either, and it causes a predictable feast-famine cycle. Of course, these activities won't start out being habitual. You have to form the habit! And it may take more than 90 days of what feels like challenging work to form certain habits. But it's worth it.
+I believe that wherever possible, the activities you carry out to generate leads and earn trust from those leads should be _habitual_ for you. The two most damaging marketing failures I see with the kind of people I work with are a failure to focus sufficiently, and a failure to build a lead generation/trust-earning habit, and so as a result they go very long periods of time without doing either, and it causes a predictable feast-famine cycle. Of course, these activities won't start out being habitual. You have to form the habit! And it may take more than 90 days of what feels like challenging work to form certain habits. But it's worth it.
 
 ## Earning Trust *While* Generating The Lead
 
-Some lead generation activities have the effect of both generating a lead _and_ at the same time earning trust with that lead.
+Some lead generation activities have the effect of both generating a lead _and_ at the same time earning trust from that lead.
 
-These activities have one thing in common: they tend to involve your voice, and the more socially risky the situation, the faster trust can be earned:
+These activities have one thing in common: they tend to involve your voice, and the more socially risky the situation, the faster trust can be earned. Some examples:
 
 - Conference talk	
 - Guest webinar expert on a known, trusted person's webinar
-- Solo webinar
-- Host in-person educational event
+- Solo webinar where you're the sole presenter
+- Host an in-person educational event
 - A live or only lightly-edited media interview
 - Podcast guest appearance
 
@@ -109,27 +105,25 @@ These activities have one thing in common: they tend to involve your voice, and 
 
 We usually think of this as "lead nurture".
 
-There's a really interesting spectrum of options here, and some of them offer poorly aligned incentives, so I want to dig into this topic a bit.
+There's an interesting spectrum of options here, and some of them offer poorly aligned incentives, so I want to dig into this topic a bit.
 
 **The Spectrum:** On one end of the spectrum, we have a multi-step process involving some level of automation or personalization, often referred to as a marketing funnel.
 
-On the opposite end of the spectrum, we have more simple, less automated approaches like sending a regular installment of content to your entire email list, or things that function like a radio broadcast in that anyone who "tunes in" can partake of the podcast or YouTube video or blog article you've just published.
+On the opposite end of the spectrum, we have simpler, less automated approaches like sending a regular installment of content to your entire email list, or things that function like a radio broadcast in that anyone who "tunes in" can partake of the podcast or YouTube video or blog article you've just published.
 
 The poles of this spectrum are not mutually exclusive. You can combine elements from both extremes on this spectrum, or create a sort of hybrid lead nurture system that would live somewhere in the middle of this spectrum. That said, there are tradeoffs inherent in any choice you make about lead nurture, and it's wise to understand those tradeoffs before you make decisions about how to approach lead nurture in your business.
 
-Before we get to that, one more critical concept: "racking the shotgun". As far as I can tell, this concept comes from marketer Perry Marshall. He tells a story about how an experienced card shark took his protege into a card room, pulled a sawed-off shotgun out of his coat, and cycled a shell into the chamber. He didn't fire the round, he just "racked the shotgun". That sound caused some of the gamblers in the room to immediately look up to see where the familiar but threatening sound was coming from. The card shark told his protege: "Notice who looked up. That's who you need to worry about; you can hustle everyone else but watch out for *those* guys." That's where this idea of “racking the shotgun" comes from. It's a signal that not everyone will respond to. In fact, it's calculated such that only the right kind of people will respond to it. People with a certain level of awareness, a certain level of urgency, a certain history, a certain vocabulary, a certain top-of-mind concern, a certain way of seeing the world, members of a certain social group, or some combination of several of these factors. Here are some hopefully common examples of racking the shotgun in real life:
+Before we get to that, one more critical concept: "racking the shotgun". As far as I can tell, this concept comes from marketer Perry Marshall. He tells a story about how an experienced card shark took his protege into a card room, pulled a sawed-off shotgun out of his coat, and cycled a shell into the chamber. He didn't fire the round, he just "racked the shotgun". That sound caused some of the gamblers in the room to immediately look up to see where the familiar but threatening sound was coming from. The card shark told his protege: "Notice who looked up. That's who you need to worry about; you can hustle everyone else but watch out for *those* guys." That's where this idea of “racking the shotgun" comes from. It's a signal that not everyone will respond to. In fact, it's calculated such that only the right kind of people will respond to it. People with a certain level of awareness, a certain level of urgency, a certain history, a certain vocabulary, a certain top-of-mind concern, a certain way of seeing the world, members of a certain social group, or some combination of several of these factors.
 
-{TODO: examples. Consider including TEI as one of them.}
-
-So how do you decide where to land on this spectrum of lead generation approaches? Here are some things to consider as you make this decision.
+How do you decide where to land on this spectrum of lead generation approaches? Here are some things to consider as you make this decision.
 
 If you did a pseudo-random sampling of 100 examples of each end of the spectrum, you'd get the sense that highly automated, highly personalized lead nurture tends to be used by a certain type of business that looks a lot like the typical "internet marketer" business. And you'd get the sense that simpler, less automated approaches tend to be used by more traditional, more "corporate" businesses. And this pattern might lead you to have a negative or positive view of these approaches simply based on _who_ tends to use the approach. 
 
-Do you find internet marketer types personally sleazy? You'll probably also find their methods sleazy as well. Find corporations stodgy and boring? Then you may dismiss the methods they use as ineffective or out of date. If you have no idea what I'm talking about with this whole "sleazy internet marketer" thing, do a Google image search for _internet marketer lambo_, look for images of a guy who fits the "bro" stereotype standing next to or sitting in a Lamborghini, and follow a few of those images back to the site they came from and you'll see what I'm talking about. 
+Do you find internet marketer types personally sleazy? You'll probably also find their methods sleazy as well. Find corporations stodgy and boring? Then you may dismiss the methods they use as ineffective or out of date.^If you have no idea what I'm talking about with this whole "sleazy internet marketer" thing, do a Google image search for _internet marketer lambo_, look for images of a guy who fits the "bro" stereotype standing next to or sitting in a Lamborghini, and follow a few of those images back to the site they came from and you'll see what I'm talking about.]
 
-The heuristic of "do what people I like do, avoid doing what people I dislike do" is one way to make a decision, but consider that it may not be the *best* way to make *this* decision about how you do lead nurture. To be clear, I think plenty of internet marketers *are* actual human sleaze balls. But I avoid dismissing their methods outright, because most of their methods are in fact neutral. Whether the method is sleazy or not is a function of who is using it, their intentions in using it, and numerous implementation details, not the method itself.
+The heuristic of "do what people I like do, avoid doing what people I dislike do" is one way to make a decision, but consider that it may not be the *best* way to make *this* decision about how you handle lead nurture. To be clear, I think plenty of internet marketers *are* actual human sleaze balls. But I avoid dismissing their methods outright, because most of their methods are in fact neutral. Whether the method is sleazy or not is a function of who is using it, their intentions in using it, and numerous implementation details, not the method itself.
 
-Automation is not the same as intelligence, yet as the one setting up the automation, it can feel like it is. And that feeling can lead to ineffective automation. Bill Gates said this in the most timeless fashion when he wrote: 
+Automation is not the same as intelligence, yet as the person setting up the automation, it can feel like it is. And that feeling can lead to ineffective automation. Bill Gates said this in the most timeless fashion when he wrote: 
 
 > The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.
 
@@ -141,46 +135,46 @@ I often talk about premature automation, which is the idea that you're jumping i
 
 Building lead nurture automation is not always easy, but it is always easier than building operational efficiency. That's part of why people who are actually good at building actual operational efficiency at scale are usually paid astronomical amounts of money. They're building the real foundational asset, and those who apply automation to it are successful mainly to the degree that they are building on top of a good foundation. As a solo business owner you may be doing both, but remember that the operational efficiency -- or in this case your ability to earn trust efficiently -- is the foundation, and automation is the optimization. 
 
-I worry a bit about the incentives that modern marketing automation set up for technical folks for several reasons. First, modern marketing automation tools promise an "easy mode", and rarely talk about the need to build atop a solid foundation. If you're running a SaaS (and lots of modern marketing automation tools use the SaaS business model), it's easy to focus on getting customer lifetime value (CLTV) higher than the cost of acquiring a customer (CAC) and let a free trial and a no-hassle cancellation policy substitute for a moral compass for whether someone really needs your software or not. This leads you to build a marketing story that positions your marketing automation product as a magic bullet for lots of things that it _can_ do if you're building on a solid business foundation but definitely *can not* do if you lack that foundation. 
+I worry a bit about the incentives that modern marketing automation set up for technical folks for several reasons. First, modern marketing automation tools promise an "easy mode", and rarely talk about the need to build atop a solid foundation. If you're running a SaaS (and lots of modern marketing automation tools use the SaaS business model), it's easy to focus on getting customer lifetime value higher than the cost of acquiring a customer and let a free trial and a no-hassle cancellation policy substitute for a moral compass for whether someone really needs your software or not. This leads you to build a marketing story that positions your marketing automation product as a magic bullet for lots of things that it _can_ do if you're building on a solid business foundation but definitely *can not* do if you lack that foundation. 
 
-It's easy for the SaaS marketer to say "well, it's free to try and easy to cancel, so we'll just let customers figure out if it really works for them". This leads to product marketing with unrealistic claims and insufficient customer screening. But worse, over time it leads to a _belief in the market_ that the right tool will substitute for the need to do the dirty, un-sexy work of building a foundation. 
+It's easy for the SaaS marketer to say "well, it's free to try and easy to cancel, so we'll just let customers figure out if it really works for them". This leads to product marketing with unrealistic claims and insufficient customer screening. But worse, over time it leads to a _belief out there in the market_ that the right tool will substitute for the need to do the dirty, un-sexy work of building a foundation of trust-building efficiency. 
 
-Really give this some serious thought: How many of your beliefs about marketing (remember, this is simply connecting and building trust with prospective clients) come from direct experience, and how many are formed by the marketing and sales copy of *companies with a marketing product to sell and questionable standards for selling it*?
+Really give this some serious thought: How many of your beliefs about marketing (remember, marketing is simply earning visibility and trust) come from direct experience, and how many are formed by the marketing and sales copy of *companies with a marketing product to sell and questionable standards for selling it*?
 
 In short, part of the misaligned incentives come from how SaaS companies market their products.
 
 The second source of misaligned incentives comes from the fact that modern marketing automation tools can be a fun distraction from the real work of getting good at earning trust and cultivating exceptionally valuable expertise. I speak from experience here. I lost quite a bit of time to the fun but unproductive pursuit of magical automation solutions to a problem that could never be solved with automation: my deficient ability to attract leads and earn their trust efficiently.
 
-Technical people (and though I'm not a developer, I was a sysadmin and technical trainer for 10 years, so I definitely have a finely honed appreciation for the pursuit of shiny objects) are usually predisposed to enjoy solving certain kinds of problems merely for the satisfaction of solving the problem rather than the business benefit of solving that problem. In other words, we get an emotional ROI on solving the problem, and that emotional ROI has nothing to do with whether the solution even *has* a business ROI.
+Technical people[^Though I'm not a developer, I was a sysadmin and technical trainer for 10 years, so I definitely have a finely honed appreciation for the pursuit of shiny objects] are usually predisposed to enjoy solving certain kinds of problems merely for the satisfaction of solving the problem rather than the business benefit of solving that problem. In other words, we get an emotional ROI on solving the problem, and that emotional ROI has nothing to do with whether the solution even *has* a business ROI.
 
 For lots of technical folks, the emotional ROI of figuring out marketing automation exceeds the emotional ROI of figuring out how to efficiently earn trust from prospects, and so we dive right into maximizing our emotional ROI and skip past the essential foundational work of building an efficient trust-earning operation. This is a costly mistake, and it comes from misaligned incentives.
 
 The answer is to become aware of and honest about what's actually happening (hopefully I've helped with that here), get real about whether you're willing to do the dirty, necessary foundational work, and then apply effort and discipline to build the foundation before you move on to the more emotionally rewarding optimization work.
 
-The highly automated approach also makes it easy to hew towards a solution-first approach rather than a market-first approach. Part of the reason why is that marketing automation solutions are often positioned as very effective ways to persuade or spur leads to take action.
+The highly automated approach also makes it easy to favor a solution-first approach rather than a market-first approach. Part of the reason why is that marketing automation solutions are often positioned as very effective ways to persuade or spur leads to take action.
 
-If you're coming from a solution-first approach, you'll be tempted by everything that seems able to help you sell your solution, and the less the actual market actually wants it, the more desperate you may become. I've seen lots of my coaching clients struggle and then finally figure out what their market wants. When they do, it's like pouring gasoline on a fire. It's almost explosive, and while they might add in marketing automation to scale things, marketing automation is never the thing that turns the small fire into a huge roaring fire. It's the fit between what the market urgently needs and what you're offering. 
+If you're coming from a solution-first approach, you'll be tempted by everything that seems able to help you sell your solution, and the less the actual market actually wants it, the more desperate you become. I've seen lots of my coaching clients struggle and then finally figure out what their market wants. When they do, it's like pouring gasoline on a fire. It's almost explosive, and while they might add in marketing automation to scale things, marketing automation is never the thing that turns the small fire into a huge roaring fire. It's the fit between what the market urgently needs and what you're offering. 
 
-My favorite example of this is Tom, who _sells marketing automation services!_, but he had the patience and discipline to refine his offer to the point of fantastic product-market-fit -- on Upwork of all place -- before he moved into applying marketing automation to his own business. Additionally, he spent months doing a grueling daily publication challenge to further deepen his expertise and get feedback from his audience before building on that foundation of insight and expertise and trust-building efficiency with marketing automation.
+My favorite example of this is Tom, who _was selling marketing automation services at the time!_, but he had the patience and discipline to refine his offer to the point of fantastic product-market-fit -- on Upwork of all places -- before he moved into applying marketing automation to his own business. Additionally, he spent months doing a grueling daily publication challenge to further deepen his expertise and get feedback from his audience before using marketing automation to build on that foundation of insight and expertise and trust-building efficiency.
 
 It takes significant discipline to do this, and Tom has definitely reaped the rewards of this discipline and patience. But if you haven't found that fit between what the market urgently needs and what you offer, and you're getting impatient, it's very easy to start seeing premature automation as a solution because that's exactly how lots of marketing automation tools market themselves.
 
-Finally, marketing automation can play into tendencies you might have towards social awkwardness or avoidance of realtime communication. I share in some of these tendencies, so don't worry, I'm not criticizing or making fun of you. But, as I often like to say: unfortunately, you're in a relationship business. 
+Finally, marketing automation can play into tendencies you might have towards social awkwardness or avoidance of realtime communication. I share in some of these tendencies, so don't worry, I'm not criticizing or making fun of you. But unfortunately, you're in a relationship business. 
 
 It's "unfortunate" because many of you would prefer to be in an isolation business, or a maverick genius business, or a leave me alone so I can code business. But unfortunately, relationships play an outsized role in your success, and for many of us, that means we need to work on improving an area that we're naturally weak in. Marketing automation seems to provide a way out of doing this hard work. 
 
 We think: "I'll pour my best efforts at relating and connecting into an automated email sequence and _that_ can do the hard, uncomfortable work for me! And better yet, it's far more scalable than my own time is!" And maybe it can. Sometimes. 
 
-But if you want better results in your business, I urge you to improve two things: your ability to connect with leads, and your ability to earn their trust. Part of your ability to do these two tasks better comes from relationship skills, part comes from cultivating economically valuable expertise, and part comes from getting better at packaging and communicating that expertise in compelling, interesting ways.
+But if you want better results in your business, I urge you to improve two things: your ability to earn visibility for your thinking, and your ability to earn their trust. Part of your ability to do these two tasks better comes from relationship skills, part comes from cultivating economically valuable expertise, and part comes from getting better at packaging and communicating that expertise in compelling, interesting ways.
 
-Wow. Sounds like I'm pretty anti-marketing automation, huh? Nope! I just know who I'm talking to here, and at least 80% of you need to do more foundational work in the following areas _before_ you do much with marketing automation:
+Wow! Sounds like I'm pretty anti-marketing automation, huh? Nope! I just know who I'm talking to here, and at least 80% of you need to do more foundational work in the following areas _before_ you do much with marketing automation:
 
 - Choosing a **narrow focus** so you know exactly *who* you're trying to connect with and earn trust from.
 - Gain **insight** into their world, so you know exactly *what* value you are creating for them.
 - Cultivate a **point of view** so that your marketing is meaningfully different from others with a similar skillset or body of experience and so leads find something attractive or repellant in you.
 - Build a **body of work** that demonstrates real, deep expertise rather than commoditized skill.
 
-Let's look now at the other side of this spectrum where your attempts to build trust with leads look more like broadcasting and less like automation & personalization and consider the lead nurture approaches we might find there, which would include the following:
+Let's look now at the other side of this spectrum, where your attempts to earn trust from leads look more like broadcasting and less like automation & personalization and consider the lead nurture approaches we might find there, which would include the following:
 
 - Regularly publishing to a blog, email list, or both -- with content that's not personalized at all.
 - Publishing a podcast.
@@ -192,7 +186,7 @@ These approaches all look like some form of broadcast. If you buy into the promi
 
 If you take what I'll simply call the "broadcast approach", you'll tend in one of two directions. You'll either play it safe and try to speak to the broadest possible audience (which means you have nobody specific in mind as the beneficiary of your content) or you'll be bold and think more in terms of building a body of work over a significant period of time for *somebody in particular*.
 
-If you're trying to maximize broad appeal, then going very narrow and specific with your lead nurture feels threatening. "What if a great lead shows up and we completely miss connecting with them in our lead nurture content?" If you actually understand how content marketing works, you see an Internet overflowing with me-too content and so you zig when others are zagging. You go narrow because you know that will be irresistable to your *ideal* prospects, of whom there are more than enough to support your business.
+If you're trying to maximize broad appeal, then going very narrow and specific with your lead nurture feels threatening. "What if a great lead shows up and we completely miss connecting with them in our lead nurture content?" If you actually understand how content marketing works, you see an Internet overflowing with me-too content and so you zig when others are zagging. You go narrow because you know that will be appealing to your *ideal* prospects, of whom there are more than enough to support your business.
 
 If you broadcast and go narrow and specific with the focus of your lead nurture content, you create several other beneficial outcomes.
 
@@ -206,7 +200,7 @@ If you look at most experts, the value they have to offer, and the price for acc
 
 {TODO: graph with "free" on one end and "very expensive" on the other and two tall, narrow bell curves, one centered over the free end, and one centered over the very expensive end, with very little in between}. 
 
-The considerable price experts can charge for the application of their expertise affords them enough time to produce a significant body of work for free or very low cost ($19 business books, for example), and they'd often prefer to maximize reach for their ideas, which is why they invest so heavily in free content. In other words, they can _afford to be generous,_ and so they are. 
+The considerable price experts can charge for the application of their expertise affords them enough time to produce a significant body of work for free or very low cost ($19 business books are one example), and they'd often prefer to maximize reach for their ideas, which is why they invest so heavily in free content. In other words, they can _afford to be generous,_ and so they are. 
 
 They know that there's no limit to how deep they can go with their free lead nurture content because there's always enough prospects out there who will pay a premium price for the specific application of an expert's expertise to their specific situation or needs, so they don’t feel like they have to hold back in the free content, or use it as some kind of cheap tease for their services. Viewed through this lens, an expert who publishes fresh new insightful content to an email list of leads on a weekly or more frequent basis appears a lot more successful than one who sets up some automated lead nurture sequences and then retreats away to focus on their evidently less profitable client work.
 
@@ -222,9 +216,7 @@ There are leads who -- somewhat like The Terminator[^I used this analogy in an e
 
 Remember "racking the shotgun" from earlier in this chapter; the sound that gets the experienced gamblers to look up? What kinds of signals would match would these Terminators are looking for in their heads up display? Instead of looking for Sarah Connor, they're looking for a solution to a specific problem. 
 
-{TODO: research on the concerns of various stages of the buying cycle and ways of racking the shotgun that could speak to these various concerns.}
-
-So group your leads into two camps: The Terminators, who are seeking a solution, and everybody else, who is a potential future client but they currently lack the singleminded focus of your Terminators. You don't have to do this grouping with any kind of actual formal segmentation or marketing automation trickery, you just periodically rack the shotgun in a way that speaks to your Terminators. The others will barely notice as you continue to build your expertise brand with them so that when they become a Terminator (because their problem has moved from not-urgent to urgent, for example), they think of you and your expertise. 
+Group your leads into two camps: The Terminators, who are seeking a solution, and everybody else, who is a potential future client but they currently lack the singleminded focus of your Terminators. You don't have to do this grouping with any kind of actual formal segmentation or marketing automation trickery, you just periodically rack the shotgun in a way that speaks to your Terminators. The others will barely notice as you continue to build your expertise brand with them so that when they become a Terminator (because their problem has moved from not-urgent to urgent, for example), they think of you and your expertise. 
 
 What do you do for The Terminators? I suggest an email autoresponder sequence, sometimes referred to as an "email course". One that speaks to the stage in the buying cycle you want to connect with. Here's one example of how I do this:
 
@@ -238,11 +230,11 @@ The Terminators can enter an email course in one of three ways:
 - They can stumble across you guesting on a podcast, giving a talk for someone else's audience in a webinar or at a conference, running an ad for your email course, or elsewhere online. As part of the content you are creating for someone else's audience, you can have what's known as a call to action that directs interested parties to your email course page.
 - They can notice you talking about your email course in your regular lead nurture content. This means they're already on your list, but perhaps your email course hasn't caught their attention before now because they weren't interested or ready to take action until now, or perhaps this is just the first time they've noticed you talking about it.
 
-Definitely make your decision about how you want to earn trust after someone becomes a lead (lead nurture) based on what's best for you and your business. I hope you see that there are some real differences between the personalized, automated approach when compared to something that looks more like broadcast publication. I think the latter gets unfairly overlooked because it's more work, but it has some benefits that I hope are now apparent to you. 
+Definitely make your decision about how you want to earn trust after someone becomes a lead (lead nurture) based on what's best for you and your business. I hope you see that there are some real differences between the personalized, automated approach compared to something that looks more like broadcast publication. I think the latter gets unfairly overlooked because it's more work, but it has some benefits that I hope are now apparent to you. 
 
 Again, you can combine approaches and I've seen that work very well, and I do that myself in my own business. Overall, just make sure you're choosing your approach based on its actual merits when applied to your business over the long term, not based simply on convenience or the short-term emotional ROI of one approach over the other.
 
-# A Relevant Offer, Or Ladder Of Relevant Offerings
+# Asset 4: A Relevant Offer, Or Ladder Of Relevant Offerings
 
 Let's talk about the next thing you need to turn your specialization decision into a strong market position: a ladder of relevant offerings.
 
@@ -250,18 +242,18 @@ When it comes to your service offerings, there's another spectrum at play. On on
 
 One thing deep expertise can do is help you move from the custom to the productized end of this spectrum. There's nothing inherently superior about a productized service, but there is something about it that signals that you are an expert, and that signal is this: you know what to expect _before_ you get into the engagement, and for this reason you can define the contours of the engagement without depending on the client to do that for you. There's nothing exploratory about it. Your ability to set a fixed price signals confidence in your ability to execute the the work with great consistency and few surprises. Brain surgeons don’t ask for your input on where to make the incision and what to do once they get in there for this same reason.
 
-If you prematurely productize a service, the lack of this same expertise can cause low profitability because you set the price too low or it takes too much work to deliver the promised result or surprises slow things down, and it can cause other customer experience problems. Plenty of experts deliver services on a completely custom basis, and this can work out very well. So again, neither custom nor productized are inherently superior. But as you cultivate expertise, I hope you'll set the following as a minimum bar for how you define or package your services.
+If you prematurely productize a service, the lack of this same expertise can cause low profitability because you set the price too low or it takes too much work to deliver the promised result or surprises slow things down, and it can cause other customer experience problems. Plenty of experts deliver services on a completely custom basis, and this can work out very well. So again, neither custom nor productized are inherently superior. But as you cultivate expertise, I hope you'll use the following criteria as a minimum bar for how you define or package your services.
 
 Most generalists talk about their services based on the skill or discipline that underlies that service. This is another signaling mechanism that reinforces their status as vendors of a service defined by outputs rather than one defined by its impact. 
 
 They're saying, in essence, "Here's a bunch of semi-related skills. We don't know the best use for them, so we'll leave that decision up to you, dear client." This would be like the brain surgeon having a website where they list their equipment and skills. This is fun to think about, so let’s try an abbreviated example:
 
-- Equipment:
+- **Equipment**:
 	- Scalpel
 	- Bone saw
 	- Forceps
 	- Clamps
-- Skills
+- **Skills**
 	- Can make cuts within 1mm of the intended cut point.
 	- Can stand on feet for many hours while performing surgery.
 	- Can remain focused and not check email every 5 minutes.
@@ -277,17 +269,17 @@ It's inputs compared to outcomes. Tools/skills compared to results those tools/s
 
 To further think this through, imagine what would happen if an auto repair shop had the exact same set of tools, but in Scenario A they know they are focused on repairing automobiles, and the Scenario B their memory has been tampered with and they forget what kind of machinery they are focused on repairing. They look at their garage full of tools and say, "Wow, we could repair anything from a chainsaw to cars to an industrial generator to a dragline excavator! Really, anything with an internal combustion engine is fair game for our services. So let's make sure people know that when they visit our website." 
 
-In Scenario A, their website looks like what we'd expect an auto repair shops website to look like. But in Scenario B, might not their website look a lot like the one where they list their tools because they have no idea what their customers will want them to use those tools for? In other words, might not their website look a lot like the typical professional service firms's website where services are really just a list of skills or disciplines?
+In Scenario A, their website looks like what we'd expect an auto repair shops website to look like. But in Scenario B, wouldn't their website look a lot like the one where they list their tools because they have no idea what their customers will want them to use those tools for? In other words, might not their website look a lot like the typical professional service firms's website where services are really just a list of skills or disciplines?
 
-If your list of services is really just a fancy list of skills or disciplines, then you are sending a signal that you don't know and haven't decided _who or what those skills are for_, and so your website starts to look a lot like another kind of businesses website: an equipment rental company. 
+If your list of services is really just a list of skills or disciplines, then you are sending a signal that you don't know and haven't decided _who or what those skills are for_, and so your website starts to look a lot like another kind of businesses website: an equipment rental company. 
 
-We fully expect an equipment rental company to have a website with a list of equipment and the day rate for each piece of equipment, because they literally have no idea what you will use that equipment for. The same trench digger might be used to install an irrigation system in your yard _and_ later, by another customer, to install a fiber optic cable between two office buildings to enable a large and highly profitable expansion of some sort. The economic value of the latter use is much larger than the former, but the equipment company charges both customers the same day rate for the trench digger. They're not in the business of caring *what you use their tools for*, and if your list of services on your website is only a list of skills or disciplines, then your website is sending the exact same message: "Here are our tools. Use them for whatever you like, 'cause we certainly don't know what they're best for."
+We fully expect an equipment rental company to have a website with a list of equipment and the day rate for each piece of equipment, because they literally have no idea what you will use that equipment for. The same trench digger might be used to install an irrigation system in your yard _and_ later, by another customer, to install a fiber optic cable between two office buildings to enable a large and highly profitable expansion of some sort. The economic value of the latter use is much larger than the former, but the equipment company charges both customers the same day rate for the trench digger. They're not in the business of caring *what you use their tools for*, and if your list of services on your website is only a list of skills or disciplines, then your website is sending the exact same message: "Here are our tools. Use them for whatever you like because we certainly don't know what they're best for."
 
 While a fully productized service would define what the service is for, the scope and delivery mechanism, and the price, you don't have to go that far to signal expertise. The minimum is this: *define what or who your service is for*.
 
-If you can do at least that, then you'll have made a significant step forward. Define who or what your service is for, and do so in a way that is _specific_ and _objective_. Avoid stuff like this, which is a non-specific or totally subjective way of defining who or what your services are for:
+If you can do at least that, then you'll have made a significant step forward. Define who or what your service is for, and do so in a way that is _specific_ and _objective_. Avoid stuff like the following, which is a non-specific or totally subjective way of defining who or what your services are for:
 
-- "Innovative small businesses" (How would you measure  or define innovativeness in order to exclude poor fit prospects?)
+- "Innovative small businesses" (How would you measure  or define innovativeness in order to exclude poor-fit prospects?)
 - "Dynamic businesses" (What does "dynamic" even mean? Who gets to define how "dynamic" the prospective client is?)
 - "Fast-growing businesses" (How will you measure their growth? Where will you set the cutoff? Why are your services _only_ good for fast-growing businesses?)
 
@@ -297,34 +289,34 @@ It gets easier to make this argument after you've been focused in a particular w
 
 Finally, you may want to consider a "ladder" of service offerings. When you construct a ladder of services, you are creating options for your clients. I've heard this referred to as a "choice of yesses" rather than a "yes or no" decision. There are several good ways, and several bad ways, to organize a ladder of services. The following are generally good ways to do so:
 
-**A spectrum of services along a scale of increasing involvement from diagnostic only to diagnostic + complete solution to diagnostic + complete solution + desirable add-ons**. The desirable add-ons often take the form of ongoing support, or "insurance" of some kind. Notice there is no "without diagnostic" option available, for the same reason you can't just waltz into a brain surgeon's office and hop onto the operating room table for a brain tumor removal without going through a very thorough diagnostic first. The diagnostic-only option will be the cheapest, partially because it's the lowest cost for you to deliver but also because getting strategy from one place and implementation from another can be risky, and so the diagnostic-only option can simply deliver less value than a diagnosis married to implementation.
+**A spectrum of services along a scale of _increasing involvement_ from diagnostic only to diagnostic + complete solution to diagnostic + complete solution + desirable add-ons**. The desirable add-ons often take the form of ongoing support, or "insurance" of some kind. Notice there is no "without diagnostic" option available, for the same reason you can't just waltz into a brain surgeon's office and hop onto the operating room table for a brain tumor removal without going through a very thorough diagnostic first. The diagnostic-only option will be the cheapest, partially because it's the lowest cost for you to deliver but also because getting strategy from one place and implementation from another can be risky, and so the diagnostic-only option often delivers less value than a diagnosis married to implementation.
 
 {TODO: illustration of this spectrum, with "implementation robustness" on the x axis and price on the y axis}
 
-**A spectrum of services along a scale of increasing impact from a quick fix to a deeper or more permanent fix to a deeper fix + desirable add-ons**. The desirable add-ons might take the form of skill transfer, ongoing support, or "insurance".
+**A spectrum of services along a scale of _increasing impact_ from a quick fix to a deeper or more permanent fix to a deeper fix + desirable add-ons**. The desirable add-ons might take the form of skill transfer, ongoing support, or "insurance".
 
 {TODO: illustration of this spectrum, with impact on the x axis and price on the y axis}
 
-**A spectrum of services across a variety of delivery models, from done-for-you to done-with-you to teach-you-how-to-do-it-yourself**.
+**A spectrum of services across a _variety of delivery models_, from done-for-you to done-with-you to teach-you-how-to-do-it-yourself**.
 
 {TODO: illustration of this spectrum, with labor intensity on the x axis and price on the y axis}
 
 
 And I'd suggest avoiding the following ways of organizing your ladder of services because they signal a lack of expertise:
 
-**A mix of services that include a "no diagnostic" option**. This signals that you either have no unique diagnostic or strategy value to contribute, or you consider your diagnostic or strategy value interchangeable with that of others. This is like waltzing into that brain surgeon's office, saying "I'd like you to remove this tumor that my doctor friend Pat diagnosed", and then the surgeon says "Great, let's do it" with absolutely no validation of their own.
+**A mix of services that include a _no diagnostic option_**. This signals that you either have no unique diagnostic or strategy value to contribute, or you consider your diagnostic or strategy value interchangeable with that of others. This is like waltzing into that brain surgeon's office, saying "I'd like you to remove this tumor that my doctor friend Pat diagnosed", and then the surgeon says "Great, let's do it" with absolutely no validation of their own.
 
-**A ladder of services with poorly-differentiated "rungs"**. Will prospects have difficulty understanding why they should choose one service over another? That might just be because they're an inexperienced buyer of services like yours[^It's not automatically bad that your buyer is inexperienced in buyying services like yours. With some of the more specialized horizontal service offerings you may fairly regularly encounter this.], or it might be because your ladder of services is simply confusing or poorly organized.
+**A ladder of services with _poorly-differentiated rungs_**. Will prospects have difficulty understanding why they should choose one service over another? That might just be because they're an inexperienced buyer of services like yours[^It's not automatically bad that your buyer is inexperienced in buyying services like yours. With some of the more specialized horizontal service offerings you may fairly regularly encounter this.], or it might be because your ladder of services is simply confusing or poorly organized.
 
-You may choose to not list your entire ladder of services on your website. Some parts of the ladder may only be exposed to your clients, and not to the general public. Borrowing terminology from the world of direct response marketing, I often call these "back-end" services. They're services that are easier to sell to people who have already paid you and therefore trust you and pose a lower cost of sale than non-clients, or they are services that only make sense to sell to existing or previous clients. 
+You may choose to _not_ list your entire ladder of services on your website. Some parts of the ladder may only be exposed to your clients, and not to the general public. Borrowing terminology from the world of direct response marketing, I often call these "back-end" services. They're services that are easier to sell to people who have already paid you and therefore trust you and pose a lower cost of sale than non-clients, or they are services that only make sense to sell to existing or previous clients. 
 
 For example, imagine that your ladder of services includes design and implementation of a custom CRM for contractors. When you do the design work, you use a proprietary research method to understand your client's CRM needs, and you translate the results of this research into how the software is designed. But, beyond just the software, the data your research collects on your client's sales team is helpful for making other changes to the business process the company uses in their sales department. You might offer a "back-end" service where you help your client interpret the findings of your research and make process changes in concert with adopting their new custom CRM. Offering this service on your website might not make sense because it could be hard to help prospects see its value without first doing the research, and you're trying to reduce any extra cognitive load on the website.
 
-Implicit in the idea of a ladder is that clients will climb it. This is where the analogy of a services ladder breaks down, because some ladders are organized such that some clients will enter it only at the highest level and others will, over time, actually climb it as they move from a small, entry level engagement on the bottom of the ladder to a more robust, deep engagement higher up the ladder. The main point here is that you shouldn't take the "ladder" analogy too strictly. It's more about the "choice of yesses” -- or a small menu of focused relevant options -- than it is about a "small to big" arrangement of services.
+Implicit in the idea of a ladder is that clients will climb it. This is where the analogy of a services ladder breaks down, because some ladders are organized such that some clients will enter it only at the highest level and others will, over time, actually climb it as they move from a small, entry level engagement on the bottom of the ladder to a more robust, deep engagement higher up the ladder. Yet other service ladders are designed to serve businesses at different points along their maturity lifecycle. The main point here is that you shouldn't take the "ladder" analogy too strictly. It's more about the "choice of yesses” -- or a small menu of focused relevant options -- than it is about a "small to big" arrangement of services.
 
-# An Ecosystem Of Support
+# Asset 5: An Ecosystem Of Support
 
-Eventually, you'll need an ecosystem of support. Remember that what we're talking about here is the list of things you need to turn your specialization decision into a strong market position. Remember that your market position is your _reputation_. Remember also that I like to say: unfortunately, you're in a relationship business. 
+Eventually, you'll need an ecosystem of support. Remember that what we're talking about here is the list of things you need to turn your specialization decision into a strong market position. Remember that your market position is your _reputation_. Remember also that unfortunately, you're in a relationship business. 
 
 One of the ways you can cultivate the reputation you want is to recruit the help of other people: 
 
