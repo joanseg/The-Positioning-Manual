@@ -5,6 +5,7 @@
 - The Business of Expertise
 - The Win Without Pitching Manifesto
 - Blue Ocean Strategy
+- How to Measure Anything
 - Market research books:
 	- Lean Customer Development
 	- Alan Klement's JTBD book?

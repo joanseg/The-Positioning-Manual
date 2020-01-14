@@ -2,7 +2,7 @@
   
 {TODO: Add more subheadings for better info architeccture}
 
-You may be specializing for one or both of two reasons: 1) to make your efforts to connect and build trust with ideal prospects yield better results and 2) to make it possible to cultivate exceptionally valuable expertise. Superficial vs. deep specialization.
+You may be specializing for one or both of two reasons: 1) to make your efforts to earn visibility and trust from ideal prospects yield better results and 2) to make it possible to cultivate exceptionally valuable expertise. Superficial vs. deep specialization.
 
 It's possible to focus on the first reason and avoid the second, but I think the deepest rewards of specialization -- both economically and personally -- accrue to those who pursue *both* reasons for specializing. This chapter is an introduction to how you might use time and focused effort to turn your specialization decision into economically valuable expertise.
 
@@ -17,7 +17,7 @@ Ideally, you'll recruit all of these six allies as you work too cultivate deep e
 
 Across many interviews with self-made experts ([http://consultingpipelinepodcast.com](http://consultingpipelinepodcast.com) and a new body of work I’m building at [http://theselfmadeexpert.com](http://theselfmadeexpert.com)) -- aside from a reasonably high risk profile -- these are the characteristics I most commonly observe. I refer to them as allies because what you're seeking to do when you cultivate deep self-made expertise is not easy, and we all need all the help we can get on that journey.
 
-#  A Focus
+#  Ally 1: A Focus
 
 Your specialization decision might create enough focus such that a disciplined pursuit of that focus yields over time deep expertise. But, to be honest, it's unlikely because of the nature of impactful expertise.
 
@@ -33,7 +33,7 @@ There's this idea that specialization leads you inevitably to a fragile, out-of-
 
 I certainly understand how someone could imagine a fragile, out-of-touch position being the inevitable outcome of specialization, but I'd also have to ask the person suffering this fear two things: 1) do you know any highly paid specialists, and 2) how addicted are you to chasing shiny objects instead of business impact? I'm not asking if you _know of_ highly paid specialists, but actually *know any of them personally*? If you don't then you run the risk of imagining what their life is like rather than knowing what it actually is like.
 
-I spent almost the first two decades of my career chasing shiny objects of a technical nature. So trust me, I'm not throwing rocks here at you if you are currently addicted to chasing shiny objects. It's fun and hurts almost nobody. And furthermore, it often is a flat out good thing to do for a while. It gives you at least a thin layer of broad technical context within which to better develop focused expertise. 
+I spent almost the first two decades of my career chasing shiny objects of a technical nature. So trust me, I'm not throwing rocks if you are currently addicted to chasing shiny objects. It's fun and hurts almost nobody. And furthermore, it often is a flat out good thing to do for a while. It gives you at least a thin layer of broad technical context within which to better develop focused expertise. 
 
 A few years of chasing shiny objects, especially at the outset of a career? There's far more good than bad in that! But 20 or 40 years of chasing shiny objects because you can't settle down, focus, and make yourself into a valuable expertise asset to businesses that need that expertise? That's a recipe for a disappointing career, one that probably concludes with you having an intimate understanding of the meaning of the word ageism.
 
@@ -43,23 +43,23 @@ If the defining characteristic of expertise has to do with context, and if chasi
 
 If your goal is to create economically valuable business impact, then every component of the system pictured above is critical, and the removal of any component will fail to achieve business impact. The reality, though, about cultivating deep expertise is that you don't start with every component of this system. You build them sequentially over time, starting with the needle. Allow me to explain.
 
-Consider what happens if you start _without_ a needle. If you have the syringe barrel that contains the medication but no needle, then you could kind of spray the medication against the epidermis of the patient's skin, but that would be completely ineffective at delivering the medication to the place it needs to go. 
+Consider what happens if you start _without_ a needle. If you have the syringe barrel that contains the medication but no needle, then you could squirt the medication against the epidermis of the patient's skin, but that would be completely ineffective at delivering the medication to the place it needs to go. 
 
 Or, heaven forbid, you could grit your teeth and try to plunge the business end of the needle-less syringe barrel into the patent's skin, creating a half-inch diameter hole through 2 or 3 layers of skin in the process. You'd probably give up before getting past the dermis and the patient would probably be halfway through successfully suing you for everything you've got before the wound heals, but hey, you could try! 
 
 The needle is vital. It's the right tool for going deep in the patient's tissue, or reaching a vein/artery, with minimal pain and tissue damage. The needle in this analogy is your initial specialized focus. You cannot start without the needle.
 
-At first, this initial specialized focus might be a specialized application of skill. In other words, you may have an "empty syringe", because you haven't seen enough repeated applications of the same skill to develop the contextual awareness that creates real expertise. But over time, you will.
+At first, this initial specialized focus might be a specialized application of skill along without any real expertise. In other words, you may have an "empty syringe", because you haven't seen enough repeated applications of the same skill to develop the contextual awareness that creates real expertise. But over time, you will.
 
-Over time, you'll see the ways in which skill is not enough to create the desired impact. You'll learn from others who guide your skill with expertise. You'll see common failure points and learn to see them coming so you can avoid them in the future. You'll get curious about what might create greater business impact, and this curiosity will lead to self-directed learning or research that expands your understanding of the context in which your skills operate. You'll learn what stuff your clients tend to be blind to, or what assumptions turn out to be harmful later in the project when they're harder to correct.
+Over time, you'll see the ways in which skill alone is not enough to create the desired impact. You'll learn from others who guide your skill using their expertise. You'll see common failure points and learn to see them coming so you can avoid them in the future. You'll get curious about what might create greater business impact, and this curiosity will lead to self-directed learning or research that expands your understanding of the context in which your skills operate. You'll learn what stuff your clients tend to be blind to, or what assumptions turn out to be harmful later in the project when they're harder to correct.
 
-Over time, you will fill the barrel of your "syringe" with what I call a complete solution, which is a blend of skill, contextual understanding, and a truly unique implementation process that's optimized for maximum business impact on an important business issue.
+Over time, you will fill the barrel of your "expertise syringe" with what I call a complete solution, which is a blend of skill, contextual understanding, and a truly unique implementation process that's optimized for maximum business impact on an important business issue.
 
 Here's how this works over time. It might be possible to start with the syringe and the serum inside it, but it doesn’t actually work that way.
 
 You start by "getting a needle". That's your **decision about how to specialize**. You spend time building up a market position based on this initial choice of what your "needle" looks like.
 
-For a while, you are walking around with a syringe that has a needle, but not much in the way of medicine inside it. You could think of it as a very elementary medicine, mostly made up of skills. This is not to dismiss the importance of skill, but remember that skill alone doesn't usually achieve the most valuable forms of business impact. It's the deployment of skill guided by genuine expertise that achieves that impact.
+For a while, you are walking around with a syringe that has a needle, but the medicine inside is not very potent. You could think of it as a very elementary medicine, mostly made up of skills. This is not to dismiss the importance of skill, but remember that skill alone doesn't usually achieve the most valuable forms of business impact. It's the deployment of skill guided by genuine expertise that achieves that impact.
 
 Next, if you're like most experts I've interviewed, you become dissatisfied by the gap between what your current skill can do and the impact you'd like to be able to create. And so you focus on filling the barrel of your syringe with more expertise. You don't change the needle. That would be chasing shiny objects. Instead, you focus on _more_. 
 
@@ -67,15 +67,17 @@ More depth of understanding of your clients and their business. More nuanced und
 
 When this medicine is delivered to the right area, it creates valuable impact. It gets to work improving the patient's condition.
 
-Now that we have this idea pretty well established, I want to return to the idea of *focus*. Earlier I said: "your specialization decision might create enough focus such that a disciplined pursuit of that focus over time yields deep expertise but, to be honest, it's unlikely because of the nature of impactful expertise". I said this because the work of developing a proprietary medicine to fill your expertise syringe can be the kind of work that takes a decade or more, though you can make meaningful progress in about the time it takes to earn a master's degree.
+Now that we have this idea pretty well established, I want to return to the idea of *focus*. 
+
+Earlier I said: "your specialization decision might create enough focus such that a disciplined pursuit of that focus over time yields deep expertise but, to be honest, it's unlikely because of the nature of impactful expertise". I said this because the work of developing a proprietary medicine to fill your expertise syringe can be the kind of work that takes a decade or more, though you can make meaningful progress in about the time it takes to earn a master's degree.
 
 ## Side Quests
 
 The pursuit of deep expertise will often lead you on "side quests". This is distinctly different than chasing shiny objects, though it might look similar at first. Chasing shiny objects is spontaneous, unplanned, and undisciplined. Side quests are a focused, disciplined, intentional search for complementary skill, expertise, or data that helps you achieve greater impact in your client work. These side quests are guided by your clear, narrow focus.
 
-Here's where the element of time becomes important. You'll choose a needle by deciding how to specialize. At this point, you won't be aware of everything that's needed to cultivate deep expertise. It's literally not possible, because you haven't used your specialization needle to get past the epidermis of the problem, so you simply can't see the full extent of the problem. But your needle gives you access to those deeper layers of the problem. As it does, you start to see how much more difficult, or complex the problem really is.
+Here's where the element of time becomes important. You'll choose a needle by deciding how to specialize. At this point, you won't be aware of everything that's needed to cultivate deep expertise. It's literally not possible, because you haven't used your specialization needle to get past the epidermis of the problem, so you simply _can't see_ the full extent of the problem. But your needle gives you access to those deeper layers of the problem. As it does, you start to see how much more difficult, or complex the problem really is.
 
-At this point you can either give up entirely, retreat to a more superficial layer, or get serious about solving the deeper problem. Even if you decide to get serious about solving the deeper problem (and I hope you do, because the world needs more self-made experts like you!), you will spend some time living in that satisfaction gap I mentioned earlier. You'll spend some time knowing that there's a problem that you have access to but can't solve to your full satisfaction.
+At this point you can either give up entirely, retreat to a more superficial layer of the problem, or get serious about solving the deeper problem. Even if you decide to get serious about solving the deeper problem (and I hope you do, because the world needs more self-made experts like you!), you will spend some time living in that satisfaction gap I mentioned earlier. You'll spend some time knowing that there's a problem that you have access to but can't solve to your full satisfaction.
 
 This dissatisfaction will lead you to organize and pursue side quests, in search of the context, skill, complementary expertise, a unique implementation method, or data you need to really solve the deeper problem. It is during this phase of your career that you'll need even more discipline and discernment, because you now have a focus problem all over again.
 
@@ -85,7 +87,7 @@ If you're like me, this kind of challenge gets you out of bed in the morning, ex
 
 This challenge brings out the best in you. And you feel a sense of obligation to bring the best of yourself to this challenge. And so you'll think carefully about focus, prioritization, and maintaining a healthy average velocity as you pursue this challenge. Occasional sprints, yes, but most importantly you want to keep your average velocity steady through this expertise-building phase of your career.
 
-If you could see the entire project of building your deep self-made expertise all at once, it might feel like "eating an elephant". But in reality it's much more likely to unfold one piece at a time over multiple years. So you choose to focus on the side-quest that has just unfolded before you. But occasionally, you'll be presented with several potential side-quests. Should you pursue them all at once in parallel, or should you prioritize and pursue them serially? I can't answer that definitively for every possible person and situation, but in general, you might use the following to prioritize:
+If you could see the entire project of building your deep self-made expertise all at once, it might feel like "eating an elephant". But in reality it's much more likely to unfold one piece at a time over multiple years. So you choose to focus on the side-quest that has just unfolded before you. Occasionally, you'll be presented with several potential side-quests. Should you pursue them all at once in parallel, or should you prioritize and pursue them serially? I can't answer that definitively for every possible person and situation, but in general, you might use the following to prioritize:
 
 * Which side-quest will be most impactful on your ability to improve your clients condition? You might look at this through the perspective of risk mitigation, or maximizing opportunity.
 * Which side-quest would most increase your ability to deliver value to your clients with the least amount of work on your behalf? In other words, is there some sort of Pareto Principle 80/20 opportunity you could pursue?
@@ -94,9 +96,9 @@ If you could see the entire project of building your deep self-made expertise al
 
 An ability to deploy disciplined focus is advantageous at every stage of your career. As you build your expertise syringe, this ability to focus helps you choose the right needle, and focus then helps you organize the side-quests necessary to invent the most potent medicine possible to fill the syringe barrel so you can create deep, valuable client impact.
 
-# A Vision
+# Ally 2: A Vision
 
-Back to our missionary-mercenary spectrum.
+We're going to return to our missionary-mercenary spectrum here.
 
 I suppose the "pure" mercenary type would be one who is seeking opportunity based on the opportunity's ability to yield a financial profit without regard to anything else. I've never met anyone like this, so I'm not confident they actually exist in this pure form.
 
@@ -127,9 +129,9 @@ If that question stumps you with its apparent simplicity, then ask yourself thes
 Your vision for the role your expertise could play is going to be deeply personal. It won't be about *you* because self-centered visions are pretty useless gifts to the world, but your vision will be deeply informed by who you are, your life experiences, and what's important to you. It won't be about you, but it will emerge from you. I can't say much about *your* vision specifically, but I can say the following generally:
 
 * It's worth the work it takes to cultivate a vision for **what your expertise is for**. It keeps you going when the going gets tough.
-* If in doubt, **cultivate the most generous version** of your vision you can. Even if it doesn't work out financially, you'll have fewer regrets if you choose generosity, and you’ll become a person you can love more.
+* If in doubt, **cultivate the most generous version** of your vision you can. Even if it doesn't work out financially, you'll have fewer regrets if you choose generosity, and you’ll become a person you can feel better about being.
 * As you cultivate a vision, **do lean out over your skis**, but not so far that your business becomes an unstable system. Seeing no meaningful progress towards a vision that's important to you is flat out discouraging. Working towards a career vision that could be fully realized in a year is too small a challenge to bring out the best in you. There's going to be a happy medium that's different for different folks. Choose a level of ambition that excites you -- maybe even scares you a little -- but also brings out the best in you.
-* Finally, cultivate a vision that is relevant to those you seek to serve—one that is grounded in their needs or desires, not yours. If following this maxim leads you to an overly ambitious, unrealistic vision, go more narrow on who it is you want to serve before you lower your expectations about how much you can help them. In fact, avoid at all cost lowering your expectations about how much you can help. It will be far more satisfying to deeply impact 1000 people than to superficially impact 10,000, and as a side benefit it's significantly easier to connect and build trust with 1000 than 10,000.
+* Finally, cultivate a vision that is relevant to those you seek to serve—one that is grounded in their needs or desires, not yours. If following this maxim leads you to an overly ambitious, unrealistic vision, go more narrow on who it is you want to serve before you lower your expectations about how much you can help them. In fact, avoid at all cost lowering your expectations about how much you can help. It will be far more satisfying to deeply impact 1000 people than to superficially impact 10,000, and as a side benefit it's significantly easier to earn visibility and trust from 1000 than 10,000.
 
 Finally, notice that I'm most often talking about your vision effecting *people*. Now in reality, your vision needs to be relevant to *people who have the ability to pay you for delivering services that are profitable for you to deliver*. So I definitely mean for you to cultivate a vision that draws revenue, profit, and business opportunity towards you. 
 
@@ -172,17 +174,17 @@ Notice that as you ascend this scale of insight, what changes is that you unders
 
 The second market-first method you might use for cultivating a vision is to interact with your leads, specifically with an email list of leads.
 
-Email marketing -- even done very simply by broadcasting to a non-automated, unsegmented list of leads -- has a unique power because it combines scale and intimacy.[^My friend and colleague Jonathan Stark first pointed out this unique property of email marketing to me.] 
+Email marketing -- even done very simply by broadcasting to a non-automated, unsegmented list of leads -- has a unique power because it combines scale and intimacy.[^My friend and colleague Jonathan Stark first pointed out this unique property of email marketing to me. Thanks, Jonathan!] 
 
 You can easily reach thousands of people with a single email, but that scalable communication converts instantly into what is often a very private, intimate conversation as soon as a list member replies to an email from you.
 
-This offers you the ability to gain valuable insight about your leads directly from your leads. How? Again, you ask them. Or, you persistently and gently *provoke them*, and the provocation leads to conversation. 
+This offers you the ability to gain valuable insight about your leads directly from your leads. How? Again, you ask them. Or, you can persistently and gently *provoke them*, and the provocation leads to conversation. 
 
 You provoke them with a vision of what's possible for their business. You provoke them by reminding them of the pain they're living with but have the power to change. And finally, you provoke them by being persistently focused on these things, but approaching them from a stimulating, engaging variety of perspectives using a variety of content forms (teaching, humor, inspiring stories, unexpected associations, etc.).
 
 Over time, a pretty high resolution picture of what your market needs, desires, fears, hates, and loves emerges from this kind of intentional interaction with a list of email leads. And with this picture in view, you are better able to formulate a generous, relevant vision for how your expertise could benefit your list of leads. And again, that vision helps you along the sometimes difficult journey towards cultivating real expertise.
 
-# A Method
+# Ally 3: A Method
 
 Focus and vision are important, but by themselves they are not enough to allow you to cultivate valuable expertise. You also need a *method* for cultivating that expertise.
 
@@ -202,7 +204,7 @@ Seeking ambitious client work might involve _temporarily_ taking on projects tha
 
 ## The Strategic Value Of Client Work
 
-Businesses are often money-making enterprises. This generally encourages a short-term orientation in our decision making.
+Businesses like ours are often money-making enterprises. This generally encourages a short-term orientation in our decision making.
 
 Strategy, however, is the relationship between decisions you make *now* and possibilities those decision bring within reach *later*. There is a real -- but often unclear -- relationship between the decisions about now and the future possibilities those now-focused decisions unlock.
 
@@ -216,15 +218,15 @@ If you decide to do something because doing that thing might create value in the
 
 **First, you have taken a risk.** Your decision might not work out the way you thought! That future value might not materialize. Those future better options might not become available to you. Or they might! 
 
-That's the nature of risk-taking. You are less than 100% certain about the cost and benefit of doing a thing. You can't guarantee a particular outcome. This comes with the territory of risk-taking. But smart risk-taking can be a very profitable activity, as many wealthy people will tell you.
+That's the nature of risk-taking. You are less than 100% certain about the cost and benefit of doing a thing. You can't guarantee a particular outcome. This all comes with the territory of risk-taking. But smart risk-taking can be a very profitable activity, as many wealthy people will tell you.
 
 **Second, you have made a _strategic_ decision.** You have made a specific choice to do something *now* because of the _future benefit_ of that decision.
 
-When I'm working with coaching clients, I often ask them: "What is the strategic value of this opportunity?"
+When I'm working with clients, I often ask them: "What is the strategic value of this opportunity?"
 
 When I ask this question, I'm asking them to focus on _what this opportunity might lead to_, or _what future value they might create_ by saying "yes" to this opportunity.
 
-If the opportunity is client work that is likely to be very profitable _and_  might lead to desirable future opportunities or significant future value (beyond just the revenue from the engagement), then it's an easy decision. This is a "have your cake and eat it too" opportunity. These are wonderful, but earlier in our careers, few of us get these kinds of opportunities.
+If the opportunity is client work that is likely to be very profitable _and_  might lead to desirable future opportunities or significant future value (beyond just the revenue from the engagement), then it's an easy decision. This is a "have your cake and eat it too" opportunity. These are wonderful, but earlier in our careers, few of us regularly get these kinds of opportunities.
 
 Instead, when you're earlier in your career or trying to transition from implementation to advice work, you're more often getting opportunities that are comprised in some way. They might meet short-term revenue needs but not offer any strategic value. Or they might offer strategic value but generate only very modest immediate revenue.
 
@@ -250,7 +252,7 @@ It could be access to a certain type of decision-maker or buyer. Maybe you've ne
 
 It could be access to a market. Your first project in a desirable market you've never worked in before could help you learn the landscape of that market. Who are the players? What are the watering holes? Which conferences are the must-attend events?
 
-Again, access is not a binary all-or-nothing thing. It's the result of building multiple connections, or a network of connections. So one single strategically valuable project is unlikely to transform your access to a market or type of buyer from zero-to-amazing overnight.
+Again, access is not a binary all-or-nothing thing. It's the result of building multiple connections, or a network of connections. One single strategically valuable project is unlikely to transform your access to a market or type of buyer from zero-to-amazing overnight.
 
 Even so, multiple carefully-chosen strategically valuable projects can pay significant  dividends in terms of both credibility and access.
 
@@ -266,8 +268,8 @@ It's not that you'll stop learning, but you'll stop having to discount your fees
 
 Another form the strategic value of certain opportunities can take is on the job learning. Some examples I've seen in my clients:
 
-* A coaching client was a very good PHP developer. He'd tired of doing dev work and wanted to use what he'd learned about process, workflow, and quality to help other dev teams level up. He proposed doing this for a previous client. They balked at the price, he circled back later with some scope changes and a modestly lower price and a realization that the experience would give him credibility and on-the-job learning that he could use later down the line to justify higher prices.
-* Another coaching client helps companies gain competitive advantage from open source practices. He has experience and access to the tech world, but wants to apply his expertise to the Fortune 500 world. This will involve on-the-job learning. Not so much in his area of expertise, but in _how to apply_ that expertise in a different business environment (tech vs. F500). He will manage the risk of this on-the-job learning with initial fee discounts, carefully managed scope, or a combination of the two. While he may leave money on the table now, with future clients he will be in a stronger position to charge super-premium fees.
+- A client was a very good PHP developer. He'd tired of doing dev work and wanted to use what he'd learned about process, workflow, and quality to help other dev teams level up. He proposed doing this for a previous client. They balked at the price, he circled back later with some scope changes and a modestly lower price and a realization that the experience would give him credibility and on-the-job learning that he could use later down the line to justify higher prices.
+- Another client helps companies gain competitive advantage from open source practices. He has experience and access to the tech world, but wants to apply his expertise to the Fortune 500 world. This will involve on-the-job learning. Not so much in his area of expertise, but in _how to apply_ that expertise in a different business environment (tech vs. F500). He will manage the risk of this on-the-job learning with initial fee discounts, carefully managed scope, or a combination of the two. While he may leave money on the table now, with future clients he will be in a stronger position to charge super-premium fees.
 
 **Proving a concept:** Related to on-the-job learning, you may have opportunities to prove a concept, and this can have strategic value to your business. With on-the-job learning, you are often applying existing expertise in an environment that's new to you. When proving a concept, you are experimenting with an un-tested concept with a client. Obviously, you do this with their full knowledge and permission, and they choose to accept the risk because of the potential upside.
 
@@ -277,7 +279,7 @@ Proving a concept is innovation. It's pretty well established that the cost and 
 
 **Going Upmarket:** Going upmarket may mean working with a new segment of your existing market, or it may mean seeking a new but more desirable market for your services. Either way, your lack of credibility in the new, more desirable market may mean that you say yes to work under terms you would normally reject. This can be strategically valuable because you can gain credibility and access you might otherwise not.
 
-**Sawdust:** Finally, we have the concept of "sawdust".[^I reluctantly confess I first heard about "sawdust" form Gary Vaynerchuk.] The idea is that your paid work may produce "by-products" that are useful in your marketing. These by-products can be thought of as the sawdust in a woodshop. A factory can convert sawdust into secondary products like medium density fiberboard.
+**Sawdust:** Finally, we have the concept of "sawdust".[^I first heard about "sawdust" from Gary Vaynerchuk.] The idea is that your paid work may produce "by-products" that are useful in your marketing. These by-products can be thought of as the sawdust in a woodshop. A factory can convert sawdust into secondary products like medium density fiberboard.
 
 You might take on work that is not all that attractive or lucrative on its face but offers you strategically valuable sawdust you can use in your marketing or elsewhere in your business.
 
@@ -291,15 +293,15 @@ So... you build the curriculum yourself out of strategically valuable opportunit
 
 Even if you completely agree with my suggestion that you seek ambitious client work and think more broadly about what kind of projects might have long-term expertise-building value for you, the blocker tends to be actually finding that more ambitious client work. It's not enough just to want it, you have to connect and earn trust from the clients who can hire you to do that work!
 
-##Finding Ambitious Client Work
+## Finding Ambitious Client Work
 
 Here's a framework for finding more ambitious client work:
 
 **1) Pick a specific vector of improvement**: start with your existing skill advantage and add the "spice" of lower risk, greater reliability, greater or faster ROI, greater effectiveness, etc. What would that combination look like? Be both ambitious and careful. 
 
-Probably stick to one primary vector of improvement. "What would a smartphone app with only 4 and 5-star reviews look like?" "What would a marketing campaign that paid for itself in 2 months look like?" "What would a web app that increased your Net Promoter Score in 6 months look like?" This is the dream you are selling.
+Probably stick to one primary vector of improvement. "What would a smartphone app with only 4 and 5-star reviews look like?" "What would a marketing campaign that paid for itself in 2 months look like?" "What would a web app that increased your measured customer satisfaction in 6 months look like?" This is the dream you are selling.
 
-**2) Sketch out a plan of attack**: If there were no budget constraints, how would you pursue this vector of improvement? If you had access to all the world's skill and expertise, how would you pursue this improvement? Dream big, but temper your dreaming with a bit of realism. 
+**2) Sketch out a plan of attack**: If there were no budget constraints, how would you pursue this vector of improvement? If you had access to all the world's skill and expertise, how would you pursue this improvement? Dream big, but temper your dreaming with realism. 
 
 Even with unlimited money and expertise resources, things will go wrong. How will you plan for these inevitable failure points? A contingency plan is part of this kind of dreaming big.
 
@@ -317,7 +319,7 @@ There's no guaranteed way to find more ambitious client work, but the framework 
 
 ## Self-Directed Research
 
-Self-directed research is the second practical method for finding more ambitious client work. Well, not self-directed research *alone* (although I've witnessed at least one example of a client of mine merely *announcing* their research plan on LinkedIn and seeing that generate interest among clients). But self directed research *combined with sharing what you find with the right audience* is a practical method for finding more ambitious client work.
+Self-directed research is the second practical method for finding more ambitious client work. Well, not self-directed research *alone* (although I've witnessed at least one example of a client of mine merely *announcing* their research plan on LinkedIn and seeing that generate interest among clients). Self directed research *combined with sharing what you find with the right audience* is a practical method for finding more ambitious client work.
 
 If you're anything like most software developers, you've done tons of self-directed research. It's simply been focused on acquiring new skills, or alternately, figuring out why something in the fast-changing world of software doesn't work the way it's supposed to. What if you expanded that well-honed ability to do research and directed some of it at climbing the ladder of expertise? What might that look like?
 
@@ -348,20 +350,19 @@ As you consider how you might use research to find more ambitious client work, y
 1. As I climb the ladder of expertise, I'll interact with buyers who are higher up the org chart. What do these buyers care about? What worries them? What would address those cares and worries?
 2. If my goal is to demonstrate my ability to deliver a reliable, effective solution to their needs and concerns, what gift of organized, useful information or data-based insight could I give these buyers? What would lead them to say "Wow, if this person did *this*, they must be a really good option for helping us build a solution to that same problem!"
 
-
 This kind of research can benefit your business, and it can benefit you. What you learn, and the mental and human connections you build by doing this kind of research can be very valuable. The disciplined objectivity that you cultivate from doing research can also be very personally beneficial.
 
 A final note on research. As mine used to be, your mental picture of research is probably heavily influenced by science and academia. While peer-reviewed, statistically valid research is the baseline in those fields, you do *not* need to live up to the same standard in order to create value for yourself and your prospective clients.
 
 The book that changed my thinking about all of this is titled _How to Measure Anything_, by Douglas Hubbard. I'll summarize a few of the key point below, and if those pique your interest then do give Douglas' book a read. It will give you a much more useful view of how research and measurement work in the world of business.
 
-* **Measurement reduces uncertainty**: This definition of measurement makes it possible to view the whole idea of measurement differently because instead of trying to achieve an artificially high level of precision, you are simply looking at measurement as a way to reduce uncertainty. This allows us to think of many many things that we might have previously considered to be beyond measurement as phenomenon that we can measure. 
+* **Measurement reduces uncertainty**: This definition of measurement makes it possible to view the whole idea of measurement differently because instead of trying to achieve an artificially (perhaps also impossibly) high level of precision, you are simply looking at measurement as a way to reduce uncertainty. This allows us to think of many many things that we might have previously considered to be beyond measurement as phenomenon that we can measure. 
 * **The rule of five**: There is a 93.75% chance that the median of a population is between the smallest and largest values in any random sample of five from that population. Takeaway: it's a lot easier than you think to achieve useful confidence in a measurement.
 * **Single Sample Majority Rule** (i.e., The Urn of Mystery Rule): Given maximum uncertainty about a population proportion— such that you believe the proportion could be anything between 0% and 100% with all values being equally likely— there is a 75% chance that a single randomly selected sample is from the majority of the population. 
 * One way to underestimate the amount of available data is to assume that only direct answers to our questions are useful. Takeaway: proxy measurements can be very useful.
 * Mathematically speaking, when you know almost nothing, almost anything will tell you something.
 * The first few observations are usually the highest payback in uncertainty reduction for a given amount of effort.
-* Don’t assume that the only way to reduce your uncertainty is to use an impractically sophisticated method. Are you trying to get published in a peer-reviewed journal, or are you just trying to reduce your uncertainty about a real-life business decision? (Hint: it’s the latter :) )
+* Don’t assume that the only way to reduce your uncertainty is to use an impractically sophisticated method. Are you trying to get published in a peer-reviewed journal, or are you just trying to reduce your uncertainty about a real-life business decision? (Hint: it’s the latter,)
 * Prior to making a measurement, we need to answer the following: 
 	* What is the decision this measurement is supposed to support? 
 	* What is the definition of the thing being measured in terms of observable consequences and how, exactly, does this thing matter to the decision being asked (i.e., how do we compute outcomes based on the value of this variable)? 
@@ -369,11 +370,11 @@ The book that changed my thinking about all of this is titled _How to Measure An
 	* How does uncertainty about this variable create risk for the decision (e.g., is there a “threshold” value above which one action is preferred and below which another is preferred)? 
 	* What is the value of additional information?
 
-Again, the list above is my summary of some of the key points in Douglas Hubbard's book, _How to Measure Anything_. I hope this gives you a new, more accessible idea about research. Statistical validity and big sample sizes are good things, but if you know literally nothing about a consequential matter, then *any data*, even if it's not statistically valid or comes from only a few observations, is potentially useful. Direct, exact measurements are a good thing, but if you know literally nothing about a consequential matter, then imprecise measurements, or finding proxies for the thing you want to measure are both potentially useful. Overall, your goal is not 100% certainty, it's *reduced uncertainty*.
+Again, the list above is my summary of some of the key points in Douglas Hubbard's book, _How to Measure Anything_. I hope this gives you a new, more accessible view of research. Statistical validity and big sample sizes are good things, but if you know literally nothing about a consequential matter, then *any data*, even if it's not statistically valid or comes from only a few observations, is potentially useful. Direct, exact measurements are a good thing, but if you know literally nothing about a consequential matter, then imprecise measurements, or finding proxies for the thing you want to measure are both potentially useful. Overall, your goal is not 100% certainty, it's *reduced uncertainty*.
 
 Think of any research you do as a way to help clients reduce uncertainty in their decision making. Sometimes you'll need a lot of very carefully-collected and analyzed data for this, but often you won't. Surprisingly small, modest efforts to collect and interpret data can lead to surprisingly large, impressive improvements in decision making.
 
-# An Accelerant
+# Ally 4: An Accelerant
 
 Cultivating vegetables in a garden may benefit from fertilizer or soil amendments. Likewise, your project of cultivating exceptionally valuable expertise benefits from an accelerant of some sort. Ambitious client work and research are your methods and even without an accelerant they can work, but what if you want to speed things up? What else might serve as an accelerant?
 
@@ -389,7 +390,7 @@ Like sulfur, charcoal, and potassium nitrate become gunpowder when combined, the
 
 ## 1) BuildA Relevant Audience
 
-The purpose of building an audience is to get you out of your own head and into conversation with people who could benefit from your self-made expertise. You can think of expertise as applied skill, and the place where the application ultimately matters is on a client project. But, regular interaction with potential clients is also an opportunity to cultivate expertise. It's not as real as a client project, but it's far more real than thinking through things in isolation.
+The purpose of building an audience is to get you out of your own head and into conversation with people who could benefit from your self-made expertise. You can think of expertise as applied skill, and the place where the application ultimately matters is on a client project. However, regular interaction with potential clients is also an opportunity to cultivate expertise. It's not as real as a client project, but it's far more real than thinking through things in isolation.
 
 The most effective way to interact with this kind of audience is through email, so I strongly suggest this audience be built as an email list. It does not have to be a large email list. I'd gladly trade a highly engaged email list of 50 people for 5,000 who mostly ignore what I publish. 
 
@@ -417,13 +418,13 @@ If you're a musician, private practice is important, but if you can't *emotional
 
 The final ingredient of my suggested accelerator is to publish to your audience at high frequency, at least for the first few years after you've gotten serious about cultivating expertise. High frequency publication is when you publish at least 3 times per week, every week. Having done this myself since January 2016, I can tell you the easiest version is to publish something every day that you work. So if you work a typical 5-day week, then publish 5 times per week. 
 
-Before I started daily publication, I was lucky to publish something twice per month, and it was a struggle. The first 90 days of publishing daily were brutally hard for me, and then it got easier. After about a year of publishing daily, I found it dramatically easier to publish something worth reading *daily* than I did to publish something worth reading *twice per month*. Daily habits are simply easier to execute on after they're in place.
+Before I started daily publication, I was lucky to publish something twice per month, and it was a struggle. The first 90 days of publishing daily were brutally hard for me, and then it got easier. After about a year of publishing daily, I found it dramatically easier to publish something worth reading *daily* than I did to publish something worth reading *once per month*. Daily habits are simply easier to execute on after they're in place.
 
 Publishing at high frequency simply offers you more opportunities to work on cultivating self-made expertise. This means that you will more quickly exhaust what you think you know about your area of expertise, and when you reach this limit, you'll face a small crisis of confidence. "Is this all I have to say about this topic?". 
 
-If you persist instead of retreating or giving up, this crisis can lead you to look closer, dig deeper, and cultivate new expertise to share with your audience. You'll realize the limit you reached was a self-imposed limit, and the true boundaries of your expertise are much further away than you thought. 
+If you persist instead of retreating or giving up, this crisis can lead you to look closer, dig deeper, and cultivate new expertise to share with your audience. You'll realize the limit you reached was a self-imposed limit, and the true boundaries of your expertise are much more expansive than you thought. 
 
-What creates this crisis-breakthrough dynamic is an unwavering commitment to publishing daily. If you promise to yourself and your audience that you will show up in their inbox in a way that creates value for them at least 3 days per week every week and if your intention also is to help them by cultivating expertise, then you *will* become the self-made expert they need. And you will do so faster than you thought possible. Not overnight, but much faster than you would have thought.
+What creates this crisis-breakthrough dynamic is an unwavering commitment to publishing daily. If you promise to yourself and your audience that you will show up in their inbox in a way that creates value for them at least 3 days per week every week and if your intention also is to help them by cultivating your expertise, then you *will* become the self-made expert they need. And you will do so faster than you thought possible. Not overnight, but much faster than you would have thought.
 
 Publishing at high frequency does some interesting things in the minds of your audience too. It portrays you as someone with a well of expertise so deep that you just can't help but share it generously and frequently. There's so much of it that you _simply must_ share it often. For subscribers that enjoy your email list, your regular publishing creates an addictive relationship with you. They look forward to hearing from you and are disappointed if they don't hear from you when expected.
 
@@ -439,33 +440,39 @@ The best scrap of evidence I have about this is an email (shared with permission
 
 Let me say this one more time: my proposed accelerant is unusual and audacious. It will make almost anyone who tries it uncomfortable. I'd bet that nothing you were taught in your formal schooling will prepare you for it, and it will push even the strongest of personalities to -- and past -- some sort of self-imposed limit. It is a potent accelerator for self-made expertise, and that's exactly why I want you to consider embracing it.
 
-# Resilience
+To conclude the recipe for this accelerant, I'll answer one very common question: what if I don't have an audience? How can this daily publication thing still work?
+
+The answer: do it anyway, and as you're publishing daily also use the content you're publishing to attract an audience. Syndicate the content on places like LinkedIn or Medium or really, anywhere you can get it in front of the larger audience you'd like to draw your audience from.
+
+Putting so much work into publishing for a non-existent audience certainly is discouraging. Do it anyway. The benefits that accrue to you are worth it, and the insightful content you publish will end up attracting an audience at some point.
+
+# Ally 5: Resilience
 
 I can keep this part pretty short, so I will.
 
-The reason there are relatively few self-made experts who are killing it in business is because there are *so many easier ways to make a decent living*. There are less risky ways. There are ways where you don't have to generate demand for your services; someone else does that part for you. There are ways where you don't have to figure out how to spend your time; someone else does that part for you. And there are ways where you don't have to take responsibility for the outcomes; someone else does that part for you. 
+The reason there are relatively few self-made experts who are killing it in business is because there are *so many easier ways to make a decent living*. There are less risky ways. There are ways where you don't have to generate demand for your services; someone else does that part for you. There are ways where you don't have to figure out how to spend your time effectively; someone else does that part for you. And there are ways where you don't have to take responsibility for the outcomes; someone else does that part for you. 
 
-We call these ways of making a ecent living a job, and especially for developers willing to invest heavily in new skills every 3 to 5 years, there are lots of jobs out there that pay pretty well. This is, in the back of most of your minds, the "plan b".
+We call these ways of making a decent living jobs, and especially for developers willing to invest heavily in new skills every 3 to 5 years, there are lots of jobs out there that pay pretty well. This is, in the back of most of your minds, the "plan b".
 
-In fact, the "plan b" is often this: "I can just get up to speed on whatever language or framework is hot right now and get a job that pays in the 87th percentile." And it's true! If you are a reasonably good, reasonably skilled software developer in the US, you have been able turn your interest (probably self-cultivated) and skills (probably mostly self-taught) into an income that puts you in the upper 80% percentile of Americans. According to Glassdoor.com at the time of this writing, the average software engineer salary in the US is an 87th percentile income. That means that out of 100 Americans, only roughly 13 are likely to earn more than you do.[^Some of those 13 earn a _lot more_ than you do, but still, the 86 below you earn a lot less.]
+In fact, the "plan b" is often this: "I can just get up to speed on whatever language or framework is hot right now and get a job that pays in the 87th percentile." And it's true! If you are a reasonably good, reasonably skilled software developer in the US, you have been able turn your interest (probably self-cultivated) and skills (probably mostly self-taught) into an income that puts you in the upper 80% percentile of Americans. According to Glassdoor.com at the time of this writing, the average software engineer salary in the US is an 87th percentile income. That means that out of 100 Americans, only roughly 13 are likely to earn more than you do.[^Some of those 13 earn exponentially more than you do, but still, the 86 below you earn a lot less.]
 
 You earn this enviable salary with less formal training, certification, or licensing than is required of a dental hygienist (73rd percentile) or massage therapist (48th percentile).
 
-A "plan b" like this means your "plan a" of self-employment better be pretty compelling. But sometimes it's difficult. It requires more investment than most jobs do. It requires patience. Business setbacks can effect you more severely than they would an FTE.
+A "plan b" like this means your "plan a" of self-employment better be pretty compelling. But sometimes plan a is difficult. It requires more investment than most jobs do. It requires patience. Business setbacks can effect you more severely than they would someone with a job.
 
-So if your plan a is to cultivate self-made expertise, you'll need resilience to avoid the tempting siren call of your plan b.
+If your plan a is to cultivate self-made expertise, you'll need resilience to avoid the tempting siren call of your plan b.
 
 The world *needs* your self-made expertise, but there's no reserved seat at this table with your name on it. You have to create that for yourself by applying imagination, focus, discipline, and sustained effort over multiple years. And the best thing you can add into the mix in order to get there is *resilience*.
 
-# Flexibility
+# Ally 6: Flexibility
 
 Earlier I said: Expertise naturally seeks Venn Diagram overlaps between impact and risk. In other words, _experts_ feel the gravitation pull of this place on the venn diagram, and they deploy their curiosity and energy in this direction. Alternately, maybe they just follow their muse and the market rewards those that focus on these kinds of venn diagram overlaps and ignores those that don't [^This would be a survivorship bias explanation].
 
 To follow the gravitational pull of impact and risk, you'll need to be flexible, because your initial decision about how to specialize may need to be updated as you move up the ladder of expertise. As you do this, you're following the "scent" of value.
 
-There's something about the combination of medium to high risk and potential impact that makes problems that are valuable to solve. If the risk is low, then businesses tend to be more comfortable with commoditized solutions, or handling it internally, or some other non-expert solution. And if the potential impact is low, then business definitely exhibit price-sensitive behavior as they seek a solution.
+There's something about the combination of medium to high risk and potential impact that creates problems that are valuable to solve. If the risk is low, then businesses tend to be more comfortable with commoditized solutions, or handling it internally, or some other non-expert solution. And if the potential impact is low, then business definitely exhibit price-sensitive behavior as they seek a solution.
 
-But when the risk of creating a solution is high but the impact of a potential solution is also high, then businesses seek and readily pay for expert-level help. Not always, of course. In almost any market there will be a segment of highly price-sensitive or poorly educated buyers, where their psychology or ignorance overrides their business sense and they don't respond normally to this combination of risk and reward. But in general, enough businesses seek expert solutions where they face problems where the solution would be impactful but the risk of creating a solution is rather high.
+But when the risk of creating a solution is high and the impact of a potential solution is also high, then businesses seek and readily pay for expert-level help. Not always, of course. In almost any market there will be a segment of highly price-sensitive or poorly educated buyers, where their psychology or ignorance overrides their business sense and they don't respond normally to this combination of risk and reward. But in general, enough businesses seek expert solutions where they face problems where the solution would be impactful but the risk of creating a solution is rather high.
 
 And so if your initial thesis about how to specialize is not ideally aligned with a venn diagram overlap between risk and impact, then as you climb the ladder of expertise, you'll tweak it so that it is. This may involve varying levels of change in your focus and message. 
 
@@ -473,7 +480,7 @@ I can't promise that change will be easy, but it will be easier than the initial
 
 # Chapter Summary
 
-This chapter was a long one, but the topic is so close to my heart, and I've done so much experimentation in this area that I couldn't hold back in sharing what I've learned. There's too much here to summarize point by point, so I'll leave you with this.
+This chapter was a long one, but the topic is so close to my heart, and I've done so much experimentation and research in this area that I couldn't hold back in sharing what I've learned. There's too much here to summarize point by point, so I'll leave you with this.
 
 There's no seat at the "League of Experts" table for you. You have to create that seat for yourself, and as you do so, don't be timid. Don't follow convention.
 
